@@ -19,6 +19,11 @@ Khmer text is difficult for standard OCR tools to recognize accurately, particul
 
 This approach prioritizes correctness and clarity over full automation.
 
+TODO:
+- Consider using google cloud vision to get all text at once
+- Then do a cleanup manually by adding markdown style to the document, and compare any incorrect text to the original pdf
+(Do it side by side)
+
 ## Goal
 The goal of this project is to build a complete and structured dataset containing all Cambodian laws in Markdown format.
 
