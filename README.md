@@ -23,6 +23,13 @@ TODO:
 - Consider using google cloud vision to get all text at once
 - Then do a cleanup manually by adding markdown style to the document, and compare any incorrect text to the original pdf
 (Do it side by side)
+- Add a program that convert a pdf, to a list of image, the feed into google cloud vision, then
+extract all the text into raw-output.txt
+- Create a dir containing:
+  - original.pdf
+  - raw-output.txt
+  - cleanup.md
+- Do raw output for as many documents as possible, then propose community help to do the cleanup.md
 
 ## Goal
 The goal of this project is to build a complete and structured dataset containing all Cambodian laws in Markdown format.
