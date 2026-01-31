@@ -1,3 +1,0 @@
-- given the clean MD that we have
-- create a parser that parse this clean md into sql statement for tag db system
-- design tag db system

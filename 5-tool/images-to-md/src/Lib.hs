@@ -9,7 +9,8 @@
 {-# LANGUAGE OverloadedRecordDot #-}
 
 module Lib
-    ( runApp
+    ( run
+    , Options(..)
     ) where
 
 import Effectful
@@ -32,6 +33,13 @@ import Gogol.Vision.Types
 import Gogol.Vision.Images.Annotate
 import System.IO (hFlush, stdout)
 
+data Options = Options
+  { inputDir  :: FilePath
+  , outputDir :: FilePath
+  , apiKeyPath :: FilePath
+  , fileLimit :: Maybe Int
+  }
+
 -- | Effect for Vision API
 data Vision :: Effect where
   ExtractText :: FilePath -> Vision m T.Text
@@ -40,15 +48,15 @@ type instance DispatchOf Vision = Dynamic
 
 -- | Run Vision effect using Gogol
 runVision :: (IOE :> es) => FilePath -> Eff (Vision : es) a -> Eff es a
-runVision creds m = do
-    -- If creds file provided, set env var (Gogol checks this)
-    -- If creds file provided, set env var (Gogol checks this)
-    liftIO $ putStrLn $ "Loading credentials from: " ++ creds
-    exists <- liftIO $ doesFileExist creds
+runVision apiKeyPath m = do
+    -- If apiKeyPath file provided, set env var (Gogol checks this)
+    -- If apiKeyPath file provided, set env var (Gogol checks this)
+    liftIO $ putStrLn $ "Loading credentials from: " ++ apiKeyPath
+    exists <- liftIO $ doesFileExist apiKeyPath
     if not exists
-        then error $ "Credentials file not found at: " ++ creds
+        then error $ "Credentials file not found at: " ++ apiKeyPath
         else do
-            absPath <- liftIO $ makeAbsolute creds
+            absPath <- liftIO $ makeAbsolute apiKeyPath
             liftIO $ setEnv "GOOGLE_APPLICATION_CREDENTIALS" absPath
 
     -- Create env
@@ -102,14 +110,14 @@ runVision creds m = do
             _ -> return ""
 
 -- | Main Application Logic
-runApp :: FilePath -> FilePath -> FilePath -> Maybe Int -> IO ()
-runApp inputDir outputDir creds mLimit = runEff . runVision creds $ do
+run :: Options -> IO ()
+run Options{..} = runEff . runVision apiKeyPath $ do
     liftIO $ createDirectoryIfMissing True outputDir
     files <- liftIO $ listDirectory inputDir
     let imageExtensions = [".jpg", ".jpeg", ".png", ".bmp", ".webp"]
     let allImageFiles = sort $ filter (\f -> takeExtension f `elem` imageExtensions) files
     
-    let imageFiles = case mLimit of
+    let imageFiles = case fileLimit of
             Just n -> take n allImageFiles
             Nothing -> allImageFiles
     

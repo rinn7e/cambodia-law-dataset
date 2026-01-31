@@ -8,7 +8,7 @@
 {-# LANGUAGE TypeOperators #-}
 
 module Lib
-  ( runDataConversion
+  ( run
   , ImageFormat(..)
   , PdfConverterOptions(..)
   ) where
@@ -82,8 +82,8 @@ data PdfConverterOptions = PdfConverterOptions
   } deriving (Show, Eq)
 
 -- | Main entry point for the library logic
-runDataConversion :: PdfConverterOptions -> IO ()
-runDataConversion opts = runEff $ do
+run :: PdfConverterOptions -> IO ()
+run opts = runEff $ do
   -- We need FileSystem to create directories and IOE to run processes
   runFileSystem $ convertPdf opts
 

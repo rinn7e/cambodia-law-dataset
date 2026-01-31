@@ -53,9 +53,11 @@ optionsParser = PdfConverterOptions
 
 -- | Run the CLI
 main :: IO ()
-main = runDataConversion =<< execParser opts
+main = do
+  options <- execParser optsWithHelp
+  run options
   where
-    opts = info (optionsParser <**> helper)
+    optsWithHelp = info (optionsParser <**> helper)
       ( fullDesc
      <> progDesc "Convert a PDF file into a list of images using pdftoppm"
      <> header "pdf-to-images - A PDF to Image converter in Haskell"

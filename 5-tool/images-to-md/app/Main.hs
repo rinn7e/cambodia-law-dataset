@@ -4,12 +4,6 @@ import Lib
 import Options.Applicative
 import Data.Semigroup ((<>))
 
-data Options = Options
-  { inputDir  :: FilePath
-  , outputDir :: FilePath
-  , apiKeyPath :: FilePath
-  , fileLimit :: Maybe Int
-  }
 
 opts :: Parser Options
 opts = Options
@@ -37,7 +31,7 @@ opts = Options
 main :: IO ()
 main = do
   options <- execParser optsWithHelp
-  runApp (inputDir options) (outputDir options) (apiKeyPath options) (fileLimit options)
+  run options
   where
     optsWithHelp = info (opts <**> helper)
       ( fullDesc
