@@ -1,0 +1,25 @@
+
+# Stack
+.stack-work/
+stack.yaml.lock
+
+# Cabal
+dist/
+dist-newstyle/
+*.cabal
+
+# GHC
+*.o
+*.hi
+*.hie
+*.chi
+*.chs.h
+
+# Output
+output/
+test_output/
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.ppm

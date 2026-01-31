@@ -1,0 +1,10 @@
+.stack-work/
+core
+*.hi
+*.o
+*.cabal
+*.sqlite
+*.tar.gz
+*~
+*.swp
+output/
