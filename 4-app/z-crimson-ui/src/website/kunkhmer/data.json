@@ -1,0 +1,922 @@
+{
+  "common": {
+    "navbar": {
+      "brand": "KUN KHMER",
+      "links": [
+        {
+          "label": "Matches",
+          "href": "/website/kunkhmer"
+        },
+        {
+          "label": "Athletes",
+          "href": "/website/kunkhmer#athletes"
+        }
+      ]
+    },
+    "footer": {
+      "about": {
+        "title": "About Kun Khmer",
+        "text": "The ancient martial art of Cambodia. Strength, discipline, and honor."
+      },
+      "links": {
+        "title": "Community",
+        "items": [
+          {
+            "label": "Facebook",
+            "href": "#"
+          },
+          {
+            "label": "YouTube",
+            "href": "#"
+          },
+          {
+            "label": "← Back to UI",
+            "href": "/"
+          }
+        ]
+      },
+      "copyright": "© 2026 Kun Khmer Federation."
+    }
+  },
+  "index": {
+    "hero": {
+      "title": "FIGHT NIGHT: PREAH KO VS HANUMAN",
+      "subtitle": "The biggest event of the year. Live from Phnom Penh Olympic Stadium."
+    },
+    "featuredMatchId": "1"
+  },
+  "athletes": {
+    "1": {
+      "id": "1",
+      "name": "Dara Vanna",
+      "nickname": "The Legend",
+      "stats": {
+        "height": "1.62885250113921m",
+        "weight": "77kg",
+        "reach": "1.7269684526650808m",
+        "wins": 98,
+        "losses": 19,
+        "draws": 4,
+        "ko": 2
+      }
+    },
+    "2": {
+      "id": "2",
+      "name": "Rin Buna",
+      "nickname": "The Cobra",
+      "stats": {
+        "height": "1.743456403032654m",
+        "weight": "51kg",
+        "reach": "1.6038688107740762m",
+        "wins": 35,
+        "losses": 4,
+        "draws": 0,
+        "ko": 30
+      }
+    },
+    "3": {
+      "id": "3",
+      "name": "Sok Chhay",
+      "nickname": "The Eagle",
+      "stats": {
+        "height": "1.630810662685244m",
+        "weight": "66kg",
+        "reach": "1.7839491738129658m",
+        "wins": 77,
+        "losses": 6,
+        "draws": 3,
+        "ko": 24
+      }
+    },
+    "4": {
+      "id": "4",
+      "name": "Chan Sey",
+      "nickname": "The Legend",
+      "stats": {
+        "height": "1.6867083874149884m",
+        "weight": "70kg",
+        "reach": "1.6392569590261268m",
+        "wins": 70,
+        "losses": 16,
+        "draws": 6,
+        "ko": 21
+      }
+    },
+    "5": {
+      "id": "5",
+      "name": "Sam Theara",
+      "nickname": "The Killer",
+      "stats": {
+        "height": "1.7485646885243895m",
+        "weight": "64kg",
+        "reach": "1.7346170395404632m",
+        "wins": 47,
+        "losses": 5,
+        "draws": 6,
+        "ko": 27
+      }
+    },
+    "6": {
+      "id": "6",
+      "name": "Rin Buna",
+      "nickname": "The Axe",
+      "stats": {
+        "height": "1.6041185265500695m",
+        "weight": "58kg",
+        "reach": "1.658529926968256m",
+        "wins": 63,
+        "losses": 11,
+        "draws": 0,
+        "ko": 3
+      }
+    },
+    "7": {
+      "id": "7",
+      "name": "Chea Reach",
+      "nickname": "The Cobra",
+      "stats": {
+        "height": "1.6989122656532727m",
+        "weight": "55kg",
+        "reach": "1.8106638298479751m",
+        "wins": 55,
+        "losses": 6,
+        "draws": 6,
+        "ko": 49
+      }
+    },
+    "8": {
+      "id": "8",
+      "name": "Chan Saman",
+      "nickname": "The Ghost",
+      "stats": {
+        "height": "1.7829036749689953m",
+        "weight": "78kg",
+        "reach": "1.6815221752584333m",
+        "wins": 13,
+        "losses": 7,
+        "draws": 8,
+        "ko": 43
+      }
+    },
+    "9": {
+      "id": "9",
+      "name": "Bora Rumchong",
+      "nickname": "The Warrior",
+      "stats": {
+        "height": "1.7460798834321791m",
+        "weight": "68kg",
+        "reach": "1.6199283378703295m",
+        "wins": 67,
+        "losses": 12,
+        "draws": 6,
+        "ko": 16
+      }
+    },
+    "10": {
+      "id": "10",
+      "name": "Bora Theara",
+      "nickname": "The Dragon",
+      "stats": {
+        "height": "1.7284579036894583m",
+        "weight": "53kg",
+        "reach": "1.6349474133166395m",
+        "wins": 26,
+        "losses": 8,
+        "draws": 2,
+        "ko": 39
+      }
+    },
+    "11": {
+      "id": "11",
+      "name": "Chan Dima",
+      "nickname": "The Dragon",
+      "stats": {
+        "height": "1.6987554181025404m",
+        "weight": "75kg",
+        "reach": "1.6333166272682944m",
+        "wins": 50,
+        "losses": 1,
+        "draws": 7,
+        "ko": 34
+      }
+    },
+    "12": {
+      "id": "12",
+      "name": "Ouch Dima",
+      "nickname": "The Cobra",
+      "stats": {
+        "height": "1.6636127142654273m",
+        "weight": "68kg",
+        "reach": "1.6941879056307874m",
+        "wins": 47,
+        "losses": 19,
+        "draws": 9,
+        "ko": 33
+      }
+    },
+    "13": {
+      "id": "13",
+      "name": "Chan Veasna",
+      "nickname": "The Legend",
+      "stats": {
+        "height": "1.6586010028067608m",
+        "weight": "75kg",
+        "reach": "1.8180815418090348m",
+        "wins": 50,
+        "losses": 6,
+        "draws": 6,
+        "ko": 47
+      }
+    },
+    "14": {
+      "id": "14",
+      "name": "Vireak Sey",
+      "nickname": "The Legend",
+      "stats": {
+        "height": "1.7005762988977073m",
+        "weight": "72kg",
+        "reach": "1.7226367432648904m",
+        "wins": 50,
+        "losses": 1,
+        "draws": 0,
+        "ko": 37
+      }
+    },
+    "15": {
+      "id": "15",
+      "name": "Sopheap Sophon",
+      "nickname": "The Axe",
+      "stats": {
+        "height": "1.6755630288622676m",
+        "weight": "71kg",
+        "reach": "1.7084726076713515m",
+        "wins": 73,
+        "losses": 0,
+        "draws": 6,
+        "ko": 29
+      }
+    },
+    "16": {
+      "id": "16",
+      "name": "Phal Pich",
+      "nickname": "The Dragon",
+      "stats": {
+        "height": "1.6587479074441347m",
+        "weight": "61kg",
+        "reach": "1.8330051951877697m",
+        "wins": 84,
+        "losses": 9,
+        "draws": 5,
+        "ko": 30
+      }
+    },
+    "17": {
+      "id": "17",
+      "name": "Chan Sovann",
+      "nickname": "The Tank",
+      "stats": {
+        "height": "1.726380846146254m",
+        "weight": "50kg",
+        "reach": "1.840889678244348m",
+        "wins": 55,
+        "losses": 18,
+        "draws": 2,
+        "ko": 44
+      }
+    },
+    "18": {
+      "id": "18",
+      "name": "Sam Buna",
+      "nickname": "The King",
+      "stats": {
+        "height": "1.7680016023050067m",
+        "weight": "72kg",
+        "reach": "1.638219133248202m",
+        "wins": 98,
+        "losses": 11,
+        "draws": 4,
+        "ko": 13
+      }
+    },
+    "19": {
+      "id": "19",
+      "name": "Rin Serey",
+      "nickname": "The Dragon",
+      "stats": {
+        "height": "1.692737419998246m",
+        "weight": "70kg",
+        "reach": "1.7873223899832837m",
+        "wins": 69,
+        "losses": 8,
+        "draws": 2,
+        "ko": 20
+      }
+    },
+    "20": {
+      "id": "20",
+      "name": "Phal Kun",
+      "nickname": "The Machine",
+      "stats": {
+        "height": "1.7034104465258477m",
+        "weight": "79kg",
+        "reach": "1.7798717305411633m",
+        "wins": 99,
+        "losses": 16,
+        "draws": 8,
+        "ko": 10
+      }
+    },
+    "21": {
+      "id": "21",
+      "name": "Ouch Sey",
+      "nickname": "The Hammer",
+      "stats": {
+        "height": "1.7250128389483088m",
+        "weight": "55kg",
+        "reach": "1.6288791525156672m",
+        "wins": 9,
+        "losses": 10,
+        "draws": 9,
+        "ko": 14
+      }
+    },
+    "22": {
+      "id": "22",
+      "name": "Visal Pich",
+      "nickname": "The Shark",
+      "stats": {
+        "height": "1.6335688485982696m",
+        "weight": "58kg",
+        "reach": "1.7791092410964622m",
+        "wins": 75,
+        "losses": 7,
+        "draws": 0,
+        "ko": 40
+      }
+    },
+    "23": {
+      "id": "23",
+      "name": "Thoeun Rumchong",
+      "nickname": "The Killer",
+      "stats": {
+        "height": "1.792038435444052m",
+        "weight": "63kg",
+        "reach": "1.6588219383081866m",
+        "wins": 54,
+        "losses": 0,
+        "draws": 6,
+        "ko": 21
+      }
+    },
+    "24": {
+      "id": "24",
+      "name": "Phal Kun",
+      "nickname": "The Hammer",
+      "stats": {
+        "height": "1.6026003415152272m",
+        "weight": "52kg",
+        "reach": "1.698296000071028m",
+        "wins": 97,
+        "losses": 10,
+        "draws": 5,
+        "ko": 0
+      }
+    },
+    "25": {
+      "id": "25",
+      "name": "Chea Chhay",
+      "nickname": "The Iron",
+      "stats": {
+        "height": "1.6959548678276533m",
+        "weight": "54kg",
+        "reach": "1.669553259636393m",
+        "wins": 57,
+        "losses": 13,
+        "draws": 3,
+        "ko": 23
+      }
+    },
+    "26": {
+      "id": "26",
+      "name": "Bora Rothana",
+      "nickname": "The Legend",
+      "stats": {
+        "height": "1.7133966511463772m",
+        "weight": "64kg",
+        "reach": "1.8413050265407152m",
+        "wins": 24,
+        "losses": 15,
+        "draws": 2,
+        "ko": 26
+      }
+    },
+    "27": {
+      "id": "27",
+      "name": "Keo Sarun",
+      "nickname": "The Legend",
+      "stats": {
+        "height": "1.6738369955333279m",
+        "weight": "76kg",
+        "reach": "1.6373419718374478m",
+        "wins": 61,
+        "losses": 2,
+        "draws": 0,
+        "ko": 1
+      }
+    },
+    "28": {
+      "id": "28",
+      "name": "Sam Saman",
+      "nickname": "The Lion",
+      "stats": {
+        "height": "1.6874754970670487m",
+        "weight": "67kg",
+        "reach": "1.6466169365502479m",
+        "wins": 52,
+        "losses": 2,
+        "draws": 0,
+        "ko": 28
+      }
+    },
+    "29": {
+      "id": "29",
+      "name": "Khim Thy",
+      "nickname": "The Ghost",
+      "stats": {
+        "height": "1.7683545182063658m",
+        "weight": "76kg",
+        "reach": "1.6852068177992914m",
+        "wins": 89,
+        "losses": 15,
+        "draws": 6,
+        "ko": 1
+      }
+    },
+    "30": {
+      "id": "30",
+      "name": "Ouch Serey",
+      "nickname": "The Hammer",
+      "stats": {
+        "height": "1.760604105005957m",
+        "weight": "60kg",
+        "reach": "1.7279935561605224m",
+        "wins": 79,
+        "losses": 1,
+        "draws": 5,
+        "ko": 22
+      }
+    },
+    "31": {
+      "id": "31",
+      "name": "Rithy Thy",
+      "nickname": "The Tank",
+      "stats": {
+        "height": "1.6312009553043998m",
+        "weight": "51kg",
+        "reach": "1.8144565862415925m",
+        "wins": 12,
+        "losses": 10,
+        "draws": 9,
+        "ko": 11
+      }
+    },
+    "32": {
+      "id": "32",
+      "name": "Chan Chhay",
+      "nickname": "The Prince",
+      "stats": {
+        "height": "1.7869672956757063m",
+        "weight": "70kg",
+        "reach": "1.7768921291874347m",
+        "wins": 78,
+        "losses": 12,
+        "draws": 8,
+        "ko": 20
+      }
+    },
+    "33": {
+      "id": "33",
+      "name": "Chea Mony",
+      "nickname": "The Tank",
+      "stats": {
+        "height": "1.7687034583458339m",
+        "weight": "78kg",
+        "reach": "1.8017073313636844m",
+        "wins": 30,
+        "losses": 12,
+        "draws": 5,
+        "ko": 21
+      }
+    },
+    "34": {
+      "id": "34",
+      "name": "Keo Samnang",
+      "nickname": "The Flash",
+      "stats": {
+        "height": "1.693265000756108m",
+        "weight": "77kg",
+        "reach": "1.7066273439806263m",
+        "wins": 4,
+        "losses": 3,
+        "draws": 2,
+        "ko": 41
+      }
+    },
+    "35": {
+      "id": "35",
+      "name": "Long Thy",
+      "nickname": "The Prince",
+      "stats": {
+        "height": "1.709215976160778m",
+        "weight": "52kg",
+        "reach": "1.6909051821136611m",
+        "wins": 92,
+        "losses": 14,
+        "draws": 8,
+        "ko": 16
+      }
+    },
+    "36": {
+      "id": "36",
+      "name": "Sok Pich",
+      "nickname": "The Tiger",
+      "stats": {
+        "height": "1.7790898120620984m",
+        "weight": "60kg",
+        "reach": "1.6134092493572063m",
+        "wins": 67,
+        "losses": 18,
+        "draws": 8,
+        "ko": 4
+      }
+    },
+    "37": {
+      "id": "37",
+      "name": "Bora Rothana",
+      "nickname": "The Dragon",
+      "stats": {
+        "height": "1.6314639195287868m",
+        "weight": "62kg",
+        "reach": "1.6870270465433101m",
+        "wins": 25,
+        "losses": 16,
+        "draws": 0,
+        "ko": 36
+      }
+    },
+    "38": {
+      "id": "38",
+      "name": "Khim Veasna",
+      "nickname": "The Legend",
+      "stats": {
+        "height": "1.7312953670213675m",
+        "weight": "71kg",
+        "reach": "1.73075237219348m",
+        "wins": 38,
+        "losses": 9,
+        "draws": 5,
+        "ko": 39
+      }
+    },
+    "39": {
+      "id": "39",
+      "name": "Keo Buna",
+      "nickname": "The Killer",
+      "stats": {
+        "height": "1.6596406202800837m",
+        "weight": "61kg",
+        "reach": "1.8212254009276052m",
+        "wins": 7,
+        "losses": 0,
+        "draws": 2,
+        "ko": 1
+      }
+    },
+    "40": {
+      "id": "40",
+      "name": "Long Vanna",
+      "nickname": "The Flash",
+      "stats": {
+        "height": "1.6755204904951972m",
+        "weight": "50kg",
+        "reach": "1.7172922883733748m",
+        "wins": 51,
+        "losses": 19,
+        "draws": 4,
+        "ko": 20
+      }
+    }
+  },
+  "matches": {
+    "1": {
+      "id": "1",
+      "title": "LIVE: Championship",
+      "description": "Main Event Live",
+      "redCornerId": "1",
+      "blueCornerId": "2",
+      "date": "2026-02-03T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "live"
+    },
+    "6": {
+      "id": "6",
+      "title": "Match 6: Keo Samnang vs Chea Mony",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "34",
+      "blueCornerId": "33",
+      "date": "2026-02-04T10:12:31.769Z",
+      "location": "Olympic Stadium",
+      "status": "upcoming"
+    },
+    "7": {
+      "id": "7",
+      "title": "Match 7: Bora Rumchong vs Chea Chhay",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "9",
+      "blueCornerId": "25",
+      "date": "2026-02-05T10:12:31.769Z",
+      "location": "Olympic Stadium",
+      "status": "upcoming"
+    },
+    "8": {
+      "id": "8",
+      "title": "Match 8: Sam Saman vs Bora Theara",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "28",
+      "blueCornerId": "10",
+      "date": "2026-02-06T10:12:31.769Z",
+      "location": "Olympic Stadium",
+      "status": "upcoming"
+    },
+    "9": {
+      "id": "9",
+      "title": "Match 9: Khim Thy vs Vireak Sey",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "29",
+      "blueCornerId": "14",
+      "date": "2026-02-07T10:12:31.769Z",
+      "location": "Olympic Stadium",
+      "status": "upcoming"
+    },
+    "10": {
+      "id": "10",
+      "title": "Match 10: Ouch Sey vs Rin Buna",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "21",
+      "blueCornerId": "6",
+      "date": "2026-02-08T10:12:31.769Z",
+      "location": "Olympic Stadium",
+      "status": "upcoming"
+    },
+    "11": {
+      "id": "11",
+      "title": "Match 11: Bora Rothana vs Khim Veasna",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "37",
+      "blueCornerId": "38",
+      "date": "2026-02-09T10:12:31.769Z",
+      "location": "Olympic Stadium",
+      "status": "upcoming"
+    },
+    "12": {
+      "id": "12",
+      "title": "Match 12: Chea Chhay vs Phal Pich",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "25",
+      "blueCornerId": "16",
+      "date": "2026-02-10T10:12:31.769Z",
+      "location": "Olympic Stadium",
+      "status": "upcoming"
+    },
+    "13": {
+      "id": "13",
+      "title": "Match 13: Chea Mony vs Sam Saman",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "33",
+      "blueCornerId": "28",
+      "date": "2026-02-11T10:12:31.769Z",
+      "location": "Olympic Stadium",
+      "status": "upcoming"
+    },
+    "14": {
+      "id": "14",
+      "title": "Match 14: Bora Rothana vs Bora Theara",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "37",
+      "blueCornerId": "10",
+      "date": "2026-02-02T10:12:31.769Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Bora Rothana wins by Decision"
+    },
+    "15": {
+      "id": "15",
+      "title": "Match 15: Ouch Sey vs Sok Chhay",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "21",
+      "blueCornerId": "3",
+      "date": "2026-02-01T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Ouch Sey wins by Decision"
+    },
+    "16": {
+      "id": "16",
+      "title": "Match 16: Dara Vanna vs Bora Rothana",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "1",
+      "blueCornerId": "37",
+      "date": "2026-01-31T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Dara Vanna wins by Decision"
+    },
+    "17": {
+      "id": "17",
+      "title": "Match 17: Rin Buna vs Sam Buna",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "6",
+      "blueCornerId": "18",
+      "date": "2026-01-30T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Sam Buna wins by Decision"
+    },
+    "18": {
+      "id": "18",
+      "title": "Match 18: Chea Chhay vs Long Vanna",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "25",
+      "blueCornerId": "40",
+      "date": "2026-01-29T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Long Vanna wins by Decision"
+    },
+    "19": {
+      "id": "19",
+      "title": "Match 19: Khim Thy vs Chan Dima",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "29",
+      "blueCornerId": "11",
+      "date": "2026-01-28T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Khim Thy wins by Decision"
+    },
+    "20": {
+      "id": "20",
+      "title": "Match 20: Bora Rothana vs Phal Kun",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "26",
+      "blueCornerId": "20",
+      "date": "2026-01-27T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Bora Rothana wins by Decision"
+    },
+    "21": {
+      "id": "21",
+      "title": "Match 21: Ouch Sey vs Sok Chhay",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "21",
+      "blueCornerId": "3",
+      "date": "2026-01-26T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Ouch Sey wins by KO"
+    },
+    "22": {
+      "id": "22",
+      "title": "Match 22: Long Vanna vs Chan Saman",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "40",
+      "blueCornerId": "8",
+      "date": "2026-01-25T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Chan Saman wins by KO"
+    },
+    "23": {
+      "id": "23",
+      "title": "Match 23: Sam Theara vs Rithy Thy",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "5",
+      "blueCornerId": "31",
+      "date": "2026-01-24T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Sam Theara wins by Decision"
+    },
+    "24": {
+      "id": "24",
+      "title": "Match 24: Phal Pich vs Rin Buna",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "16",
+      "blueCornerId": "2",
+      "date": "2026-01-23T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Phal Pich wins by KO"
+    },
+    "25": {
+      "id": "25",
+      "title": "Match 25: Sam Theara vs Khim Thy",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "5",
+      "blueCornerId": "29",
+      "date": "2026-01-22T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Sam Theara wins by Decision"
+    },
+    "26": {
+      "id": "26",
+      "title": "Match 26: Phal Kun vs Rithy Thy",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "20",
+      "blueCornerId": "31",
+      "date": "2026-01-21T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Rithy Thy wins by KO"
+    },
+    "27": {
+      "id": "27",
+      "title": "Match 27: Phal Kun vs Chea Mony",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "24",
+      "blueCornerId": "33",
+      "date": "2026-01-20T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Chea Mony wins by KO"
+    },
+    "28": {
+      "id": "28",
+      "title": "Match 28: Ouch Serey vs Chan Sovann",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "30",
+      "blueCornerId": "17",
+      "date": "2026-01-19T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Chan Sovann wins by Decision"
+    },
+    "29": {
+      "id": "29",
+      "title": "Match 29: Long Vanna vs Bora Rumchong",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "40",
+      "blueCornerId": "9",
+      "date": "2026-01-18T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Long Vanna wins by KO"
+    },
+    "30": {
+      "id": "30",
+      "title": "Match 30: Ouch Sey vs Bora Rothana",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "21",
+      "blueCornerId": "37",
+      "date": "2026-01-17T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Bora Rothana wins by Decision"
+    },
+    "31": {
+      "id": "31",
+      "title": "Match 31: Chan Sovann vs Chan Veasna",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "17",
+      "blueCornerId": "13",
+      "date": "2026-01-16T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Chan Veasna wins by Decision"
+    },
+    "32": {
+      "id": "32",
+      "title": "Match 32: Bora Theara vs Long Vanna",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "10",
+      "blueCornerId": "40",
+      "date": "2026-01-15T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Long Vanna wins by Decision"
+    },
+    "33": {
+      "id": "33",
+      "title": "Match 33: Dara Vanna vs Chan Chhay",
+      "description": "An exciting bout between two top contenders.",
+      "redCornerId": "1",
+      "blueCornerId": "32",
+      "date": "2026-01-14T10:12:31.770Z",
+      "location": "Olympic Stadium",
+      "status": "finished",
+      "result": "Dara Vanna wins by KO"
+    }
+  }
+}

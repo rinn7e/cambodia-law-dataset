@@ -15,6 +15,7 @@ import { ProductHome } from '@/page/mock/product-page/product-page'
 import { DocPage } from '@/page/mock/doc-page/doc-page'
 import { AllElements } from '@/page/mock/all-elements-page/all-elements-page'
 import { LawIndexPage } from '@/website/cambodia-law'
+import { KunKhmerIndexPage } from '@/website/kunkhmer/kunkhmer-index-page'
 import type { ReactNode } from 'react'
 import { Link } from '@/component'
 
@@ -45,7 +46,17 @@ const router: Router<Route> = new Router(
     _tag: 'WebsiteCambodiaLaw',
     lawRoute: { _tag: 'LawDetail', id }
   })),
-  new RouteDef([str('website'), str('cambodia-law')], () => ({ _tag: 'WebsiteCambodiaLaw', lawRoute: { _tag: 'LawIndex' } }))
+  new RouteDef([str('website'), str('cambodia-law')], () => ({ _tag: 'WebsiteCambodiaLaw', lawRoute: { _tag: 'LawIndex' } })),
+  // Website: Kun Khmer
+  new RouteDef([str('website'), str('kunkhmer'), str('match'), str()], (_w: string, _k: string, _m: string, id: string) => ({
+    _tag: 'WebsiteKunKhmer',
+    subRoute: { _tag: 'MatchDetail', id }
+  })),
+  new RouteDef([str('website'), str('kunkhmer'), str('athlete'), str()], (_w: string, _k: string, _a: string, id: string) => ({
+    _tag: 'WebsiteKunKhmer',
+    subRoute: { _tag: 'AthleteDetail', id }
+  })),
+  new RouteDef([str('website'), str('kunkhmer')], () => ({ _tag: 'WebsiteKunKhmer', subRoute: { _tag: 'Index' } }))
 )
 
 // Initial state
@@ -132,6 +143,8 @@ const renderRoute = (route: Route): ReactNode => {
       return <AllElements />
     case 'WebsiteCambodiaLaw':
       return <LawIndexPage route={route} />
+    case 'WebsiteKunKhmer':
+      return <KunKhmerIndexPage route={route} />
   }
 }
 
@@ -161,6 +174,7 @@ const MOCK_ROUTES: Record<string, RouteMetadata> = {
 
 const WEBSITE_ROUTES: Record<string, RouteMetadata> = {
   WebsiteCambodiaLaw: { label: 'Cambodia Laws', description: 'Index of Cambodia Laws', url: '/website/cambodia-law' },
+  WebsiteKunKhmer: { label: 'Kun Khmer', description: 'Cambodia Boxing', url: '/website/kunkhmer' },
 }
 
 const ALL_METADATA: Record<string, RouteMetadata> = {
@@ -214,6 +228,9 @@ const BrowserFrame = ({ children, title }: { children: ReactNode; title: string 
 const view = (dispatch: Dispatcher<Msg>, model: Model): ReactNode => {
   if (model.route._tag === 'WebsiteCambodiaLaw') {
     return <LawIndexPage route={model.route} />
+  }
+  if (model.route._tag === 'WebsiteKunKhmer') {
+    return <KunKhmerIndexPage route={model.route} />
   }
 
   const metadata = ALL_METADATA[model.route._tag] || {

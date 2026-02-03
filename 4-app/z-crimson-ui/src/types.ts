@@ -1,5 +1,6 @@
 import * as O from 'fp-ts/Option'
 import type { LawRoute } from '@/website/cambodia-law/types'
+import type { KunKhmerRoute } from '@/website/kunkhmer/types'
 
 // Route types for navigation
 export type Route =
@@ -16,6 +17,7 @@ export type Route =
   | { _tag: 'MockDoc' }
   | { _tag: 'MockProduct' }
   | { _tag: 'WebsiteCambodiaLaw'; lawRoute: LawRoute }
+  | { _tag: 'WebsiteKunKhmer'; subRoute: KunKhmerRoute }
 
 // Theme modes
 export type ThemeMode = 'light' | 'dark' | 'system'

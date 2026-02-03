@@ -4,11 +4,14 @@ A comprehensive React UI library and showcase styled with **Tailwind CSS v4.1** 
 
 ## Screenshots
 
-### Cambodia Law Index
-![Law Index](doc/images/law-index.png)
+### Law Library
+![Law Library](doc/images/cambodia-law-index-v2.png)
 
-### Constitution Page
-![Constitution](doc/images/constitution.png)
+### Law Details
+![Constitution](doc/images/traffic-law-detail-v2.png)
+
+### Kun Khmer (New)
+![Kun Khmer](doc/images/kunkhmer-index-v1.png)
 
 ### Traffic Law Page
 ![Traffic Law](doc/images/traffic-law.png)
