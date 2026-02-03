@@ -1,6 +1,20 @@
-# React UI Showcase
+# z-crimson-ui
 
-A comprehensive showcase of HTML elements styled with **Tailwind CSS v4.1** using a **GitHub-inspired design system**. Built with **React 19.1**, **react-tea-cup** (TEA architecture), and **fp-ts** for functional programming patterns.
+A comprehensive React UI library and showcase styled with **Tailwind CSS v4.1** using a **GitHub-inspired design system**. Built with **React 19.1**, **react-tea-cup** (TEA architecture), and **fp-ts** for functional programming patterns.
+
+## Screenshots
+
+### Cambodia Law Index
+![Law Index](doc/images/law-index.png)
+
+### Constitution Page
+![Constitution](doc/images/constitution.png)
+
+### Traffic Law Page
+![Traffic Law](doc/images/traffic-law.png)
+
+### Product Page Mockup
+![Product Page](doc/images/product-page.png)
 
 ## Features
 
@@ -118,3 +132,14 @@ The GitHub-inspired theme is defined in `src/index.css` using Tailwind v4's `@th
 ## License
 
 MIT
+
+## TODO
+
+- [ ] AI regenerate prompt
+
+```
+extract all your knowledge about this project to `ai/prompt.md` file, such that I can give this prompt to an AI and it can re-create this project from scratch (at least close enough)
+
+Split the prompt.md into multiple files if necessary, prefix it with number, which can be used as the order of prompt execution: example `1-prompt.md` `2-prompt.md` etc...
+```
+
