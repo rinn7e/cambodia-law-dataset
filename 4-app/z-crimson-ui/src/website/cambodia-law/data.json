@@ -1,0 +1,313 @@
+{
+  "common": {
+    "navbar": {
+      "brand": "Cambodia Law Site",
+      "links": [
+        {
+          "label": "Constitution",
+          "href": "/website/cambodia-law/law/1"
+        },
+        {
+          "label": "Traffic Law",
+          "href": "/website/cambodia-law/law/2"
+        },
+        {
+          "label": "Property Law",
+          "href": "/website/cambodia-law/law/3"
+        }
+      ],
+      "country": "Kingdom of Cambodia"
+    },
+    "footer": {
+      "about": {
+        "title": "About",
+        "text": "Modern portal for accessing Cambodian legal documents in an easy-to-read format."
+      },
+      "links": {
+        "title": "Links",
+        "items": [
+          {
+            "label": "Index",
+            "href": "/website/cambodia-law"
+          },
+          {
+            "label": "← Back to ZCrimson UI",
+            "href": "/"
+          }
+        ]
+      },
+      "legal": {
+        "title": "Legal",
+        "text": "© 2026 Cambodia Law Project. Mock data for UI purposes."
+      }
+    }
+  },
+  "index": {
+    "title": "Cambodia Law Index",
+    "description": "Access official legal documents of the Kingdom of Cambodia in a clean, modern interface.",
+    "laws": [
+      {
+        "id": "1",
+        "title": "Constitution",
+        "description": "The supreme law of the Kingdom of Cambodia. Adopted by the Constituent Assembly in 1993."
+      },
+      {
+        "id": "2",
+        "title": "Road Traffic Law",
+        "description": "The legal framework for road safety, vehicle regulation, and traffic rules within Cambodia."
+      },
+      {
+        "id": "3",
+        "title": "Property Law",
+        "description": "Regulations concerning ownership, rights, and obligations related to immovable property."
+      }
+    ],
+    "disclaimer": {
+      "title": "Disclaimer",
+      "text": "This website is for informational purposes only and does not constitute official legal advice. Always consult with a qualified legal professional for matters relating to Cambodian law."
+    }
+  },
+  "laws": {
+    "1": {
+      "id": "1",
+      "header": {
+        "title": "Constitution",
+        "subtitle": "Kingdom of Cambodia",
+        "tags": [
+          {
+            "text": "Adopted 1993",
+            "style": "success"
+          },
+          {
+            "text": "Nation, Religion, King",
+            "style": "accent"
+          }
+        ]
+      },
+      "sidebar": [
+        {
+          "title": "Chapters",
+          "items": [
+            {
+              "label": "Preamble",
+              "href": "#"
+            },
+            {
+              "label": "I: Sovereignty",
+              "href": "#",
+              "active": true
+            },
+            {
+              "label": "II: The King",
+              "href": "#"
+            },
+            {
+              "label": "III: Rights & Obligations",
+              "href": "#"
+            }
+          ]
+        }
+      ],
+      "chapters": [
+        {
+          "title": "Chapter I: Sovereignty",
+          "style": "accent",
+          "articles": [
+            {
+              "id": "1",
+              "title": "Article 1",
+              "content": "Cambodia is a Kingdom in which the King shall rule according to the Constitution and the principles of liberal multi-party democracy. The Kingdom of Cambodia shall be an independent, sovereign, peaceful, permanently neutral and non-aligned country."
+            },
+            {
+              "id": "2",
+              "title": "Article 2",
+              "content": "The territorial integrity of the Kingdom of Cambodia shall never be violated within its borders as defined in the 1/100,000 scale map made between the years 1933-1953, and internationally recognized between the years 1963-1969."
+            },
+            {
+              "id": "3",
+              "title": "Article 3",
+              "content": "The Kingdom of Cambodia is an indivisible state."
+            },
+            {
+              "id": "4",
+              "title": "Article 4",
+              "content": "The motto of the Kingdom of Cambodia is: 'Nation, Religion, King'."
+            }
+          ]
+        },
+        {
+          "title": "Chapter II: The King",
+          "style": "done",
+          "articles": [
+            {
+              "id": "7",
+              "title": "Article 7",
+              "content": "The King of Cambodia reigns but does not govern. The King shall be the Head of State for life. The King shall be inviolable."
+            },
+            {
+              "id": "8",
+              "title": "Article 8",
+              "content": "The King of Cambodia is a symbol of the unity and eternity of the nation. The King is the guarantor of national independence, sovereignty, and territorial integrity of the Kingdom of Cambodia, the protector of rights and freedom for all citizens and the guarantor of international treaties."
+            }
+          ]
+        },
+        {
+          "title": "Chapter III: The Rights and Obligations of Khmer Citizens",
+          "style": "attention",
+          "articles": [
+            {
+              "id": "31",
+              "title": "Article 31",
+              "content": "Every Khmer citizen shall be equal before the law, enjoying the same rights, freedom and fulfilling the same obligations regardless of race, color, sex, language, religious belief, political tendency, birth origin, social status, wealth or other status."
+            }
+          ]
+        }
+      ],
+      "footerText": "This document is a mock representation for UI showcase purposes."
+    },
+    "2": {
+      "id": "2",
+      "header": {
+        "title": "Road Traffic Law",
+        "subtitle": "Kingdom of Cambodia",
+        "tags": [
+          {
+            "text": "Law No. NS/RKM/0115/001",
+            "style": "attention"
+          },
+          {
+            "text": "Safe Roads, Safe Lives",
+            "style": "accent"
+          }
+        ]
+      },
+      "sidebar": [
+        {
+          "title": "Road Traffic Law",
+          "items": [
+            {
+              "label": "General Provisions",
+              "href": "#"
+            },
+            {
+              "label": "III: Traffic Rules",
+              "href": "#",
+              "active": true
+            },
+            {
+              "label": "IV: Penalties",
+              "href": "#"
+            }
+          ]
+        }
+      ],
+      "chapters": [
+        {
+          "title": "Chapter III: Traffic Rules",
+          "style": "accent",
+          "articles": [
+            {
+              "id": "7",
+              "title": "Article 7",
+              "content": "All drivers shall drive their vehicles on the right-hand side of the road. On roads where there are several lanes, drivers shall drive in the lane that is at the far right-hand side according to their direction of travel."
+            },
+            {
+              "id": "8",
+              "title": "Article 8",
+              "content": "Drivers shall not drive faster than the speed limit prescribed by sub-decree. The speed limit in cities and residential areas is 40 km/h for motorcycles and 50 km/h for other vehicles."
+            },
+            {
+              "id": "14",
+              "title": "Article 14",
+              "content": "Before turning left or right or changing lanes, drivers shall give a signal in advance by using signal lights or hand signals, and ensure that such a maneuver does not cause danger to other road users."
+            }
+          ]
+        },
+        {
+          "title": "Chapter IV: Penalties",
+          "style": "done",
+          "articles": [
+            {
+              "id": "72",
+              "title": "Article 72",
+              "content": "Driving while under the influence of alcohol with a concentration of 0.25 to 0.39 mg per liter of breath or 0.5 to 0.79 grams per liter of blood shall be punished by a fine."
+            },
+            {
+              "id": "73",
+              "title": "Article 73",
+              "content": "Driving without a valid driver license as required by this law shall be punished by imprisonment from six days to one month and a fine."
+            }
+          ]
+        }
+      ],
+      "footerText": "This document is a mock representation for UI showcase purposes."
+    },
+    "3": {
+      "id": "3",
+      "header": {
+        "title": "Property Law",
+        "subtitle": "Kingdom of Cambodia",
+        "tags": [
+          {
+            "text": "New Enactment",
+            "style": "success"
+          },
+          {
+            "text": "Immovable Property",
+            "style": "accent"
+          }
+        ]
+      },
+      "sidebar": [
+        {
+          "title": "Property Law",
+          "items": [
+            {
+              "label": "I: General Provisions",
+              "href": "#",
+              "active": true
+            },
+            {
+              "label": "II: Ownership Types",
+              "href": "#"
+            },
+            {
+              "label": "III: Land Rights",
+              "href": "#"
+            }
+          ]
+        }
+      ],
+      "chapters": [
+        {
+          "title": "Chapter I: General Provisions",
+          "style": "accent",
+          "articles": [
+            {
+              "id": "1",
+              "title": "Article 1",
+              "content": "This law has the objective to determine the legal regime of ownership of immovable properties in the Kingdom of Cambodia."
+            },
+            {
+              "id": "2",
+              "title": "Article 2",
+              "content": "Immovable property includes land, buildings, and constructions fixed to the land."
+            }
+          ]
+        },
+        {
+          "title": "Chapter II: Public and Private Property",
+          "style": "done",
+          "articles": [
+            {
+              "id": "10",
+              "title": "Article 10",
+              "content": "State property includes State public property and State private property."
+            }
+          ]
+        }
+      ],
+      "footerText": "Mock data for Property Law."
+    }
+  }
+}

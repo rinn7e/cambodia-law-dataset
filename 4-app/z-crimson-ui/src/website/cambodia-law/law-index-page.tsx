@@ -3,8 +3,12 @@ import { Heading, Text, Link } from '@/component'
 import { Route } from '@/types'
 import { LawNavbar } from './law-navbar'
 import { LawFooter } from './law-footer'
-import { ConstitutionPage } from './constitution-page'
-import { TrafficLawPage } from './traffic-law-page'
+import { LawViewPage } from './law-view-page'
+import { LawArticlePage } from './law-article-page'
+import rawData from './data.json'
+import type { LawData } from './types'
+
+const data = rawData as unknown as LawData
 
 const LawCard = ({ title, description, href }: { title: string; description: string; href: string }): ReactNode => (
   <Link
@@ -25,31 +29,28 @@ const LawIndexView = (): ReactNode => (
   <div className="py-[48px]">
     <div className="mb-[48px] text-center">
       <Heading level={1} className="mb-[16px] text-4xl font-extrabold tracking-tight text-[var(--color-fg-default)]">
-        Cambodia Law Index
+        {data.index.title}
       </Heading>
       <Text className="mx-auto max-w-2xl text-lg text-[var(--color-fg-muted)]">
-        Access official legal documents of the Kingdom of Cambodia in a clean, modern interface.
+        {data.index.description}
       </Text>
     </div>
 
     <div className="grid gap-[24px] md:grid-cols-2">
-      <LawCard
-        title="Constitution"
-        description="The supreme law of the Kingdom of Cambodia. Adopted by the Constituent Assembly in 1993."
-        href="/website/cambodia-law/constitution"
-      />
-      <LawCard
-        title="Road Traffic Law"
-        description="The legal framework for road safety, vehicle regulation, and traffic rules within Cambodia."
-        href="/website/cambodia-law/traffic-law"
-      />
+      {data.index.laws.map((law, i) => (
+        <LawCard
+          key={i}
+          title={law.title}
+          description={law.description}
+          href={`/website/cambodia-law/law/${law.id}`}
+        />
+      ))}
     </div>
 
     <div className="mt-[64px] rounded-lg border border-[var(--color-border-muted)] bg-[var(--color-canvas-subtle)] p-[32px] text-center">
-      <Heading level={2} className="mb-[12px] text-xl font-bold italic">Disclaimer</Heading>
+      <Heading level={2} className="mb-[12px] text-xl font-bold italic">{data.index.disclaimer.title}</Heading>
       <Text className="text-sm text-[var(--color-fg-muted)] leading-relaxed">
-        This website is for informational purposes only and does not constitute official legal advice.
-        Always consult with a qualified legal professional for matters relating to Cambodian law.
+        {data.index.disclaimer.text}
       </Text>
     </div>
   </div>
@@ -59,12 +60,13 @@ const LawIndexPage = ({ route }: { route: Route }): ReactNode => {
   const renderContent = () => {
     if (route._tag !== 'WebsiteCambodiaLaw') return <LawIndexView />
 
-    switch (route.lawRoute) {
-      case 'constitution':
-        return <ConstitutionPage />
-      case 'traffic-law':
-        return <TrafficLawPage />
-      case 'index':
+    // Handle sub-routes
+    switch (route.lawRoute._tag) {
+      case 'LawDetail':
+        return <LawViewPage id={route.lawRoute.id} />
+      case 'LawArticle':
+        return <LawArticlePage lawId={route.lawRoute.id} articleId={route.lawRoute.articleId} />
+      case 'LawIndex':
       default:
         return <LawIndexView />
     }

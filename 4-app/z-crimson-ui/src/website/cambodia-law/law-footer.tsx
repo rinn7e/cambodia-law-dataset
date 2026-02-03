@@ -1,5 +1,9 @@
 import type { ReactNode } from 'react'
 import { Footer, defaultFooter } from '@/component'
+import rawData from './data.json'
+import type { LawData } from './types'
+
+const data = rawData as unknown as LawData
 
 const LawFooter = (): ReactNode => (
   <Footer
@@ -7,27 +11,24 @@ const LawFooter = (): ReactNode => (
       ...defaultFooter(),
       columns: [
         {
-          title: 'About',
+          title: data.common.footer.about.title,
           content: {
             _tag: 'text',
-            text: 'Modern portal for accessing Cambodian legal documents in an easy-to-read format.',
+            text: data.common.footer.about.text,
           },
         },
         {
-          title: 'Links',
+          title: data.common.footer.links.title,
           content: {
             _tag: 'links',
-            links: [
-              { label: 'Index', href: '/website/cambodia-law' },
-              { label: '← Back to ZCrimson UI', href: '/' },
-            ],
+            links: data.common.footer.links.items,
           },
         },
         {
-          title: 'Legal',
+          title: data.common.footer.legal.title,
           content: {
             _tag: 'text',
-            text: '© 2026 Cambodia Law Project. Mock data for UI purposes.',
+            text: data.common.footer.legal.text,
           },
         },
       ],

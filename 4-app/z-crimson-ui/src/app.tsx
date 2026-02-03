@@ -37,14 +37,15 @@ const router: Router<Route> = new Router(
   new RouteDef([str('page'), str('mock'), str('doc')], () => ({ _tag: 'MockDoc' })),
   new RouteDef([str('page'), str('mock'), str('product')], () => ({ _tag: 'MockProduct' })),
   // Website
-  new RouteDef([str('website'), str('cambodia-law'), str()], (_w: string, _c: string, page: string) => {
-    switch (page) {
-      case 'constitution': return { _tag: 'WebsiteCambodiaLaw', lawRoute: 'constitution' }
-      case 'traffic-law': return { _tag: 'WebsiteCambodiaLaw', lawRoute: 'traffic-law' }
-      default: return { _tag: 'WebsiteCambodiaLaw', lawRoute: 'index' }
-    }
-  }),
-  new RouteDef([str('website'), str('cambodia-law')], () => ({ _tag: 'WebsiteCambodiaLaw', lawRoute: 'index' }))
+  new RouteDef([str('website'), str('cambodia-law'), str('law'), str(), str('article'), str()], (_w: string, _c: string, _l: string, id: string, _a: string, articleId: string) => ({
+    _tag: 'WebsiteCambodiaLaw',
+    lawRoute: { _tag: 'LawArticle', id, articleId }
+  })),
+  new RouteDef([str('website'), str('cambodia-law'), str('law'), str()], (_w: string, _c: string, _l: string, id: string) => ({
+    _tag: 'WebsiteCambodiaLaw',
+    lawRoute: { _tag: 'LawDetail', id }
+  })),
+  new RouteDef([str('website'), str('cambodia-law')], () => ({ _tag: 'WebsiteCambodiaLaw', lawRoute: { _tag: 'LawIndex' } }))
 )
 
 // Initial state

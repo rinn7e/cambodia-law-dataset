@@ -1,8 +1,7 @@
 import * as O from 'fp-ts/Option'
+import type { LawRoute } from '@/website/cambodia-law/types'
 
 // Route types for navigation
-export type LawRoute = 'index' | 'constitution' | 'traffic-law'
-
 export type Route =
   | { _tag: 'Home' }
   | { _tag: 'PageForm' }
