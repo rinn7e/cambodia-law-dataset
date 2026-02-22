@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+@theme {
+    --spacing: 0.0625rem;
+}
+
+
+body {
+  font-family: 'Chenla', system-ui;
+}
