@@ -38,6 +38,10 @@ The English versions are generated using advanced LLMs (Gemini) following a set 
 - Use of formal, standard English suitable for official documents.
 - Mental correction of OCR-related typos in the original Khmer before translation.
 
+## Sources
+
+The primary source for the laws in this dataset is the [Ministry of Justice (MoJ) of the Kingdom of Cambodia](https://www.moj.gov.kh/en//book-library?v=list&title=&category=10&institute=).
+
 ## Disclaimer
 
 The content provided in this dataset is for **educational and research purposes only**. It does not constitute legal advice. While every effort has been made to ensure the accuracy of the conversions and translations, you should always consult official government sources and qualified legal professionals for official legal matters.
