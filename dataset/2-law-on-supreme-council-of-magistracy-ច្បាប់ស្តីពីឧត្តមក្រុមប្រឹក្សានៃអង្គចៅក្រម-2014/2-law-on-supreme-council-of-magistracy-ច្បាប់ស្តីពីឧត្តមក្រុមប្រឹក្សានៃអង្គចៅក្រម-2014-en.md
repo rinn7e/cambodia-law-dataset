@@ -1,269 +1,290 @@
-# Kingdom of Cambodia
-# Nation Religion King
+# Kingdom of Cambodia (ព្រះរាជាណាចក្រកម្ពុជា)
+# Nation Religion King (ជាតិ សាសនា ព្រះមហាក្សត្រ)
 
-No.: NS/RKM/0714/017
+Number: NS/RKM/0714/017 (លេខ : នស/រកម/០៧១៤/០១៧)
 
-# Law
-## On
-### The Organization and Functioning of the Supreme Council of Magistracy (ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)
+# Law (ច្បាប់)
+## Concerning (ស្តីពី)
+### The Organization and Functioning (ការរៀបចំ និងការប្រព្រឹត្តទៅ) of the Supreme Council of the Magistracy (ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)
 
-2014
+2014 (២០១៤)
 
-Table of Contents
+Table of Contents (មាតិកា)
 
-# Table of Contents
+# Table of Contents (មាតិកា)
 
-(The Law on the Organization and Functioning of the Supreme Council of Magistracy consists of 6 Chapters and 31 Articles)
+(The Law Concerning the Organization and Functioning of the Supreme Council of the Magistracy (ច្បាប់ស្តីពីការរៀបចំ និងការប្រព្រឹត្តទៅនៃឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម) consists of 6 Chapters and 31 Articles)
 
-- **Chapter 1: General Provisions (បទប្បញ្ញត្តិទូទៅ)** (Articles 1 to 3)
-- **Chapter 2: Organization (ការរៀបចំ) of the Supreme Council of Magistracy** (Articles 4 to 9)
-    - **Section 1:** Composition (សមាសភាព) of the Supreme Council of Magistracy (Articles 4 to 7)
-    - **Section 2:** General Secretariat (អគ្គលេខាធិការដ្ឋាន) of the Supreme Council of Magistracy (Articles 8 to 9)
-- **Chapter 3: Functioning (កិច្ចដំណើរការ) of the Supreme Council of Magistracy** (Articles 10 to 17)
-- **Chapter 4: Jurisdiction (សមត្ថកិច្ច) of the Supreme Council of Magistracy** (Articles 18 to 26)
-    - **Section 1:** General Jurisdiction (សមត្ថកិច្ចទូទៅ) of the Supreme Council of Magistracy (Articles 18 to 19)
-    - **Section 2:** Jurisdiction of the Supreme Council of Magistracy regarding Disciplinary Actions (មុខការដាក់វិន័យ) against Judges and Prosecutors (Articles 20 to 26)
-- **Chapter 5: Transitional Provisions (អន្តរប្បញ្ញត្តិ)** (Articles 27 to 30)
-- **Chapter 6: Final Provisions (អវសានប្បញ្ញត្តិ)** (Article 31)
+- **Chapter 1: General Provisions (ជំពូកទី១ បទប្បញ្ញត្តិទូទៅ)** (Articles 1 to 3)
+- **Chapter 2: Organization of the Supreme Council of the Magistracy (ជំពូកទី២ ការរៀបចំឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)** (Articles 4 to 9)
+    - **Section 1 (ផ្នែកទី១)** Composition of the Supreme Council of the Magistracy (សមាសភាពឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម) (Articles 4 to 7)
+    - **Section 2 (ផ្នែកទី២)** General Secretariat of the Supreme Council of the Magistracy (អគ្គលេខាធិការនៃឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម) (Articles 8 to 9)
+- **Chapter 3: Operation of the Supreme Council of the Magistracy (ជំពូកទី៣ កិច្ចដំណើរការនៃឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)** (Articles 10 to 17)
+- **Chapter 4: Competence of the Supreme Council of the Magistracy (ជំពូកទី៤ សមត្ថកិច្ចរបស់ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)** (Articles 18 to 26)
+    - **Section 1 (ផ្នែកទី១)** General Competence of the Supreme Council of the Magistracy (សមត្ថកិច្ចទូទៅរបស់ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម) (Articles 18 to 19)
+    - **Section 2 (ផ្នែកទី២)** Competence of the Supreme Council of the Magistracy in Disciplining Judges and Prosecutors (សមត្ថកិច្ចរបស់ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រមក្នុងមុខការដាក់វិន័យចៅក្រម និងព្រះរាជអាជ្ញា) (Articles 20 to 26)
+- **Chapter 5: Transitional Provisions (ជំពូកទី៥ អន្តរប្បញ្ញត្តិ)** (Articles 27 to 30)
+- **Chapter 6: Final Provisions (ជំពូកទី៦ អវសានប្បញ្ញត្តិ)** (Article 31)
 
 [IMAGE: Royal Seal of Cambodia]
 
-# Royal Kram (ព្រះរាជក្រម)
-No.: NS/RKM/0714/017
+# Royal Proclamation (ព្រះរាជក្រម)
+Number: NS/RKM/0714/017 (លេខ : នស/រកម/០៧១៤/០១៧)
 
-### We
-### Preah Karuna Preah Bat Samdech Preah Boromneath Norodom Sihamoni
-### Reachanea Somuhophat Kampuchea Ekreach Roat Boronaksanti Sopheamangkeala Sereyviboula Kheamara Sreypireat Preah Chao Krong Kampuchea Thipadey (King of the Kingdom of Cambodia)
+### We (យើង)
+### His Majesty King Norodom Sihamoni (ព្រះករុណាព្រះបាទសម្ដេចព្រះបរមនាថ នរោត្តម សីហមូនី)
+### Sman Phum Chat Sasna Rakkhat Khattiya Khemara Rottreah Reas Putthin Threathor Mohaksat Khemareachna Samohor Pheas Kampuchek Reach Rott Boron Senti Sophemongkula Sirivibula Khemera Srey Pi Reastr Preah Chao Krong Kampuchea Thipadei (សមានភូមិជាតិសាសនា រក្ខតខត្តិយា ខេមរារដ្ឋរាស្ត្រ ពុទ្ធិន្ទ្រាធរាមហាក្សត្រ ខេមរាជនា សមូហោភាស កម្ពុជឯករាជរដ្ឋបូរណសន្តិ សុភមង្គលា សិរីវិបុលា ខេមរាស្រីពិរាស្ត្រ ព្រះចៅក្រុងកម្ពុជាធិបតី)
 
-- Having seen the Constitution (រដ្ឋធម្មនុញ្ញ) of the Kingdom of Cambodia;
-- Having seen Royal Decree (ព្រះរាជក្រឹត្យ) No. NS/RKT/0913/903 dated September 24, 2013 on the Appointment of the Royal Government of the Kingdom of Cambodia;
-- Having seen Royal Kram (ព្រះរាជក្រម) No. 02/NS/94 dated July 20, 1994, promulgating the Law on the Organization and Functioning of the Council of Ministers (គណៈរដ្ឋមន្ត្រី);
-- Having seen Royal Kram No. ChS/RKM/0498/06 dated April 08, 1998, promulgating the Law on the Organization and Functioning of the Constitutional Council (ក្រុមប្រឹក្សាធម្មនុញ្ញ);
-- Having seen Royal Kram No. NS/RKM/0107/005 dated January 31, 2007, promulgating the Law on the Amendment to the Law on the Organization and Functioning of the Constitutional Council;
-- Having seen Royal Kram No. NS/RKM/0196/04 dated January 24, 1996, promulgating the Law on the Establishment of the Ministry of Justice (ក្រសួងយុត្តិធម៌);
-- Having seen the request of Samdech Akka Moha Sena Padei Techo Hun Sen, Prime Minister of the Kingdom of Cambodia;
+- Having seen (បានទ្រង់យល់) the Constitution of the Kingdom of Cambodia (រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា)
+- Having seen (បានទ្រង់យល់) Royal Decree (ព្រះរាជក្រឹត្យ) No. NS/RKT/0913/903 dated September 24, 2013 on the Appointment of the Royal Government of the Kingdom of Cambodia
+- Having seen (បានទ្រង់យល់) Royal Proclamation (ព្រះរាជក្រម) No. 02/NS/94 dated July 20, 1994, promulgating the Law on the Organization and Functioning of the Council of Ministers (ច្បាប់ស្តីពីការរៀបចំ និងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី)
+- Having seen (បានទ្រង់យល់) Royal Proclamation (ព្រះរាជក្រម) No. ChS/RKM/0498/06 dated April 08, 1998, promulgating the Law on the Organization and Functioning of the Constitutional Council (ច្បាប់ស្តីពីការរៀបចំ និងការប្រព្រឹត្តទៅនៃក្រុមប្រឹក្សាធម្មនុញ្ញ)
+- Having seen (បានទ្រង់យល់) Royal Proclamation (ព្រះរាជក្រម) No. NS/RKM/0107/005 dated January 31, 2007, promulgating the Law on the Amendment of the Law on the Organization and Functioning of the Constitutional Council
+- Having seen (បានទ្រង់យល់) Royal Proclamation (ព្រះរាជក្រម) No. NS/RKM/0196/04 dated January 24, 1996, promulgating the Law on the Creation of the Ministry of Justice (ច្បាប់ស្តីពីការបង្កើតក្រសួងយុត្តិធម៌)
+- Having seen (បានទ្រង់យល់) the submission of Samdech Akka Moha Sena Padei Techo Hun Sen, Prime Minister of the Kingdom of Cambodia (សេចក្តីក្រាបបង្គំទូលថ្វាយរបស់សម្តេចអគ្គមហាសេនាបតីតេជោ ហ៊ុន សែន នាយករដ្ឋមន្ត្រីនៃព្រះរាជាណាចក្រកម្ពុជា)
 
-### Hereby Promulgate
+### Proclaims (ប្រកាសឱ្យប្រើ)
 
-The Law on the Organization and Functioning of the Supreme Council of Magistracy (ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម), adopted by the National Assembly (រដ្ឋសភា) on May 23, 2014 during the 2nd session of the 5th legislature, and reviewed by the Senate (ព្រឹទ្ធសភា) regarding its form and legal substance in its entirety on June 12, 2014 during the 5th session of the 3rd legislature, and declared constitutional by the Constitutional Council (ក្រុមប្រឹក្សាធម្មនុញ្ញ) in Decision No. 148/002/2014 KBTh.Ch dated July 02, 2014, the full text of which is as follows:
-
-[IMAGE: Seal of the Ministry of Royal Palace]
-
-# Law
-## On
-### The Organization and Functioning of the Supreme Council of Magistracy
+The Law on the Organization and Functioning of the Supreme Council of the Magistracy (ច្បាប់ស្តីពីការរៀបចំ និងការប្រព្រឹត្តទៅនៃឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម) which was adopted by the National Assembly on May 23, 2014 during its 2nd session of the 5th legislature, and which was reviewed by the Senate on its entire form and legal substance on June 12, 2014 during its 5th session of the 3rd legislature, and which was declared by the Constitutional Council to be in conformity with the Constitution in Decision No. 148/002/2014 KBTh.Ch dated July 02, 2014, and which has the full content as follows:
 
 [IMAGE: Seal of the Ministry of Royal Palace]
 
-# Chapter 1
+# Law (ច្បាប់)
+## Concerning (ស្តីពី)
+### The Organization and Functioning (ការរៀបចំ និងការប្រព្រឹត្តទៅ) of the Supreme Council of the Magistracy (ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)
+
+[IMAGE: Seal of the Ministry of Royal Palace]
+
+# Chapter 1 (ជំពូកទី ១)
 # General Provisions (បទប្បញ្ញត្តិទូទៅ)
 
-**Article 1.-**
-This Law has the objective (គោលដៅ) to establish and define the organization and functioning of the Supreme Council of Magistracy (ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម) in order to assist the King in ensuring the independence of the judiciary (ឯករាជ្យនៃអំណាចតុលាការ) in accordance with the Constitution of the Kingdom of Cambodia.
+**Article 1 (មាត្រា ១).‑**
+This Law has the objective to establish and define the organization and functioning of the Supreme Council of the Magistracy (ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម) with the purpose of assisting the King in ensuring the independence of the judiciary (ឯករាជ្យនៃអំណាចតុលាការ) in accordance with the Constitution of the Kingdom of Cambodia.
 
-**Article 2.-**
-This Law has a scope of application (វិសាលភាពអនុវត្ត) over all Judges (ចៅក្រម) and Prosecutors (ព្រះរាជអាជ្ញា) throughout the Kingdom of Cambodia, unless otherwise provided by a specific law.
+**Article 2 (មាត្រា ២).‑**
+This Law has the scope of application over judges (ចៅក្រម) and prosecutors (ព្រះរាជអាជ្ញា) throughout the Kingdom of Cambodia, unless otherwise provided by a separate law.
 
-**Article 3.-**
-The technical terms (វាក្យស័ព្ទបច្ចេកទេស) used in this Law shall have the following meanings:
-- **Judge (ចៅក្រម)** refers to a sitting judge (ចៅក្រមអាសនៈ), including but not limited to, a trial judge (ចៅក្រមជំនុំជម្រះក្តី) and an investigating judge (ចៅក្រមស៊ើបសួរ).
-- **Prosecutor (ព្រះរាជអាជ្ញា)** refers to a Deputy Prosecutor (ព្រះរាជអាជ្ញារង), Prosecutor (ព្រះរាជអាជ្ញា), Deputy Prosecutor General (អគ្គព្រះរាជអាជ្ញារង), and Prosecutor General (អគ្គព្រះរាជអាជ្ញា).
-- **Magistrates (អង្គចៅក្រម)** refers to both Judges and Prosecutors.
+**Article 3 (មាត្រា ៣).‑**
+Technical terminology (វាក្យស័ព្ទបច្ចេកទេស) used in this Law shall have the following meanings:
+- **Judge (ចៅក្រម)** refers to sitting judges (ចៅក្រមអាសនៈ), which includes, among others, trial judges (ចៅក្រមជំនុំជម្រះក្តី) and investigating judges (ចៅក្រមស៊ើបសួរ).
+- **Prosecutor (ព្រះរាជអាជ្ញា)** refers to deputy prosecutors (ព្រះរាជអាជ្ញារង), prosecutors (ព្រះរាជអាជ្ញា), deputy prosecutors general (អគ្គព្រះរាជអាជ្ញារង), and prosecutors general (អគ្គព្រះរាជអាជ្ញា).
+- **Judicial Corps (អង្គចៅក្រម)** refers to both judges and prosecutors.
 
-# Chapter 2
-# Organization of the Supreme Council of Magistracy
+# Chapter 2 (ជំពូកទី ២)
+# Organization of the Supreme Council of the Magistracy (ការរៀបចំឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)
 
-## Section 1
-## Composition (សមាសភាព) of the Supreme Council of Magistracy
+## Section 1 (ផ្នែកទី ១)
+## Composition of the Supreme Council of the Magistracy (សមាសភាពឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)
 
-**Article 4.-**
-The Supreme Council of Magistracy is under the Royal Chairmanship (ព្រះរាជាធិបតីភាព) of the King and consists of the following members:
+**Article 4 (មាត្រា ៤).‑**
+The Supreme Council of the Magistracy shall be under the High Presidency (ព្រះរាជាធិបតីភាព) of the King and consists of the following members:
 
-1- The Minister of Justice (រដ្ឋមន្ត្រីក្រសួងយុត្តិធម៌), as a member;
+1- The Minister of Justice (រដ្ឋមន្ត្រីក្រសួងយុត្តិធម៌), as a member
 
-2- The President of the Supreme Court (ប្រធានតុលាការកំពូល), as a member;
+2- The President of the Supreme Court (ប្រធានតុលាការកំពូល), as a member
 
-3- The Prosecutor General of the Supreme Court (អគ្គព្រះរាជអាជ្ញាអមតុលាការកំពូល), as a member;
+[IMAGE: Seal of the Ministry of Royal Palace]
 
-4- One (01) member appointed (ជ្រើសតាំង) by the Senate (ព្រឹទ្ធសភា), by an absolute majority (មតិភាគច្រើនដាច់ខាត) of the total Senate members, from among dignitaries who are former judges, former prosecutors, or dignitaries with at least 15 years of work experience in the field of law or judiciary;
+3- The Prosecutor General of the Supreme Court (អគ្គព្រះរាជអាជ្ញាអមតុលាការកំពូល), as a member
 
-5- One (01) member appointed by the National Assembly (រដ្ឋសភា), by an absolute majority of the total National Assembly members, from among dignitaries who are former judges, former prosecutors, or dignitaries with at least 15 years of work experience in the field of law or judiciary;
+4- One (01) member appointed by the Senate (ព្រឹទ្ធសភា) by an absolute majority vote of the total Senate membership, from among dignitaries who are former judges or former prosecutors, or dignitaries with at least 15 years of work experience in the legal or judicial field.
 
-6- One (01) member appointed by the Constitutional Council (ក្រុមប្រឹក្សាធម្មនុញ្ញ), by an absolute majority of its total members, from among dignitaries who are former judges, former prosecutors, or dignitaries with at least 15 years of work experience in the field of law or judiciary;
+5- One (01) member appointed by the National Assembly (រដ្ឋសភា) by an absolute majority vote of the total National Assembly membership, from among dignitaries who are former judges or former prosecutors, or dignitaries with at least 15 years of work experience in the legal or judicial field.
 
-7- One (01) member appointed by the Minister of Justice from among all fully-qualified (ពេញសិទ្ធិ) Prosecutors;
+6- One (01) member appointed by the Constitutional Council (ក្រុមប្រឹក្សាធម្មនុញ្ញ) by an absolute majority vote of its total membership, from among dignitaries who are former judges or former prosecutors, or dignitaries with at least 15 years of work experience in the legal or judicial field.
 
-8- One (01) member who is a Judge of the higher courts (សាលាជម្រះក្តីជាន់ខ្ពស់), elected by the Judges of the higher courts;
+7- One (01) member appointed by the Minister of Justice from among all full-rights prosecutors.
 
-9- One (01) member who is a Prosecutor of the General Prosecution at the higher courts (មហាអយ្យការអមសាលាជម្រះក្តីជាន់ខ្ពស់) or a Prosecutor serving at the Ministry of Justice, elected by the Prosecutors serving at the General Prosecution at the higher courts and at the Ministry of Justice;
+8- One (01) member who is a judge of the High Court (សាលាជម្រះក្តីជាន់ខ្ពស់), elected by the judges of the High Court.
 
-10- One (01) member who is a fully-qualified Judge of the Courts of First Instance (សាលាដំបូង), elected by fully-qualified Judges of the Courts of First Instance nationwide;
+9- One (01) member who is a prosecutor of the General Prosecutor's Office attached to the High Court (មហាអយ្យការអមសាលាជម្រះក្តីជាន់ខ្ពស់) or a prosecutor working at the Ministry of Justice, elected by the prosecutors working at the General Prosecutor's Office attached to the High Court and at the Ministry of Justice.
 
-11- One (01) member who is a fully-qualified Prosecutor of the Prosecution at the Courts of First Instance (អយ្យការអមសាលាដំបូង), elected by fully-qualified Prosecutors of the Prosecution at the Courts of First Instance nationwide.
+10- One (01) member who is a full-rights judge of the Court of First Instance (សាលាដំបូង), elected by full-rights judges of the Courts of First Instance nationwide.
 
-All the above members of the Supreme Council of Magistracy shall be appointed by Royal Decree. The Minister of Justice shall draft the Royal Decree for the King for this purpose.
+11- One (01) member who is a full-rights prosecutor of the Prosecutor's Office attached to the Court of First Instance (អយ្យការអមសាលាដំបូង), elected by full-rights prosecutors of the Prosecutor's Offices attached to the Courts of First Instance nationwide.
 
-The formalities and procedures (បែបបទ និងនីតិវិធី) for the election of the members of the Supreme Council of Magistracy as mentioned in points 8 to 11 of this Article shall be determined by a Prokas (សេចក្ដីប្រកាស) of the Minister of Justice, after receiving the agreement of the majority of the members of the Supreme Council of Magistracy.
+All the above members of the Supreme Council of the Magistracy shall be appointed by Royal Decree (ព្រះរាជក្រឹត្យ). The Minister of Justice shall submit the draft Royal Decree to the King for this matter.
 
-**Article 5.-**
-Appointed members of the Supreme Council of Magistracy shall have a mandate (អាណត្តិ) of five (05) years and shall cease their functions upon the appointment of new members. Appointed members of the Supreme Council of Magistracy may be re-nominated for subsequent mandates. The election and appointment of members shall begin 90 (ninety) days before the end of each mandate.
+The formalities and procedures for the election of members of the Supreme Council of the Magistracy as stated in points 8 to 11 of this Article shall be determined by a Prakas (ប្រកាស) of the Minister of Justice after obtaining the approval of the majority of the members of the Supreme Council of the Magistracy.
 
-In the event that any member of the Supreme Council of Magistracy dies, resigns (លាលែង), loses the qualifications defined in Article 4 above, or is in a situation where they cannot fulfill their duties for any reason, this member shall be replaced by a new member for the remaining term of that mandate, according to the same procedures as set forth in Article 4 above. The Minister of Justice shall arrange for this task urgently.
+**Article 5 (មាត្រា ៥).‑**
+Elected members of the Supreme Council of the Magistracy shall have a mandate of 05 (five) years and shall terminate their term when the new elected members are appointed. Elected members of the Supreme Council of the Magistracy can stand for re-election for subsequent mandates. The election of membros of the Supreme Council of the Magistracy shall begin 90 (ninety) days before the end of each mandate.
 
-The Supreme Council of Magistracy may decide to remove (ដកតំណែង) any of its appointed members due to serious violation (ការរំលោភបំពានធ្ងន់ធ្ងរ) of its internal regulations (បទបញ្ជាផ្ទៃក្នុង) or for activities that cause serious damage to the honor and dignity (កិត្តិយស និងសេចក្តីថ្លៃថ្នូរ) of the Supreme Council of Magistracy. Such a decision requires the approval of at least 08 (eight) members of the total membership. Any member of the Supreme Council of Magistracy who is convicted by a court to imprisonment without suspension for a felony (បទឧក្រិដ្ឋ) or for a misdemeanor (បទមជ្ឈិម) committed intentionally shall be automatically removed from their position. The new member to be appointed as a replacement shall follow the provisions of this Law.
+[IMAGE: Seal of the Ministry of Royal Palace]
 
-**Article 6.-**
-The function as a member of the Supreme Council of Magistracy is incompatible (វិសមិតភាព) with the fulfillment of the function as a Judge or Prosecutor in the courts and prosecution offices during their mandate as a member, except for the President of the Supreme Court and the Prosecutor General attached to the Supreme Court.
-Members of the Supreme Council of Magistracy who have such incompatibility as mentioned above must request to be detached (ផ្ដាច់ពីមុខងារ) from their function as a Judge or Prosecutor in the courts and prosecution offices.
+In case any member of the Supreme Council of the Magistracy dies, resigns, or loses the qualifications as defined in Article 4 above, or is in a situation where they are unable to perform their functions for any reason, this member shall be replaced by a new member for the remaining duration of that mandate according to the formalities specified in Article 4 above. The Minister of Justice shall organize this matter immediately.
 
-**Article 7.-**
-The Royal Chairman (ព្រះប្រធាន) of the Supreme Council of Magistracy may appoint one Royal Representative (ព្រះរាជតំណាង) to preside over the Council. The appointed Royal Representative shall lead and manage the work of the Council and shall regularly report on its activities to the Royal Chairman.
+The Supreme Council of the Magistracy may decide to remove any of its elected members for reasons of serious violation of its Internal Regulations (បទបញ្ជាផ្ទៃក្នុង) or for conducting activities that seriously affect the honor and dignity of the Supreme Council of the Magistracy. The decision to remove any elected member of the Supreme Council of the Magistracy requires the approval of at least 08 (eight) members of the total membership. Any member of the Supreme Council of the Magistracy who is convicted by a court to a prison sentence without suspension for a felony or a misdemeanor committed intentionally shall be automatically removed from their position. The new member who is to take over the position shall follow the provisions of this Law.
 
-The Royal Representative shall not participate in the decision-making (ការធ្វើសេចក្តីសម្រេច) of the Supreme Council of Magistracy. However, if the Minister of Justice or the President of the Supreme Court is appointed as the Royal Representative, the Minister of Justice or the President of the Supreme Court shall have the right to participate in the decision-making like other members.
+**Article 6 (មាត្រា ៦).‑**
+The function as a member of the Supreme Council of the Magistracy is incompatible (វិសមិតភាព) with performing functions as a judge or a prosecutor in the courts and the prosecutor's offices attached to the courts during their mandate as a member of the Supreme Council of the Magistracy, except for the President of the Supreme Court and the Prosecutor General attached to the Supreme Court.
+Members of the Supreme Council of the Magistracy who have an incompatibility of functions as stated in the above paragraph must request to be detached from their functions as a judge or a prosecutor in the courts and the prosecutor's offices attached to the courts.
 
-## Section 2
-## General Secretariat (អគ្គលេខាធិការដ្ឋាន) of the Supreme Council of Magistracy
+**Article 7 (មាត្រា ៧).‑**
+The Royal President (ព្រះប្រធាន) of the Supreme Council of the Magistracy may appoint a Royal Representative (ព្រះរាជតំណាង) to preside over the Supreme Council of the Magistracy. The appointed Royal Representative who leads and manages the work of the Supreme Council of the Magistracy shall regularly report the activities of the Supreme Council of the Magistracy to the Royal President of the Supreme Council of the Magistracy.
 
-**Article 8.-**
-The Supreme Council of Magistracy shall have one General Secretariat (អគ្គលេខាធិការដ្ឋាន) located under the central administration of the Ministry of Justice to serve as the staff (សេនាធិការ) supporting its operations. The General Secretariat of the Supreme Council of Magistracy is led by one Secretary General (អគ្គលេខាធិការ) with a rank equivalent to Secretary of State (រដ្ឋលេខាធិការ) or Minister (រដ្ឋមន្ត្រី) and assisted by a number of Deputy Secretaries General (អគ្គលេខាធិការរង) as necessary, who shall be appointed by Royal Decree or Sub-Decree (អនុក្រឹត្យ).
+[IMAGE: Seal of the Ministry of Royal Palace]
 
-The Secretary General and Deputy Secretaries General of the Supreme Council of Magistracy shall be appointed by Royal Decree or Sub-Decree upon the proposal of the Minister of Justice after consultation with all members of the Supreme Council of Magistracy. They shall be selected from among dignitaries or civil servants (មន្ត្រីរាជការ) and must have at least 10 (ten) years of work experience in the fields of law, administration, or finance. Civil servants working in the General Secretariat of the Supreme Council of Magistracy shall belong to the framework (ក្របខណ្ឌ) of the Ministry of Justice. The General Secretariat may have contract staff to assist as necessary. The General Secretariat is divided into departments (នាយកដ្ឋាន), each led by one (01) Director (ប្រធាន) and supported by several Deputy Directors (អនុប្រធាន) as necessary.
-The organization and functioning of the General Secretariat of the Supreme Council of Magistracy shall be determined by a Sub-Decree.
+The Royal Representative (ព្រះរាជតំណាង) shall not participate in the decision-making of the Supreme Council of the Magistracy. However, in the case where the Minister of Justice or the President of the Supreme Court is appointed as the Royal Representative, the Minister of Justice or the President of the Supreme Court has the right to participate in the decision-making of the Supreme Council of the Magistracy like other members.
 
-**Article 9.-**
-The Secretary General of the Supreme Council of Magistracy, assisted by several officers of the General Secretariat as necessary, shall serve as the secretary (លេខាកត់ត្រា) for every meeting of the Supreme Council of Magistracy and every meeting of its Disciplinary Council (ក្រុមប្រឹក្សាវិន័យ).
+## Section 2 (ផ្នែកទី ២)
+## General Secretariat of the Supreme Council of the Magistracy (អគ្គលេខាធិការដ្ឋាននៃឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)
 
-# Chapter 3
-# Functioning (កិច្ចដំណើរការ) of the Supreme Council of Magistracy
+**Article 8 (មាត្រា ៨).‑**
+The Supreme Council of the Magistracy shall have a General Secretariat (អគ្គលេខាធិការដ្ឋាន) located under the central administration (រដ្ឋបាលកណ្ដាល) of the Ministry of Justice to serve as a staff (សេនាធិការ) for supporting its operation. The General Secretariat of the Supreme Council of the Magistracy shall be led by a Secretary General (អគ្គលេខាធិការ) with a rank equal to Secretary of State or Minister, and several Deputy Secretaries General as necessary, who shall be appointed by Royal Decree (ព្រះរាជក្រឹត្យ) or Sub-Decree (អនុក្រឹត្យ).
 
-**Article 10.-**
-The Minister of Justice shall convene (កោះប្រជុំ) the Supreme Council of Magistracy upon the Royal Order of the Royal Chairman. At least 04 (four) members of the Council may also request a meeting. The Minister of Justice shall formulate the request to the Royal Chairman for Royal Wisdom (ព្រះរាជតម្រិះ) to convene the meeting.
+The Secretary General and Deputy Secretaries General of the Supreme Council of the Magistracy shall be appointed by Royal Decree or Sub-Decree upon the proposal of the Minister of Justice after consultation with all members of the Supreme Council of the Magistracy. The Secretary General and Deputy Secretaries General of the Supreme Council of the Magistracy shall be selected from among dignitaries or civil servants (មន្ត្រីរាជការ) and must have work experience in the fields of law, administration, or finance for at least 10 (ten) years. Civil servants working in the General Secretariat of the Supreme Council of the Magistracy shall belong to the cadre (ក្របខណ្ឌ) of the Ministry of Justice. The General Secretariat of the Supreme Council of the Magistracy may have contracted officials (មន្ត្រីជាប់កិច្ចសន្យា) to assist in its work as necessary. The General Secretariat of the Supreme Council of the Magistracy is divided into departments, led by one (01) Director and several Deputy Directors as necessary.
 
-**Article 11.-**
-Meetings of the Supreme Council of Magistracy shall be valid (ទុកជាបានការ) only if at least 06 (six) members are present.
-Decisions of the Supreme Council of Magistracy that are valid must receive at least 06 (six) votes by secret ballot (បោះឆ្នោតជាសម្ងាត់). The Royal Chairman of the Supreme Council of Magistracy does not participate in the decision-making of the Council.
-In urgent and necessary cases, and upon the request of at least 06 (six) members of the Supreme Council of Magistracy, decisions of the Council may be made by indirect secret ballot. The Minister of Justice shall arrange this task after receiving Royal Wisdom from the Royal Chairman.
+The organization and functioning of the General Secretariat of the Supreme Council of the Magistracy shall be determined by a Sub-Decree.
 
-**Article 12.-**
-Members of the Supreme Council of Magistracy, including the secretary and the assistants to the secretary, must maintain the confidentiality (ការសម្ងាត់) of the meetings.
+**Article 9 (មាត្រា ៩).‑**
+The Secretary General (អគ្គលេខាធិការ) of the General Secretariat of the Supreme Council of the Magistracy, accompanied by several officials of this General Secretariat as necessary, shall serve as the secretary of records (លេខាកត់ត្រា) for all meetings of the Supreme Council of the Magistracy and meetings of the Disciplinary Council (ក្រុមប្រឹក្សាវិន័យ) of the Supreme Council of the Magistracy.
 
-**Article 13.-**
-For all tasks of the Supreme Council of Magistracy related to the submission of draft Royal Decrees to the King, the Minister of Justice shall arrange this work on behalf of the Supreme Council of Magistracy. The Minister of Justice is the representative of the Supreme Council of Magistracy in relations with private or public persons and has the duty to manage (ចាត់ចែង) the administrative affairs of the Council, with the General Secretariat of the Council serving as the staff.
+[IMAGE: Seal of the Ministry of Royal Palace]
 
-**Article 14.-**
-The Supreme Council of Magistracy shall prepare its internal regulations (បទបញ្ជាផ្ទៃក្នុង) to define its working procedures. The internal regulations shall be adopted by at least 06 (six) votes of the total members of the Council.
+# Chapter 3 (ជំពូកទី ៣)
+# Operation of the Supreme Council of the Magistracy (កិច្ចដំណើរការនៃឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)
 
-**Article 15.-**
-The Supreme Council of Magistracy shall have its own budget package provided by the national budget. The Minister of Justice is the legally authorized person (អាណាប័ក) receiving authority from the Royal Chairman.
+**Article 10 (មាត្រា ១០).‑**
+The Minister of Justice shall convene meetings of the Supreme Council of the Magistracy (ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម) upon the Royal Order (ព្រះរាជបញ្ជា) of the Royal President (ព្រះប្រធាន) of the Supreme Council of the Magistracy. At least four (04) members of the Supreme Council of the Magistracy may request a meeting of the Supreme Council of the Magistracy. The Minister of Justice shall prepare a submission to the Royal President of the Supreme Council of the Magistracy to request a Royal Instruction (ព្រះរាជតម្រិះ) to convene the meeting.
 
-**Article 16.-**
-The Supreme Council of Magistracy shall receive functional allowances (ប្រាក់បំណាច់មុខងារ), meeting session allowances (ប្រាក់បំណាច់ម៉ោងប្រជុំ), and other supports for the fulfillment of its functions.
-Members of the Council may choose only one functional allowance among those they are entitled to receive.
+**Article 11 (មាត្រា ១១).‑**
+Meetings of the Supreme Council of the Magistracy shall be valid only if at least six (06) members participate in the meeting.
+Decisions of the Supreme Council of the Magistracy that are valid must have at least six (06) votes by secret ballot (ការបោះឆ្នោតជាសម្ងាត់). The Royal President of the Supreme Council of the Magistracy shall not participate in decision-making of the Supreme Council of the Magistracy.
+In cases of urgent necessity and upon the request of at least six (06) members of the Supreme Council of the Magistracy, decisions of the Supreme Council of the Magistracy may be made by indirect secret ballot (ការបោះឆ្នោតជាសម្ងាត់ដោយប្រយោល). The Minister of Justice shall organize this matter after receiving the Royal Instruction (ព្រះរាជតម្រិះ) from the Royal President of the Supreme Council of the Magistracy.
 
-**Article 17.-**
-The Supreme Council of Magistracy shall use its own seal (ត្រា) in the fulfillment of its work.
+**Article 12 (មាត្រា ១២).‑**
+Members of the Supreme Council of the Magistracy, including the secretary of records (លេខាកត់ត្រា) and the assistant to the secretary of records, shall maintain the confidentiality of the meetings.
 
-# Chapter 4
-# Jurisdiction (សមត្ថកិច្ច) of the Supreme Council of Magistracy
+**Article 13 (មាត្រា ១៣).‑**
+For all works of the Supreme Council of the Magistracy related to the submission of draft Royal Decrees (ព្រះរាជក្រឹត្យ) to the King, the Minister of Justice shall organize these works on behalf of the Supreme Council of the Magistracy. The Minister of Justice is the representative of the Supreme Council of the Magistracy in relations with private or public persons and has the duty to manage the administrative affairs of the Supreme Council of the Magistracy, with the General Secretariat (អគ្គលេខាធិការដ្ឋាន) of the Supreme Council of the Magistracy serving as staff (សេនាធិការ).
 
-## Section 1
-## General Jurisdiction (សមត្ថកិច្ចទូទៅ) of the Supreme Council of Magistracy
+[IMAGE: Seal of the Ministry of Royal Palace]
 
-**Article 18.-**
-The Supreme Council of Magistracy decides and submits proposals (លើកសេចក្តីស្នើ) to the King regarding the appointment (ការតែងតាំង), transfer (ការផ្លាស់ប្តូរ), detachment (ការផ្ដាច់ពីមុខងារ), secondment (ការដាក់ឲ្យនៅក្រៅក្របខណ្ឌ), placement on leave (ការដាក់ឲ្យនៅទំនេរ), and removal (ការលុបឈ្មោះ) of all Judges.
+**Article 14 (មាត្រា ១៤).‑**
+The Supreme Council of the Magistracy shall prepare Internal Regulations (បទបញ្ជាផ្ទៃក្នុង) to define its working procedures. The Internal Regulations shall be adopted by at least six (06) votes of the total membership of the Supreme Council of the Magistracy.
 
-The Council also submits proposals to the King regarding the appointment, transfer, detachment, placement on leave, secondment, and removal of all Prosecutors.
+**Article 15 (មាត្រា ១៥).‑**
+The Supreme Council of the Magistracy has its own budget package, which is supplied by the national budget. The Minister of Justice is the Authorizing Officer (អាណាប័ក) who legally receives the authorization from the Royal President of the Supreme Council of the Magistracy.
 
-All these shall be done upon the proposal (តាមសំណើ) of the Minister of Justice. Consultation (ពិគ្រោះយោបល់) with the Supreme Council of Magistracy on the above proposals is mandatory.
+**Article 16 (មាត្រា ១៦).‑**
+The Supreme Council of the Magistracy shall receive function allowances (ប្រាក់បំណាច់មុខងារ), meeting attendance fees, and various types of support for the performance of its functions.
+Members of the Supreme Council of the Magistracy may choose only one function allowance from among the function allowances they are entitled to receive.
 
-The Council provides opinions (ផ្តល់យោបល់) on the promotion of class (ថ្នាក់) and rank (ឋានន្តរស័ក្តិ) for all Judges and Prosecutors according to the procedures and conditions set forth in the Law on the Statute (លក្ខន្តិកៈ) of Judges and Prosecutors.
+**Article 17 (មាត្រា ១៧).‑**
+The Supreme Council of the Magistracy shall use its own seal in its work.
 
-**Article 19.-**
-The Supreme Council of Magistracy must be consulted to provide opinions on draft laws (សេចក្តីព្រាងច្បាប់) or proposed laws (សេចក្តីស្នើច្បាប់) related to the organization of the judiciary and its functioning. The opinions of the Council shall be provided within 30 (thirty) days at the latest from the date of receipt from the Minister of Justice. In urgent cases, this period may be reduced to 10 (ten) days.
-The Council reviews and decides on the Code of Ethics (ក្រមសីលធម៌) for Judges and Prosecutors.
+# Chapter 4 (ជំពូកទី ៤)
+# Competence of the Supreme Council of the Magistracy (សមត្ថកិច្ចរបស់ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)
 
-## Section 2
-## Jurisdiction of the Supreme Council of Magistracy in Disciplinary Actions (មុខការដាក់វិន័យ) against Judges and Prosecutors
+## Section 1 (ផ្នែកទី ១)
+## General Competence of the Supreme Council of the Magistracy (សមត្ថកិច្ចទូទៅរបស់ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម)
 
-**Article 20.-**
-For disciplinary actions against Judges, the Supreme Council of Magistracy shall meet in the form of a Disciplinary Council (ក្រុមប្រឹក្សាវិន័យ) under the chairmanship of the President of the Supreme Court. For disciplinary actions against Prosecutors, it shall meet as a Disciplinary Council under the chairmanship of the Prosecutor General attached to the Supreme Court. In these cases, the King and the Minister of Justice shall not participate in the Disciplinary Council.
-In cases involving disciplinary matters related to the President of the Supreme Court or the Prosecutor General attached to the Supreme Court, the Disciplinary Council shall meet under the Royal Chairmanship of the King or the Royal Representative. The Minister of Justice shall participate in this meeting.
-Any Judge or Prosecutor who is a member of the Supreme Council of Magistracy and who is involved in a disciplinary case cannot participate in the Disciplinary Council meeting as a member to review and decide on that case.
+**Article 18 (មាត្រា ១៨).‑**
+The Supreme Council of the Magistracy decides and submits proposals to the King concerning the appointment (ការតែងតាំង), transfer (ការផ្លាស់ប្តូរ), detachment (ការផ្ដាច់ពីមុខងារ), secondment (ការដាក់ឲ្យនៅក្រៅក្របខណ្ឌ), leave of absence/inactivity (ការដាក់ឲ្យនៅទំនេរ), and removal (ការលុបឈ្មោះ) of all judges.
 
-**Article 21.-**
-An Inspection Group (ក្រុមអធិការកិច្ច) of the Supreme Council of Magistracy shall be established to assist the work of the Disciplinary Council in investigating and researching disciplinary files.
-The composition of the Inspection Group shall be appointed by Royal Decree after a decision by the majority of the members of the Supreme Council of Magistracy.
-The Inspection Group is led by Co-Presidents (សហប្រធាន), where one (01) Co-President shall be selected from among Judges with the rank of High-level Judge (ឧត្តមចៅក្រម) and the other one (01) Co-President from among Prosecutors with the rank of High-level Prosecutor (ឧត្តមព្រះរាជអាជ្ញា).
-The detailed functions, organization, and functioning of the Inspection Group shall be determined by the Disciplinary Council of the Supreme Council of Magistracy.
+The Supreme Council of the Magistracy submits proposals to the King concerning the appointment (ការតែងតាំង), transfer (ការផ្លាស់ប្តូរ), detachment (ការផ្ដាច់ពីមុខងារ), leave of absence/inactivity (ការដាក់ឲ្យនៅទំនេរ), secondment (ការដាក់ឲ្យនៅក្រៅក្របខណ្ឌ), and removal (ការលុបឈ្មោះ) of all prosecutors.
 
-**Article 22.-**
-The Inspection Group performs its work according to the assignment of the President of the Disciplinary Council. Within the framework of its work, the Inspection Group may request to examine any files related to or useful for the disciplinary case. In case of necessity, it may request clarification from any person. Any Judge or Prosecutor who fails to cooperate with the request of the Inspection Group shall be considered to have committed a disciplinary offense (កំហុសវិន័យ) which shall be recorded in the inspection minutes (កំណត់ហេតុអធិការកិច្ច).
+[IMAGE: Seal of the Ministry of Royal Palace]
 
-**Article 23.-**
-Complaints (ពាក្យបណ្តឹង) regarding disciplinary matters of Judges and Prosecutors shall be submitted to the General Secretariat of the Supreme Council of Magistracy or to the Ministry of Justice. The Minister of Justice shall order a preliminary review and investigation of these complaints to build a disciplinary file before deciding to send it to the Disciplinary Council for further proceedings (នីតិវិធី).
+The above [proposals are] made upon the request of the Minister of Justice. The Supreme Council of the Magistracy must be necessarily consulted regarding the above proposals.
 
-**Article 24.-**
-After receiving a disciplinary file, and if deemed necessary, the President of the Disciplinary Council may order additional investigation using the mechanism of the Inspection Group.
+The Supreme Council of the Magistracy provides advice on the promotion of grades and promotion of ranks (ឋានន្តរស័ក្តិ) for all judges and prosecutors, following the formalities and conditions specified in the Law on the Statute (លក្ខន្តិកៈ) of Judges and Prosecutors.
 
-**Article 25.-**
-The President of the Disciplinary Council convenes the meeting. The disciplinary file and all related documents must be sent to all members of the Disciplinary Council at least 10 (ten) days before the meeting date. The Judge or Prosecutor involved has the right to know the disciplinary charges (បទវិន័យ) against them and has the right to defend themselves or be assisted by a lawyer (មេធាវី) before the Disciplinary Council.
-Meetings of the Disciplinary Council shall be held in camera (អសាធារណៈ). The President may invite relevant persons to participate if necessary. Members of the Council and participants must maintain confidentiality.
-The quorum (កូរ៉ុម) for Disciplinary Council meetings shall be the same as for meetings of the Supreme Council of Magistracy as set forth in Article 11.
-Detailed procedures for the functioning of the Disciplinary Council shall be determined in its internal regulations.
+**Article 19 (មាត្រា ១៩).‑**
+The Supreme Council of the Magistracy must be necessarily consulted to provide advice on draft laws (សេចក្តីព្រាងច្បាប់) or proposed laws (សេចក្តីស្នើច្បាប់) related to the organization of the judiciary and the functioning of this sector. The advice of the Supreme Council of the Magistracy must be provided within 30 (thirty) days at the latest from the date of receiving the proposed law or draft law from the Minister of Justice. In urgent cases, this period may be reduced to 10 (ten) days.
+The Supreme Council of the Magistracy examines and decides on the Code of Ethics for Judges and Prosecutors.
 
-**Article 26.-**
-In the event that a fault is found, the Disciplinary Council decides on disciplinary sanctions (ទណ្ឌកម្មវិន័យ) as set forth in the Law on the Statute (លក្ខន្តិកៈ) of Judges and Prosecutors. The decisions of the Council must state the factual and legal grounds (សំអាងហេតុ និងសំអាងច្បាប់).
+## Section 2 (ផ្នែកទី ២)
+## Competence of the Supreme Council of the Magistracy in Disciplining Judges and Prosecutors (សមត្ថកិច្ចរបស់ឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រមក្នុងមុខការដាក់វិន័យចៅក្រម និងព្រះរាជអាជ្ញា)
 
-The decision-making process shall be the same as that of the Supreme Council of Magistracy as set forth in Article 11.
+**Article 20 (មាត្រា ២០).‑**
+In its disciplinary function against judges, the Supreme Council of the Magistracy shall meet in the form of a Disciplinary Council (ក្រុមប្រឹក្សាវិន័យ) under the presidency of the President of the Supreme Court. In its disciplinary function against prosecutors, the Supreme Council of the Magistracy shall meet in the form of a Disciplinary Council under the presidency of the Prosecutor General attached to the Supreme Court. In these cases, the King and the Minister of Justice do not participate in the Disciplinary Council.
+In cases of disciplinary files (សំណុំរឿងវិន័យ) concerning the President of the Supreme Court or the Prosecutor General attached to the Supreme Court, the Disciplinary Council shall meet under the High Presidency (ព្រះរាជាធិបតីភាព) of the King or a Royal Representative (ព្រះរាជតំណាង). The Minister of Justice must participate in meetings of this Disciplinary Council.
+A judge or prosecutor who is a member of the Supreme Council of the Magistracy and has a disciplinary file related to themselves cannot participate in meetings as a member of the Disciplinary Council of the Supreme Council of the Magistracy to examine and decide on that disciplinary file.
 
-The decisions of the Disciplinary Council shall be submitted to the Supreme Council of Magistracy for review and decision. The decision of the Supreme Council of Magistracy shall be final and not subject to appeal (បិទផ្លូវតវ៉ា).
+[IMAGE: Seal of the Ministry of Royal Palace]
 
-In cases where a disciplinary sanction of the 2nd category (ទណ្ឌកម្មវិន័យថ្នាក់ទី ២) is pronounced, the Council shall submit a proposal to the King for this purpose.
+**Article 21 (មាត្រា ២១).‑**
+An Inspection Team (ក្រុមអធិការកិច្ច) of the Supreme Council of the Magistracy shall be established to assist the work of the Disciplinary Council (ក្រុមប្រឹក្សាវិន័យ) of the Supreme Council of the Magistracy in investigating and researching disciplinary files (សំណុំរឿងវិន័យ).
+The composition of the Inspection Team of the Supreme Council of the Magistracy shall be appointed by Royal Decree (ព្រះរាជក្រឹត្យ) after receiving a decision by a majority of the members of the Supreme Council of the Magistracy.
+This Inspection Team is led by Co-Presidents (សហប្រធាន), of which one (01) Co-President shall be selected from among judges with the rank of Senior Judge (ឧត្តមចៅក្រម) and another one (01) Co-President shall be selected from among prosecutors with the rank of Senior Prosecutor (ឧត្តមព្រះរាជអាជ្ញា).
+The detailed functions, as well as the organization and functioning of the Inspection Team of the Supreme Council of the Magistracy, shall be determined by the Disciplinary Council of the Supreme Council of the Magistracy.
 
-# Chapter 5
+**Article 22 (មាត្រា ២២).‑**
+The Inspection Team (ក្រុមអធិការកិច្ច) performs its work according to the assignment of the President of the Disciplinary Council of the Supreme Council of the Magistracy. In the framework of performing its work, the Inspection Team may request to examine various files related to the disciplinary file or beneficial to the disciplinary file. In case of necessity, the Inspection Team may request clarifications from all persons. Judges and prosecutors who do not provide cooperation as requested by the Inspection Team shall be considered to have committed a disciplinary offense, which must be recorded in the inspection report (កំណត់ហេតុអធិការកិច្ច).
+
+**Article 23 (មាត្រា ២៣).‑**
+Disciplinary complaints (ពាក្យបណ្តឹងអំពីវិន័យ) concerning judges and prosecutors shall be filed at the General Secretariat (អគ្គលេខាធិការដ្ឋាន) of the Supreme Council of the Magistracy or at the Ministry of Justice. The Minister of Justice shall order a preliminary examination and investigation into these complaints to build a disciplinary file before deciding to send this file to the Disciplinary Council of the Supreme Council of the Magistracy to continue the procedure.
+
+**Article 24 (មាត្រា ២៤).‑**
+After receiving a disciplinary file and if it is considered necessary, the President of the Disciplinary Council may order further research by using the mechanism of the Inspection Team (ក្រុមអធិការកិច្ច) of the Disciplinary Council of the Supreme Council of the Magistracy.
+
+[IMAGE: Seal of the Ministry of Royal Palace]
+
+**Article 25 (មាត្រា ២៥).‑**
+The President of the Disciplinary Council (ប្រធានក្រុមប្រឹក្សាវិន័យ) shall convene meetings of the Disciplinary Council of the Supreme Council of the Magistracy. Disciplinary files (សំណុំរឿងវិន័យ) and documents related to the discipline of judges and prosecutors shall be sent to all members of the Disciplinary Council at least 10 (ten) days before the meeting. The judge or prosecutor involved in the disciplinary file has the right to be informed about the disciplinary charges against them and has the right to defend themselves or with the assistance of a lawyer before the Disciplinary Council of the Supreme Council of the Magistracy.
+Meetings of the Disciplinary Council shall be non-public (អសាធារណៈ). The President of the Disciplinary Council may invite relevant persons to participate in its meetings if necessary. Members of the Supreme Council of the Magistracy, as well as persons participating in the meetings of the Disciplinary Council of the Supreme Council of the Magistracy, shall maintain the confidentiality of the meeting.
+The quorum (កូរ៉ុម) for meetings of the Disciplinary Council shall be the same as the quorum for meetings of the Supreme Council of the Magistracy as stated in Article 11 of this Law.
+Detailed procedures for the operation of the Disciplinary Council shall be determined in the Internal Regulations (បទបញ្ជាផ្ទៃក្នុង) of the Disciplinary Council of the Supreme Council of the Magistracy.
+
+**Article 26 (មាត្រា ២៦).‑**
+In case a fault is found, the Disciplinary Council of the Supreme Council of the Magistracy decide to impose disciplinary sanctions (ទណ្ឌកម្មវិន័យ) as specified in the Law on the Statute (លក្ខន្តិកៈ) of Judges and Prosecutors. The decision of the Disciplinary Council shall include the statement of reasons (សំអាងហេតុ) and legal grounds (សំអាងច្បាប់).
+Decisions of the Disciplinary Council shall be made in the same manner as the decisions of the Supreme Council of the Magistracy as stated in Article 11 of this Law.
+The decision of the Disciplinary Council shall be submitted to the Supreme Council of the Magistracy for examination and decision. The decision of the Supreme Council of the Magistracy shall be final and non-appealable (សេចក្តីសម្រេចបិទផ្លូវតវ៉ា).
+In case a second-class disciplinary sanction (ទណ្ឌកម្មវិន័យថ្នាក់ទី ២) is proclaimed, the Supreme Council of the Magistracy shall submit a proposal to the King concerning this matter.
+
+# Chapter 5 (ជំពូកទី ៥)
 # Transitional Provisions (អន្តរប្បញ្ញត្តិ)
 
-**Article 27.-**
-For the duration of the organization of the new composition of the Supreme Council of Magistracy as set forth in Article 4, the composition of the Council as it existed before this Law enters into force shall continue its work in accordance with the provisions of this Law until the new composition is officially appointed by Royal Decree. In this case, the principle of incompatibility as set forth in Article 6 of this Law shall not apply.
+**Article 27 (មាត្រា ២៧).‑**
+For the period of organizing the new composition of the Supreme Council of the Magistracy as stated
 
-**Article 28.-**
-The Minister of Justice shall organize the elections for members of the Supreme Council of Magistracy as set forth from points 8 to 11 of Article 4 within 03 (three) months after this Law enters into force.
+[IMAGE: Seal of the Ministry of Royal Palace]
 
-The formalities and procedures for the first election shall be determined by a Prokas of the Minister of Justice.
+in Article 4 of this Law, the composition of the Supreme Council of the Magistracy existing before this Law comes into force (ចូលជាធរមាន) shall continue its work in accordance with (អនុលោម) the provisions of this Law until the new composition is officially appointed by Royal Decree (ព្រះរាជក្រឹត្យ). In this case, the principle of incompatibility (វិសមិតភាព) as specified in Article 6 of this Law shall not be applied.
 
-**Article 29.-**
-For the period where the Inspection Group has not yet been appointed, the President of the Disciplinary Council may assign Judges or Prosecutors serving at the courts and prosecution offices to conduct investigations and research on disciplinary files.
+**Article 28 (មាត្រា ២៨).‑**
+The Minister of Justice shall organize the election to select members of the Supreme Council of the Magistracy as specified from point 8 to point 11 of Article 4 of this Law within 03 (three) months after this Law comes into force.
+The formalities and procedures for the first election to select members of the Supreme Council of the Magistracy as specified in the 3rd paragraph of Article 4 of this Law shall be determined by a Prakas (ប្រកាស) of the Minister of Justice.
 
-**Article 30.-**
-The provisions of Article 6 shall not apply to the fulfillment of functions as a Judge or Prosecutor in the Extraordinary Chambers in the Courts of Cambodia (ECCC) to judge crimes committed during the period of Democratic Kampuchea.
+**Article 29 (មាត្រា ២៩).‑**
+For the period when the Inspection Team (ក្រុមអធិការកិច្ច) of the Disciplinary Council of the Supreme Council of the Magistracy has not yet been appointed according to the provisions of Article 21 of this Law, the President of the Disciplinary Council of the Supreme Council of the Magistracy may assign judges or prosecutors working at the courts and the prosecutor's offices attached to the courts to carry out research and investigations into disciplinary files (សំណុំរឿងវិន័យ).
 
-# Chapter 6
+**Article 30 (មាត្រា ៣០).‑**
+The provisions of Article 6 of this Law shall NOT be applied to the performance of functions as a judge or prosecutor in the Extraordinary Chambers in the Courts of Cambodia (ECCC) (អង្គជំនុំជម្រះវិសាមញ្ញក្នុងតុលាការកម្ពុជា) to trial crimes committed during the period of Democratic Kampuchea (កម្ពុជាប្រជាធិបតេយ្យ).
+
+# Chapter 6 (ជំពូកទី ៦)
 # Final Provisions (អវសានប្បញ្ញត្តិ)
 
-**Article 31.-**
-The Law on the Organization and Functioning of the Supreme Council of Magistracy promulgated by Royal Kram No. 09 NS.94 dated December 22, 1994, as well as any other legal instruments contrary to this Law, are hereby abrogated (ទុកជានិរាករណ៍) and replaced by this Law.
+**Article 31 (មាត្រា ៣១).‑**
+The Law on the Organization and Functioning of the Supreme Council of the Magistracy which was promulgated
 
-Done at the Royal Palace, July 16, 2014
+[IMAGE: Seal of the Ministry of Royal Palace]
 
-No. NS/1407/813
+by Royal Proclamation (ព្រះរាជក្រម) No. 09 NS 94 dated December 22, 1994, as well as any legal instruments (លិខិតបទដ្ឋានគតិយុត្ត) contrary to this Law, shall be abrogated (ទុកជានិរាករណ៍) and replaced by this Law.
 
-**[Royal Signature and Seal]**
-**Norodom Sihamoni**
+Done at the Royal Palace on July 16, 2014
 
-Seen and Proffered for Royal Signature
-**Prime Minister**
-**[Signature]**
-**Samdech Akka Moha Sena Padei Techo Hun Sen**
+NS/1407/813
 
-Seen and Respectfully Informed to
-Samdech Akka Moha Sena Padei Techo Hun Sen, Prime Minister
-**Minister of Justice**
-**[Signature]**
-**Ang Vong Vathana**
+**[Royal Signature and Seal] (ព្រះហស្តលេខា និងព្រះរាជលញ្ឆករ)**
+**Norodom Sihamoni (នរោត្តម សីហមុនី)**
 
-No.: 904 SN
-For Copy and Distribution
+Submitted to the King for signature
+**Prime Minister (នាយករដ្ឋមន្ត្រី)**
+**[Signature] (ហត្ថលេខា)**
+**Samdech Akka Moha Sena Padei Techo Hun Sen (សម្ដេចអគ្គមហាសេនាបតីតេជោ ហ៊ុន សែន)**
+
+Respectfully submitted to Samdech Akka Moha Sena Padei Techo Hun Sen, Prime Minister
+**Minister of Justice (រដ្ឋមន្ត្រីក្រសួងយុត្តិធម៌)**
+**[Signature] (ហត្ថលេខា)**
+**Ang Vong Vathana (អង្គ វង្សវឌ្ឍនា)**
+
+No: 904 SN
+Certified to be a true copy for dissemination
 Phnom Penh, July 17, 2014
-**Secretary General of the Royal Government**
-**[Signature and Seal]**
-**Soy Sokha**
+**Secretary General of the Royal Government (អគ្គលេខាធិការរាជរដ្ឋាភិបាល)**
+
+[IMAGE: Signature and Seal of the Council of Ministers]
+**Soy Sokha (សយ សុខា)**
