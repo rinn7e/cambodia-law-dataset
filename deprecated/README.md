@@ -32,23 +32,11 @@ There is also a directory called `tool` that will help converting data into vari
 
 ## Tool
 
-List of useful scripts
+The tools for processing PDF documents (PDF to Images, OCR, and AI Cleaning) are now hosted in a dedicated repository:
 
-- convert pdf to list of images
+[**PDF to Markdown Toolkit**](https://github.com/rinn7e/pdf-to-markdown)
 
-```sh
-cd 5-tool/pdf-to-images
-stack run -- ../../1-raw/1-constitution/file.pdf -o ../../2-semi-structure/1-constitution/1-raw-images
-cd ../..
-```
-
-- convert list of images, to raw md (extracted using google vision)
-
-```sh
-cd 5-tool/images-to-md
-stack run -- --input-dir ../pdf-to-images/output --output-dir ../../2-semi-structure/1-constitution/2-google-vision-md --credentials <path-to-your-google-cloud-cred>
-cd ../..
-```
+Please refer to that repository for installation and usage instructions.
 
 
 ## License
