@@ -23,10 +23,11 @@ dataset/
 
 ## Current Laws
 
-Currently, the following laws are available:
+Currently, the following laws are available, categorized by an importance score (0 being the most important, such as the Constitution):
 
-- **Law on the Organization of Courts (2014) - ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ** - [Khmer](dataset/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014.md) | [English](dataset/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014-en.md)
-- **Law on the Supreme Council of the Magistracy (2014) - ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម** - [Khmer](dataset/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014.md) | [English](dataset/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014-en.md)
+- **[0] The Constitution of the Kingdom of Cambodia (2025) - រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា** - [Khmer](dataset/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025.md) | [English](dataset/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025-en.md)
+- **[2] Law on the Organization of Courts (2014) - ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ** - [Khmer](dataset/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014.md) | [English](dataset/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014-en.md)
+- **[2] Law on the Supreme Council of the Magistracy (2014) - ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម** - [Khmer](dataset/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014.md) | [English](dataset/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014-en.md)
 
 *(Note: File paths may vary slightly based on actual dataset filenames)*
 
