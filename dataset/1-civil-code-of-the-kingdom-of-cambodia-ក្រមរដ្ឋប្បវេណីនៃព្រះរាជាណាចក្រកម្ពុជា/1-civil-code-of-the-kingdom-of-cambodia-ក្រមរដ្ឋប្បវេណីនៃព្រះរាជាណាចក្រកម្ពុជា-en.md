@@ -537,40 +537,15 @@ With respect to matters where the interests of a director and those of the jurid
 
 2-Supervisors may demand that directors and employees of the juridical person report on the status of the business, or may investigate the status of the business and the property of the juridical person.
 
-3-Supervisors shall examine the agenda and documents that the directors intend to submit to the general meeting of members or the board of directors. In this case, if the supervisors find any violation of laws or the articles of incorporation, or any extremely improper point, they must report it to the general meeting of members or the
-```
+3-Supervisors shall examine the agenda and documents that the directors intend to submit to the general meeting of members or the board of directors. In this case, if the supervisors find any violation of laws or the articles of incorporation, or any extremely improper point, they must report it to the general meeting of members or the board of directors.
 
-#### Article 61.- Special representative
+4-Supervisors may express their opinions regarding the appointment or dismissal of supervisors or the remuneration of supervisors at the general meeting of members or the board of directors.
 
-With respect to matters where the interests of a director and those of the juridical person conflict, the director shall not have the authority of representation. In cases where there is no representative for the juridical person due to this reason, a special representative shall be appointed in accordance with the procedures specified in Article 60 (Provisional director) of this Code.
+5-If supervisors find that a director has performed an act outside the scope of the purpose of the juridical person, or performed other acts that violate laws or the articles of incorporation, or if they have a concern that the director will perform such acts, the supervisors must report the facts to the general meeting of members or the board of directors. In this case, if necessary to make such a report, the supervisors may convene a general meeting of members or a board of directors meeting. The supervisors of a foundation shall make the above report to the ministry or institution with supervisory authority at the latest at the same time as the report to the board of directors.
 
-#### Article 62.- Supervisors
+6-In cases where a director has performed an act as prescribed in paragraph 5 above, or if there is a concern that a director will perform such an act, and if there is a concern that such action may cause serious damage to the juridical person, a member may demand that such director cease such action.
 
-1-A juridical person must have one or more supervisors. However, an unlimited liability juridical partnership may choose not to have a supervisor.
-
-2-Supervisors shall be appointed in accordance with the articles of incorporation or by a resolution of the general meeting of members or the board of directors.
-
-3-A director or an employee of the juridical person may not serve as a supervisor.
-
-4-A juridical partnership may serve as a supervisor.
-
-#### Article 63.- Duties of supervisors, etc.
-
-1-Supervisors shall supervise the business of the juridical person.
-
-2-Supervisors may demand that directors and employees of the juridical person report on the status of the business, or may investigate the status of the business and the property of the juridical person.
-
-3-Supervisors shall examine the agenda and documents that the directors intend to submit to the general meeting of members or the board of directors. In this case, if the supervisors find any violation of laws or the articles of incorporation, or any extremely improper point, they must report it to the general meeting of members or the
-
-board of directors.
-
-4-Supervisors may express their opinions on the appointment or dismissal of supervisors or the remuneration of supervisors at the general meeting of members or the board of directors.
-
-5-If supervisors find that a director has performed an act outside the scope of the purpose of the juridical person, or any other act that violates laws or the articles of incorporation, or if they fear that such an act is likely to be performed, they must report the fact to the general meeting of members or the board of directors. In this case, if necessary for making such report, the supervisors may convene a general meeting of members or a meeting of the board of directors. A supervisor of a juridical foundation must make such report to the competent ministry or authority at the latest at the same time as reporting to the board of directors.
-
-6-In cases where a director has performed an act specified in paragraph 5 above or there is a fear that such an act is likely to be performed, and if such act is likely to cause serious damage to the juridical person, any member may demand that such director cease such act.
-
-7-In cases where the juridical person brings an action against a director or vice versa, the supervisor shall represent the juridical person in such action.
+7-In cases where the juridical person brings an action against a director or vice versa, the supervisors shall represent the juridical person in such action.
 
 ## SUB-PART 7
 
@@ -670,28 +645,7 @@ c-Devolving residual property.
 
 3-The provisions of Article 58 (Authority of representation of directors) of this Code shall apply to liquidators. However, if the court appoints multiple liquidators, the court may appoint one or more of them as representatives, or provide for joint representation.
 
-#### Article 72.- Duty to report on investigation of property of juridical person
 
-1-Upon assuming office, a liquidator must investigate the current status of the property of the juridical person, prepare an inventory of property and a balance sheet, and submit them to the court without delay.
-
-2-With respect to a limited liability juridical partnership, the documents specified in paragraph 1 above must be approved by a general meeting of members before being submitted to the court.
-
-3-With respect to an unlimited liability juridical partnership, the documents specified
-```
-
-#### Article 71.- Functions and authority of liquidators
-
-1-Liquidators shall perform the following functions:
-
-a-Concluding current business of the juridical person.
-
-b-Collecting claims and performing obligations.
-
-c-Devolving residual property.
-
-2-In cases where there are multiple liquidators, the business of the juridical person shall be decided by a majority of the liquidators.
-
-3-The provisions of Article 58 (Authority of representation of directors) of this Code shall apply to liquidators. However, if the court appoints multiple liquidators, the court may appoint one or more of them as representatives, or provide for joint representation.
 
 #### Article 72.- Duty to report on investigation of property of juridical person
 
@@ -699,38 +653,10 @@ c-Devolving residual property.
 
 2-With respect to a limited liability juridical partnership, the documents specified in paragraph 1 above must be approved by a general meeting of members before being submitted to the court.
 
-3-With respect to an unlimited liability juridical partnership, the documents specified
+3-With respect to an unlimited liability juridical partnership, the documents specified in paragraph 1 above must be approved by all members before being submitted to the court.
 
-specified in paragraph 1 above must be approved by all members before being submitted to the court.
+4-With respect to a juridical foundation, the documents specified in paragraph 1 above must be approved by the ministry or institution with supervisory authority before being submitted to the court.
 
-4-With respect to a juridical foundation, the documents specified in paragraph 1 above must be approved by the competent ministry or authority before being submitted to the court.
-
-#### Article 73.- Public notice to creditors
-
-1-A liquidator must, at least 3 (three) times within 2 (two) months from the date of assuming office, give public notice in the official gazette of the Ministry of Justice to the creditors to present their claims within a specified period, which shall not be less than 2 (two) months.
-
-2-The public notice specified in paragraph 1 above must also state that the creditors will be excluded from the liquidation if they do not present their claims within the specified period.
-
-3-A liquidator must give individual notice to each known creditor to present their claim.
-
-4-A liquidator may not exclude any known creditor from the liquidation.
-
-#### Article 74.- Performance during period for presenting claims
-
-1-A liquidator may not perform obligations to creditors during the period for presenting claims specified in Article 73 (Public notice to creditors) of this Code. However, the juridical person shall not be exempt from liability for any delay resulting therefrom.
-
-2-Notwithstanding the provision of paragraph 1 above, a liquidator may, with the permission of the court, perform obligations relating to small claims, claims secured by security
-```
-
-#### Article 73.- Public notice to creditors
-
-1-A liquidator must, at least 3 (three) times within 2 (two) months from the date of assuming office, give public notice in the official gazette of the Ministry of Justice to the creditors to present their claims within a specified period, which shall not be less than 2 (two) months.
-
-2-The public notice specified in paragraph 1 above must also state that the creditors will be excluded from the liquidation if they do not present their claims within the specified period.
-
-3-A liquidator must give individual notice to each known creditor to present their claim.
-
-4-A liquidator may not exclude any known creditor from the liquidation.
 
 #### Article 74.- Performance during period for presenting claims
 
@@ -754,20 +680,7 @@ Creditors who have been excluded from the liquidation may only demand performanc
 
 A liquidator may not devolve the property of the juridical person in accordance with Article 67 (Devolution of residual property) of this Code until after all obligations of the juridical person have been performed. However, with respect to disputed obligations, the liquidator may distribute the residual property after setting aside the property necessary for performing such obligations.
 
-#### Article 78.- Bankruptcy during liquidation
 
-1-If, during liquidation, it becomes clear that the property of the juridical person is insufficient to perform all of its obligations, the liquidator must immediately petition for a declaration of bankruptcy and give public notice of such fact in the official gazette of the
-```
-
-#### Article 75.- Performance to excluded creditors
-
-Creditors who have been excluded from the liquidation may only demand performance from the residual property that has not yet been distributed.
-
-#### Article 76.- Performance of claims
-
-1-A juridical person may perform its obligations even if they are not yet due.
-
-2-In the cases specified in paragraph 1 above, with respect to conditional claims, claims with an uncertain duration, or other claims whose value is not certain, the juridical person must perform them based on the valuation of an appraiser appointed by the court.
 
 #### Article 77.- Devolution of residual property
 
@@ -775,9 +688,7 @@ A liquidator may not devolve the property of the juridical person in accordance 
 
 #### Article 78.- Bankruptcy during liquidation
 
-1-If, during liquidation, it becomes clear that the property of the juridical person is insufficient to perform all of its obligations, the liquidator must immediately petition for a declaration of bankruptcy and give public notice of such fact in the official gazette of the
-
-Justice.
+1-If, during liquidation, it becomes clear that the property of the juridical person is insufficient to perform all of its obligations, the liquidator must immediately petition for a declaration of bankruptcy and give public notice of such fact in the official gazette of the Ministry of Justice.
 
 2-The duties of a liquidator shall be deemed to have ended when the liquidator has transferred the business to a bankruptcy trustee.
 
@@ -791,7 +702,7 @@ Justice.
 
 3-With respect to an unlimited liability juridical partnership, the liquidator must submit the final account report specified in paragraph 1 above to each member without delay and obtain the approval of each member.
 
-4-With respect to a juridical foundation, the liquidator must submit the final account report specified in paragraph 1 above to the competent ministry or authority without delay and obtain its approval.
+4-With respect to a juridical foundation, the liquidator must submit the final account report specified in paragraph 1 above to the ministry or institution with supervisory authority without delay and obtain its approval.
 
 5-A liquidator appointed by the court must submit the final account report specified in paragraph 1 above to the court without delay.
 
@@ -843,14 +754,6 @@ k-Method of public notice.
 
 4-The articles of incorporation must be kept at the principal office and each branch office.
 
-#### Article 83.- Minimum amount of underlying property
-
-A limited liability juridical person must have underlying property worth not less than 20,000,000 (twenty million) Riels.
-
-#### Article 84.- Appointment of directors and supervisors
-
-1-If the directors or supervisors are not specified in the articles of incorporation, a limited liability juridical partnership that is in the process of formation must appoint
-```
 
 #### Article 83.- Minimum amount of underlying property
 
@@ -900,9 +803,7 @@ d-Method of public notice.
 
 #### Article 88.- Responsibility to guarantee contributions of underlying property
 
-1-At the time of formation of a limited liability juridical partnership, if any part of the
-
-determined for certain at the time of formation, the directors and members at the time of formation shall be deemed to have jointly subscribed for such part. This provision shall also apply where the subscription of underlying property by a subscriber is cancelled after the formation.
+1-At the time of formation of a limited liability juridical partnership, if any part of the underlying property has not been determined for certain, the directors and members at the time of formation shall be deemed to have jointly subscribed for such part. This provision shall also apply where the subscription of underlying property by a subscriber is cancelled after the formation.
 
 2-At the time of formation of a limited liability juridical partnership, if any part of the underlying property has not been paid or if the performance of property contributed in kind other than money has not been completed, the directors and members at the time of formation shall be jointly and severally liable to pay the amount that has not been paid or the value of the property contributed in kind whose performance has not been completed.
 
@@ -912,16 +813,7 @@ determined for certain at the time of formation, the directors and members at th
 
 1-Members have the duty to pay the expenses of the juridical person.
 
-2-Members may exercise voting rights at the general meeting of members. However, a member
-```
-
-#### Article 89.- Rights and duties of members
-
-1-Members have the duty to pay the expenses of the juridical person.
-
-2-Members may exercise voting rights at the general meeting of members. However, a member
-
-may not exercise voting rights in cases where the resolution concerns the relationship between that member and the juridical person.
+2-Members may exercise voting rights at the general meeting of members. However, a member may not exercise voting rights in cases where the resolution concerns the relationship between that member and the juridical person.
 
 3-Each member shall have one vote. However, it may be provided otherwise in the articles of incorporation in consideration of the amount of contributions.
 
@@ -945,30 +837,7 @@ d-Expulsion.
 
 #### Article 91.- Expulsion
 
-1-Expulsion of a member may be effected by a resolution of the general meeting of members only for a justifiable reason. In this case, the juridical person must notify the member of the reason at least 1 (one) week before the general meeting and provide the member with an
-```
-
-#### Article 90.- Loss of membership
-
-1-A member may withdraw at any time. However, if the articles of incorporation require a member who intends to withdraw to give advance notice to the juridical person, the member must give such notice, except in unavoidable circumstances.
-
-2-The period of advance notice specified in the first sentence of paragraph 1 above shall not exceed 1 (one) year.
-
-3-In addition to the cases specified in paragraph 1 above, a member shall lose membership for any of the following reasons:
-
-a-Occurrence of a ground specified in the articles of incorporation.
-
-b-Consent of all members.
-
-c-Death or dissolution.
-
-d-Expulsion.
-
-#### Article 91.- Expulsion
-
-1-Expulsion of a member may be effected by a resolution of the general meeting of members only for a justifiable reason. In this case, the juridical person must notify the member of the reason at least 1 (one) week before the general meeting and provide the member with an
-
-opportunity to provide an explanation to the general meeting of members.
+1-Expulsion of a member may be effected by a resolution of the general meeting of members only for a justifiable reason. In this case, the juridical person must notify the member of the reason at least 1 (one) week before the general meeting and provide the member with an opportunity to provide an explanation to the general meeting of members.
 
 2-The resolution for expulsion specified in paragraph 1 above must be approved by members who represent at least one-half of the total number of members and at least three-fourths of the total voting rights of all members.
 
@@ -988,26 +857,7 @@ Directors must convene an ordinary general meeting of members at least once a ye
 
 #### Article 94.- Convening of general meeting
 
-1-In order to convene a general meeting of members, notice of the general meeting must be given
-```
-
-#### Article 92.- Ordinary general meeting
-
-Directors must convene an ordinary general meeting of members at least once a year.
-
-#### Article 93.- Extraordinary general meeting
-
-1-Directors may convene an extraordinary general meeting of members at any time if they deem it necessary.
-
-2-The directors must convene an extraordinary general meeting of members if members who hold at least one-tenth of the total voting rights demand such meeting by stating the purpose for the meeting. However, if the articles of incorporation provide for a different quorum, such provision shall govern.
-
-3-Notwithstanding the provision of paragraph 2 above, if the directors fail to convene a general meeting without delay upon such demand, the members who made the demand may themselves convene the general meeting with the permission of the court.
-
-#### Article 94.- Convening of general meeting
-
-1-In order to convene a general meeting of members, notice of the general meeting must be given
-
-to each member at least 1 (one) week before the date of the meeting. However, this period may be shortened by the articles of incorporation.
+1-In order to convene a general meeting of members, notice of the general meeting must be given to each member at least 1 (one) week before the date of the meeting. However, this period may be shortened by the articles of incorporation.
 
 2-If all members consent, a general meeting of members may be held without the procedures for convening.
 
@@ -1089,38 +939,7 @@ a-Names of the members who represent the juridical person, in cases where some m
 
 b-Provisions concerning representation, in cases where multiple members represent the juridical person.
 
-2-At the place of each branch office, the registration specified in paragraph 1 above must be performed within 2 (two) weeks after the registration
-```
-
-#### Article 101.- Formation and articles of incorporation
-
-1-In order to form an unlimited liability juridical partnership, persons who intend to become its members must jointly prepare the articles of incorporation and each of them must sign it.
-
-2-The articles of incorporation specified in paragraph 1 above must state all of the following:
-
-a-Purpose.
-
-b-Name.
-
-c-Names and residences of the members.
-
-d-Location of the principal office and each branch office.
-
-3-The articles of incorporation shall not be effective unless they are certified by a notary.
-
-4-The articles of incorporation must be kept at the principal office and each branch office.
-
-#### Article 102.- Items to be registered and period of registration
-
-1-In addition to the items specified in Article 50 (Items to be registered) of this Code, an unlimited liability juridical partnership must register all of the following at the place of the principal office:
-
-a-Names of the members who represent the juridical person, in cases where some members do not represent the juridical person.
-
-b-Provisions concerning representation, in cases where multiple members represent the juridical person.
-
-2-At the place of each branch office, the registration specified in paragraph 1 above must be performed within 2 (two) weeks after the registration
-
-in accordance with the provision of paragraph 1 above.
+2-At the place of each branch office, the registration specified in paragraph 1 above must be performed within 2 (two) weeks after the registration in accordance with the provision of paragraph 1 above.
 
 #### Article 103.- Liability of members, etc.
 
@@ -1138,28 +957,7 @@ in accordance with the provision of paragraph 1 above.
 
 7-A member who has withdrawn shall be liable for the obligations of the juridical person that arose before the registration of the withdrawal at the place of the principal office of the juridical person.
 
-8-If 2 (two) years have elapsed after the registration specified
-```
-
-#### Article 103.- Liability of members, etc.
-
-1-If an unlimited liability juridical partnership is unable to perform its obligations in full with its property, its members shall be jointly and severally liable for such performance.
-
-2-The provision of paragraph 1 above shall also apply where compulsory execution against the property of the unlimited liability juridical partnership has proved ineffective.
-
-3-The provisions of paragraphs 1 and 2 above shall not apply if a member proves that the unlimited liability juridical partnership has sufficient resources and that compulsory execution can be easily effected against it.
-
-4-Members may assert against the creditors of the unlimited liability juridical partnership any defense that the unlimited liability juridical partnership has against such creditors.
-
-5-If the unlimited liability juridical partnership has a right of set-off, a right of rescission, or a right of termination against its creditors, its members may refuse to perform the obligations to such creditors.
-
-6-A member who joins an unlimited liability juridical partnership after its formation shall also be liable for the obligations of the juridical person that arose before such member joined.
-
-7-A member who has withdrawn shall be liable for the obligations of the juridical person that arose before the registration of the withdrawal at the place of the principal office of the juridical person.
-
-8-If 2 (two) years have elapsed after the registration specified
-
-in paragraph 7 above, the liability specified in paragraph 7 shall be extinguished as against creditors of the juridical person who fail to make a demand or give notice of a demand within 2 (two) years after such registration.
+8-If 2 (two) years have elapsed after the registration specified in paragraph 7 above, the member who has withdrawn shall be exempt from the liability specified in that paragraph.
 
 9-Members shall bear the expenses of the juridical person in accordance with the provisions of the articles of incorporation.
 
@@ -1179,7 +977,7 @@ c-Expulsion.
 
 d-Death.
 
-e-Bankruptcy.
+e-Declaration of commencement of bankruptcy proceedings.
 
 f-Declaration of commencement of general guardianship.
 
@@ -1203,53 +1001,9 @@ Expulsion of a member may be effected by the unanimous consent of all other memb
 
 1-Members shall represent the unlimited liability juridical partnership. However, in cases where the members who are to conduct the business are specified in paragraph 3 of Article 106 (Conduct of business) of this Code, only such members shall represent the juridical person.
 
-2-If there are multiple members who represent the unlimited liability juridical partnership,
-```
-
-#### Article 106.- Conduct of business
-
-1-Members shall conduct the business of the unlimited liability juridical partnership.
-
-2-The business of an unlimited liability juridical partnership shall be decided by a majority of the members, unless otherwise provided in the articles of incorporation.
-
-3-If the articles of incorporation specify the members who are to conduct the business of the unlimited liability juridical partnership, such members shall conduct the business of the unlimited liability juridical partnership.
-
-4-If there are multiple members specified in paragraph 3 above, the business of the unlimited liability juridical partnership shall be decided by a majority of such members, unless otherwise provided in the articles of incorporation.
-
-5-Notwithstanding the provisions of paragraphs 2 and 4 above, the ordinary business of an unlimited liability juridical partnership may be conducted by any member. In the case specified in paragraph 3 above, only the members specified in that paragraph may conduct the ordinary business. However, this shall not apply if another member objects to such conduct of ordinary business before it is completed.
-
-#### Article 107.- Representation of juridical person
-
-1-Members shall represent the unlimited liability juridical partnership. However, in cases where the members who are to conduct the business are specified in paragraph 3 of Article 106 (Conduct of business) of this Code, only such members shall represent the juridical person.
-
-2-If there are multiple members who represent the unlimited liability juridical partnership,
-
-in accordance with the provision of paragraph 1 above, each member shall represent the juridical person. However, an unlimited liability juridical partnership may specifically designate the members who are to represent the juridical person from among such members, by the articles of incorporation or with the consent of all members.
-
-3-The provisions concerning directors shall apply to the members who represent an unlimited liability juridical partnership.
-
-#### Article 108.- Reporting and investigation
-
-1-A member may demand from other members a report on the status of the conduct of business, or may investigate the status of the business and property of the unlimited liability juridical partnership. However, in the case specified in paragraph 3 of Article 106 (Conduct of business) of this Code, a member may demand such report or conduct such investigation only from or against the members specified in that paragraph.
-
-2-If another member performs an act outside the scope of the purpose of the juridical person or an act that violates any law or regulation or the articles of incorporation, or if there is a concern that such member might perform such act, and if there is a concern that such act might cause significant damage to the juridical person, a member may demand that such other member cease such act.
-
-3-In cases where there are supervisors, the tasks specified in paragraphs 1 and 2 above shall be performed by the supervisors.
-
-#### Article 109.- Amendment of articles of incorporation
-
-1-An amendment of the articles of incorporation requires the consent of all members.
-
-2-Notwithstanding the provision of paragraph 1 above, if the articles of incorporation provide
-```
-
-#### Article 107.- Representation of juridical person
-
-1-Members shall represent the unlimited liability juridical partnership. However, in cases where the members who are to conduct the business are specified in paragraph 3 of Article 106 (Conduct of business) of this Code, only such members shall represent the juridical person.
-
 2-If there are multiple members who represent the unlimited liability juridical partnership, each member shall represent the juridical person. However, an unlimited liability juridical partnership may specifically designate the members who are to represent the juridical person from among such members, by the articles of incorporation or with the consent of all members.
 
-3-The provisions concerning directors shall apply to the members who represent an unlimited liability juridical partnership.
+3-The provisions concerning directors shall apply mutatis mutandis to the members who represent an unlimited liability juridical partnership.
 
 #### Article 108.- Reporting and investigation
 
@@ -1263,9 +1017,7 @@ in accordance with the provision of paragraph 1 above, each member shall represe
 
 1-An amendment of the articles of incorporation requires the consent of all members.
 
-2-Notwithstanding the provision of paragraph 1 above, if the articles of incorporation provide
-
-that the articles of incorporation may be amended with the consent of a certain ratio of all members, such provision shall govern.
+2-Notwithstanding the provision of paragraph 1 above, if the articles of incorporation provide that the articles of incorporation may be amended with the consent of a certain ratio of all members, such provision shall govern.
 
 3-An amendment of the articles of incorporation shall not be effective unless it is certified by a notary.
 
@@ -1319,28 +1071,7 @@ If the founder of a juridical foundation dies without determining its name, its 
 
 #### Article 114.- Time of acquisition of rights to property contributed
 
-1-In cases where property is contributed to form a juridical foundation
-```
-
-#### Article 111.- Minimum amount of underlying property
-
-A juridical foundation must have underlying property with a value of at least 200,000,000 (two hundred million) Riels.
-
-#### Article 112.- Completion of articles of incorporation
-
-If the founder of a juridical foundation dies without determining its name, its office, or the method of appointment and dismissal of directors, the court may determine such matters upon the request of an interested person or a public prosecutor.
-
-#### Article 113.- Mutatis mutandis application of provisions concerning gifts and testamentary gifts
-
-1-The provisions of Chapter 3 (Gifts) of Book 5 shall apply mutatis mutandis to cases where property is contributed to form a juridical foundation by an act inter vivos.
-
-2-The provisions of Section 6 (Testamentary gifts) of Chapter 3 of Book 8 shall apply mutatis mutandis to cases where property is contributed to form a juridical foundation by a will.
-
-#### Article 114.- Time of acquisition of rights to property contributed
-
-1-In cases where property is contributed to form a juridical foundation
-
-by an act inter vivos, the property contributed shall become the property of the juridical person from the time that the registration specified in Article 49 (Registration of formation and time of formation of juridical person) of this Code is performed.
+1-In cases where property is contributed to form a juridical foundation by an act inter vivos, the property contributed shall become the property of the juridical person from the time that the registration specified in Article 49 (Registration of formation and time of formation of juridical person) of this Code is performed.
 
 2-In cases where property is contributed to form a juridical foundation by a will, the property contributed shall be deemed to have become the property of the juridical person from the time the will becomes effective.
 
@@ -1806,10 +1537,7 @@ If land increases due to the water current carrying alluvion from one bank and d
 
 #### Article 181.- Right to demand return of land washed away and attached to other land
 
-Regardless of whether boats or rafts can navigate or float on a river, stream, or canal, if a large and identifiable piece of land is carried away by a sudden force of flood water from one bank and attached to
-```
-
-land downstream or on the other bank, the owner of the washed-away land may demand its return. This right of return must be exercised within 1 (one) year. However, this shall not apply if the owner to whose land the piece is attached has not yet taken possession of it.
+ Regardless of whether boats or rafts can navigate or float on a river, stream, or canal, if a large and identifiable piece of land is carried away by a sudden force of flood water from one bank and attached to land downstream or on the other bank, the owner of the washed-away land may demand its return. This right of return must be exercised within 1 (one) year. However, this shall not apply if the owner to whose land the piece is attached has not yet taken possession of it.
 
 #### Article 182.- Ownership of islands and alluvion
 
@@ -10111,11 +9839,6 @@ Extracted from
 "Glossary of Legal Terms Khmer-English-French: Civil Law and Civil Procedure Section"
 
 prepared by the Council of Jurists Technical Committee for the Approval of Legal Terms and published by the Office of the Council of Ministers in 2007.
-```
-
-But I'll translate the words as they are: `Academic Committee in charge of Approving Legal Terms`.
-
-Let's write it.
 
 #### K
 
