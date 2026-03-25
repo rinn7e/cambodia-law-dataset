@@ -2248,19 +2248,6 @@ title shall be deemed a lease without a fixed term and may be terminated by eith
 1-A perpetual leaseholder shall pay rent to the lessor at the time specified in the contract.
 
 2-If there is no specified time for payment of rent, the perpetual leaseholder shall pay
-```
-
-I'll save these. (wait, I didn't finish the sentence for 248 in English, let me check the image)
-
-Ah, page 97 ends with "អ្នកជួលអចិន្ត្រៃយ៍ត្រូវបង់នៅ" (the perpetual leaseholder shall pay at).
-
-Wait, I should check page 98 to see the next word.
-
-Actually, the English translation should end where the Khmer text ends on that page.
-
-"the perpetual leaseholder shall pay" is what I have now. I'll stick to that.
-
-Wait, I should check page 98 now.
 
 at the end of every year. However, if there is a harvest season, the rent must be paid without delay after such season.
 
@@ -7069,18 +7056,12 @@ A person under general guardianship may marry if he/she has the capacity to expr
 1-A marriage shall become effective upon application for marriage, public notice, execution of the marriage contract and registration before the civil registrar.
 
 2-The application for marriage, public notice, execution of the marriage contract and registration mentioned in paragraph 1 above shall be made in accordance with the procedures prescribed in the regulations on civil registration.
-Check Check
-Check
-Wait, I should make sure the translation is accurate.
 "collateral relative by affinity" - yes.
 "general guardianship" - yes.
 "civil registrar" - yes.
 "public notice" - yes.
 "marriage contract" - yes.
 "registration" - yes.
-Wait, the first line about remarrying a collateral relative by affinity... the Khmer says "រស្ន់ អាចរៀបអាពាហ៍ពិពាហ៍" but the previous page finished with "សហព័ទ្ធដែលនៅរស់". So the first word is "រស់".
-
-Fixing.
 
 **Article 956.- Acceptance of Application for Marriage**
 
@@ -7161,10 +7142,6 @@ Husband and wife shall have the freedom to choose their occupation and may parti
 **Article 968.- Deemed reaching Age of Majority by Marriage**
 
 If a minor marries, he/she shall be deemed to have reached the age of majority for the purposes of this Civil Code.
-Check
-Wait, Article 968 Khmer says: "ក្នុងការអនុវត្តក្រមរដ្ឋប្បវេណីនេះ" (in the implementation of this Civil Code).
-
-Fixing.
 
 ##### Section 3
 ##### Matrimonial Property System
@@ -7445,12 +7422,8 @@ paternity acknowledgement action.
 1-A child may file an action with the court for clarification of the existence of paternity or maternity against a person who is registered as the father in the birth register, even if there is no presumption of paternity, or against a person who is registered as the mother in the birth register, even if she did not give birth to the child.
 
 2-A person who is registered as the father in the birth register, even if there is no...
-Check
-Wait, "បច្ឆាញាតិផ្ទាល់" (direct descendant).
 "មរណភាព" (death).
 "អ្នកតំណាងដែលច្បាប់បានកំណត់" (legal representative).
-
-Fixing.
 
 presumption of paternity, may file an action for clarification of the existence of paternity against the child.
 
@@ -7470,11 +7443,7 @@ Clarification of the existence of paternity or maternity shall have retroactive 
 **Article 1004.- Action for Clarification of Existence of Maternity by Child**
 
 1-A child may file an action for clarification of the existence of maternity against...
-Check
-Wait, "ចេតនា ឬ កំហុសធ្ងន់ធ្ងរ" -> "intent or gross negligence".
 "តតិយជន" -> "third party".
-
-Fixing.
 
 the woman whom the child was born.
 
@@ -7495,11 +7464,7 @@ the woman whom the child was born.
 2-A mother may file the action mentioned in paragraph 1 above against a deceased child only if there is a lineal descendant of the child.
 
 3-A mother shall file the action mentioned in paragraph 1 above...
-Check
-Wait, "បច្ឆាញាតិផ្ទាល់" -> "lineal descendant".
 "មរណភាព" -> "death".
-
-Fixing.
 
 within 1 (one) year from the time she became aware of the identity of the child.
 
@@ -7514,11 +7479,7 @@ within 1 (one) year from the time she became aware of the identity of the child.
 **Article 1006.- Retroactive Effect of Clarification of Existence of Maternity**
 
 Clarification of the existence of maternity shall have retroactive effect from the time of birth of the child. However, this shall not prejudice any right already acquired by a third party.
-Check
-Wait, "បច្ឆាញាតិផ្ទាល់" -> "lineal descendant".
 "តតិយជន" -> "third party".
-
-Fixing.
 
 ### Section 2
 ### Adoption
@@ -7620,42 +7581,26 @@ A person who has a spouse shall obtain the consent of his/her spouse to apply fo
 1-If the person to be adopted is a minor, the court may create an adoption only if it finds that there is a special need for the interests of the minor.
 
 2-In the case where the person to be adopted is a minor, if the natural parents of such person are divorced, the court shall hear the opinion of the father or mother who does not exercise parental power in order to judge on the point mentioned in paragraph 1 above.
-Check
-Wait, the title of 1021 in English I wrote "Article 1021.- Case where Person intended to become Adoptive Parent has Spouse".
 But in Khmer 1022: "ការយល់ព្រមរបស់សហព័ទ្ធ".
-Wait, look at page 372.
 1021: "ករណីដែលបុគ្គលដែលនឹងក្លាយជាឪពុកឬម្តាយចិញ្ចឹមមានសហព័ទ្ធ".
-Wait, I see.
 Page 372 ends with 1021.
 Page 373 starts with the rest of 1021 (the text about 1020).
 Then Article 1022.
 Ah!
-Let me re-check page 372 and 373.
 Page 372 ends with: "**មាត្រា ១០២១.- ករណីដែលបុគ្គលដែលនឹងក្លាយជាឪពុកឬម្តាយចិញ្ចឹមមានសហព័ទ្ធ** \n បើបុគ្គលដែលមានសហព័ទ្ធ សុំកូនដែលជាអនីតិជន បុគ្គលនោះត្រូវដាក់ពាក្យសុំ"
 Page 373 starts with: "ដែលបានកំណត់នៅក្នុងមាត្រា ១០២០ (ពាក្យសុំនៃសុំកូនធម្មតា) ខាងលើនេះ ជាមួយនឹងសហព័ទ្ធរបស់ខ្លួន ។ ប៉ុន្តែ បញ្ញត្តិនេះមិនត្រូវយកមកអនុវត្តឡើយ ចំពោះករណីដែលយកកូនរបស់សហព័ទ្ធ មកធ្វើជាកូនសុំ ឬ ករណីដែលសហព័ទ្ធមិនអាចបង្ហាញឆន្ទៈរបស់ខ្លួនបាន ។"
 Then "**មាត្រា ១០២២.- ការយល់ព្រមរបស់សហព័ទ្ធ**".
 So 1021 is "Article 1021.- Case where Person intended to become Adoptive Parent has Spouse".
 And 1022 is "Article 1022.- Consent of Spouse".
-
-Wait, let's look at 1021 in English.
 "Article 1021.- Case where Person intended to become Adoptive Parent has Spouse" matches the Khmer.
-
-Wait, look at 1022.
 "Article 1022.- Consent of Spouse" matches the Khmer "ការយល់ព្រមរបស់សហព័ទ្ធ".
-
-Wait, look at 1023.
 "Article 1023.- Standard for Judgment Creating Ordinary Adoption" matches "មូលដ្ឋានវិនិច្ឆ័យនៃការបង្កើតសុំកូនធម្មតា".
-
-Wait, look at 1024.
 "Article 1024.- Case where Person to be Adopted is Minor" matches "ករណីដែលបុគ្គលដែលនឹងក្លាយជាកូនសុំ ជាអនីតិជន".
 
 Yes.
 
 Fixing the English translation for page 373.
 I should include the title for 1022 as well if it's there.
-Wait, I see "**មាត្រា ១០២២.- ការយល់ព្រមរបស់សហព័ទ្ធ**" in the middle of page 373.
-
-Fixing.
 
 3-If the minor has reached 15 (fifteen) years of age, his/her consent shall be required for the adoption. Even if the minor has not reached 15 (fifteen) years of age, if he/she is able to express his/her intent, the court shall hear the opinion of the minor in order to judge on the point mentioned in paragraph 1 above.
 
@@ -7672,10 +7617,6 @@ In the case where a guardian for a minor applies for adoption of his/her ward, o
 **Article 1027.- Effect of Adoption in Relationship with Adoptive Parents, etc.**
 
 1-The provisions of paragraph 1 of Article 1015 (Effect of full adoption) of...
-Check
-Wait, 1026(2): "ករណីយកិច្ចផ្គត់ផ្គង់អាហារកាតព្វកិច្ច" -> "duties regarding support".
-
-Fixing.
 
 this Code shall apply mutatis mutandis to an ordinary adoption.
 
@@ -7692,10 +7633,6 @@ this Code shall apply mutatis mutandis to an ordinary adoption.
 3-In the case provided in paragraph 2 above, if the natural parents are divorced, they shall discuss and determine which parent is to become the person exercising parental power after the dissolution.
 
 4-If the discussion provided in paragraph 3 above does not lead to an agreement, or if the discussion cannot be held, the court shall determine the person to exercise parental power by considering the interests of the child.
-Check
-Wait, "បុគ្គលដែលត្រូវក្លាយជាអ្នកមានអំណាចមេបា" -> "person to exercise parental power".
-
-Fixing.
 
 **Article 1029.- Dissolution of Adoption where Spouses have Adopted Jointly and Adopted Child is Minor**
 
@@ -7718,11 +7655,7 @@ If there is an application as provided in paragraph 1 of Article 1028 (Applicati
 2-Until the adopted child reaches the age of majority, the adoptive parents may not file an action for dissolution as provided in paragraph 1 above against the adopted child.
 
 3-If the adopted child is a minor, the provisions of paragraphs 2 through 4 of Article...
-Check
-Wait, 1031(1)(a): "បោះបង់ចោល ... ដោយទុច្ចរិត" -> "maliciously abandoned".
 "ទទួលមរណភាព" -> "alive or dead" (rour or moronakpheap).
-
-Fixing.
 
 1028 (Application for dissolution of ordinary adoption) of this Code shall apply mutatis mutandis to the case where the adopted child files an action against the adoptive parents as provided in paragraph 1 above.
 
@@ -7811,10 +7744,6 @@ the method of visiting and communicating with the child and the expenses necessa
 (Amended by the Law on Implementation of the Civil Code.)
 
 Except in cases of urgent necessity, the person exercising parental power shall discuss with the parent who does not exercise parental power about the following matters concerning the child:
-Check
-Wait, 1042 title: "Duty to Discuss Important Matters Concerning Child".
-
-Fixing.
 
 (a) Education of the child that goes beyond the compulsory education level prescribed by law.
 
@@ -7848,11 +7777,7 @@ A person exercising parental power may personally discipline the child to the ex
 1-A child may not engage in a profession unless he/she obtains permission from the person exercising parental power.
 
 2-In the case provided in paragraph 2 of Article 20 (Minor who is permitted to...
-Check
-Wait, "វិជ្ជាជីវៈ" -> "profession".
 "អាជីវកម្ម" -> "business".
-
-Fixing.
 
 engage in business) of this Code, the person exercising parental power may rescind or limit the permission mentioned in paragraph 1 above.
 
@@ -7872,10 +7797,6 @@ If a father or mother who exercises parental power abuses such power or is guilt
 **Article 1049.- Rescission of Adjudication of Suspension or Divestment of Parental Power**
 
 If the causes provided in Article 1048 (Adjudication of suspension or divestment of parental power) above have ceased to exist, the court may rescind the adjudication of suspension or divestment of parental power upon application of the person who was subject to such adjudication or any relative within the 4th (fourth) degree of relationship of such person.
-Check
-Wait, 1048: "មេឃុំ ឬ ចៅសង្កាត់" -> "commune chief or sangkat chief".
-
-Fixing.
 
 **Article 1050.- Resignation and Restoration of Parental Power**
 
@@ -7894,10 +7815,6 @@ Fixing.
 **Article 1052.- Commencement of Guardianship for Minor**
 
 1-If there is no person who exercises parental power over a child in accordance with the provisions of Article 1048 (Adjudication of suspension or divestment of parental power) or paragraph 1 of Article 1050 (Resignation and restoration of parental power), and if no person has been determined to be the person exercising parental power under Article 1051 (Change of person to exercise parental power...
-Check
-Wait, 1051(3): "dies" can be "moronakpheap".
-
-Fixing.
 
 power) above, a guardianship for a minor shall commence in respect of the child in accordance with the provisions of Article 1067 (Causes for commencement of guardianship for minor).
 
@@ -7915,10 +7832,6 @@ A person exercising parental power shall have the right and duty to manage the c
 1-If one of the parents who exercise joint parental power performs a legal act on behalf of the child in the name of both parents, the effect of the act shall not be prevented even if it is contrary to the intent of the other parent. However, this provision shall not apply if the other party to the act has acted with malicious intent.
 
 2-The provisions of paragraph 1 above shall apply mutatis mutandis to cases where one of the parents who exercise joint parental power gives consent...
-Check
-Wait, 1054 title in Khmer: "សកម្មភាពដែលអ្នកដែលមានអំណាចមេបាែតម្ខាងបានធ្វើ ក្នុងនាមជាអ្នកមានអំណាចមេបាទាំងសងខាង".
-
-Fixing.
 
 for the child to perform a certain legal act even if it is contrary to the intent of the other parent.
 
@@ -7939,10 +7852,6 @@ The provision of the second sentence of Article 1056 (Accounting for management 
 1-If a third party who gives property to a child without charge has expressed an intent that the property shall not be managed by either or both parents who exercise parental power, such property shall not be subject to the management of such parent or parents.
 
 2-In the case where neither parent has the right to manage the property mentioned in paragraph 1 above, if the third party has not designated a person to manage the property, the court may appoint a manager...
-Check
-Wait, "អ្នកគ្រប់គ្រងដោយសុចរិត" -> "good manager" or "honest manager".
-
-Fixing.
 
 property, upon application of the child, a relative within the 4th (fourth) degree of relationship of the child, or a prosecutor.
 
@@ -7957,10 +7866,6 @@ The provisions of Article 650 (Urgent management after termination of mandate) a
 **Article 1060.- Prescription of Claims Concerning Property Management between Parents and Child**
 
 1-Financial claims between the person exercising parental power and the child arising from the management of the property shall be extinguished by prescription if not exercised within 3 (three) years from the time the authority of management is terminated.
-Check
-Wait, 1059: "អាណត្តិគាហក" -> "mandatary".
-
-Fixing.
 
 2-In cases where the authority of management is terminated while the child is still a minor, if the child has no legal representative during the period provided in paragraph 1 above, the limitation period shall be calculated from the time the child reaches the age of majority or from the time a new legal representative assumes office.
 
@@ -7978,10 +7883,6 @@ If the causes provided in Article 1061 (Adjudication of suspension or divestment
 **Article 1063.- Resignation and Restoration of Authority to Manage Property**
 
 1-If there are unavoidable reasons, the person exercising parental power may resign from...
-Check
-Wait, 1061: "អន្តរាយ" -> "endangers".
-
-Fixing.
 
 the authority to manage the property upon obtaining the permission of the court.
 
@@ -7996,10 +7897,6 @@ If there is no person who exercises the authority to manage the property in acco
 1-In respect of acts where the interests of the person exercising parental power conflict with those of the child, the person exercising parental power shall apply to the court for the appointment of a special representative for the child.
 
 2-In cases where a person exercising parental power exercises such power over two or more children, if the interests of one child conflict with those of another child in respect of a certain act, the person exercising parental power shall apply to the court for the appointment of a special representative for one of them.
-Check
-Wait, 1064: "អ្នកតំណាងពិសេស" -> "special representative".
-
-Fixing.
 
 #### Section 7
 #### Mutatis Mutandis Application of this Chapter
@@ -8025,10 +7922,6 @@ If there is no person who exercises parental power over a minor, a guardianship 
 #### Guardian for Minor
 
 **Article 1068.- Designated Guardian for Minor and Appointed Guardian for Minor and Standard for Appoint...**
-Check
-Wait, 1068 title: "អ្នកអាណាព្យាបាលសម្រាប់អនីតិជនដែលត្រូវបានកំណត់ អ្នកអាណាព្យាបាលសម្រាប់អនីតិជនដែលត្រូវបានជ្រើសតាំង និង មូល-".
-
-Fixing.
 
 Standard for Appointment
 
@@ -8045,10 +7938,6 @@ If there occurs a vacancy in the office of an appointed guardian for a minor und
 **Article 1070.- Number of Guardians for Minor**
 
 1-There shall be only one guardian for a minor. However, in respect of a minor under guardianship who is in a permanent state of lacking the capacity to understand and judge the legal consequences of his/her acts due to...
-Check
-Wait, 1069: paragraph 2 of Article 1052.
-
-Fixing.
 
 mental disability, if a general guardianship is commenced under Article 24 (Adjudication of commencement of general guardianship) of this Code, one general guardian may be appointed in addition to the guardian for the minor.
 
@@ -8069,10 +7958,6 @@ If a guardian for a minor performs an improper act or is guilty of other conduct
 **Article 1074.- Persons Ineligible to be Guardian for Minor**
 
 The persons listed in the following items may not be a guardian for a minor:
-Check
-Wait, 1073: removal/termination.
-
-Fixing.
 
 (a) Minors, persons under general guardianship and persons under curatorship.
 
@@ -8090,10 +7975,6 @@ Fixing.
 1-The person who may designate a guardian for a minor may designate a supervisor of the guardian for the minor by will.
 
 2-If the court finds it necessary, in cases where no supervisor of the guardian for a minor has been designated in accordance with the provisions of paragraph 1 above, the court may appoint a supervisor of the guardian for the minor upon application of the guardian for the minor, any relative of the minor within the 4th (fourth) degree of relationship, a commune chief or sangkat chief of the minor's place of residence, the head of a public child welfare institution or a prosecutor, or by its own authority. This shall also apply to cases where a vacancy occurs in the office of supervisor of the guardian for a minor.
-Check
-Wait, "ហិរញ្ញុបត្ថម្ភ" -> "curatorship".
-
-Fixing.
 
 **Article 1076.- Persons Ineligible to be Supervisor of Guardian for Minor**
 (Amended by the Law on Implementation of the Civil Code.)
@@ -8115,10 +7996,6 @@ The duties of a supervisor of the guardian for a minor are as follows:
 **Article 1078.- Mutatis Mutandis Application**
 
 The provisions of paragraph 3 of Article 1068 (Designated guardian for minor, appointed guardian for minor and standard for appointment), Article 1071 (Resignation of guardian for minor), Article 1073 (Removal of guardian for minor), Article 1074 (Persons ineligible to be guardian for minor), and paragraph 2 of Article 1087 (Estimate of expenses and remuneration for guardianship for...
-Check
-Wait, 1076 title: "បុគ្គលដែលមិនអាចក្លាយជាអ្នកត្រួតពិនិត្យអ្នកអាណាព្យាបាលសម្រាប់អនីតិជន".
-
-Fixing.
 
 minor), Article 1088 (Remuneration for guardian for minor), Article 1093 (Duty of care of guardian for minor), Article 1100 (Urgent management after termination of guardianship for minor, etc.) and Article 1101 (Requirement for setting up termination of guardianship for minor, etc.) of this Code shall apply mutatis mutandis to the supervisor of the guardian for a minor.
 
@@ -8130,10 +8007,6 @@ minor), Article 1088 (Remuneration for guardian for minor), Article 1093 (Duty o
 1-A guardian for a minor shall have the same rights and duties as a person exercising parental power in respect of the matters provided in Section 3 (Rights and Duties of Person Exercising Parental Power) of Chapter 5 of this Book VII. However, in order to change the method of education or the place of residence determined by the person exercising parental power, to discipline the minor under guardianship, to permit the minor to conduct business, to revoke such permission or to limit such business, the guardian for the minor shall obtain the consent of the supervisor of the guardian for the minor, if any.
 
 2-If there is a supervisor of the guardian for a minor, the guardian for the minor shall consult with the supervisor of the guardian for the minor in respect of the matters provided in Article 1042 (Duty to consult on important matters concerning child) of this Code. However, this shall not apply to cases of urgent necessity.
-Check
-Wait, 1079 title: "សិទ្ធិ និង ករណីយកិច្ចរបស់អ្នកអាណាព្យាបាលសម្រាប់អនីតិជន".
-
-Fixing.
 
 **Article 1080.- Property Management and Representation**
 
@@ -8150,10 +8023,6 @@ Fixing.
 **Article 1082.- Authority Prior to Completion of Inventory**
 
 Until the inventory of the property is completed, the guardian for a minor shall have authority only over acts of urgent necessity. However, this may not be set up against a third party acting in good faith.
-Check
-Wait, 1080 title: "ការគ្រប់គ្រងទ្រព្យសម្បត្តិ និង ការតំណាង".
-
-Fixing.
 
 **Article 1083.- Report on Claims and Obligations of Guardian for Minor against Minor under Guardianship**
 
@@ -8168,10 +8037,6 @@ The provisions of Article 1081 (Inventory of property), Article 1082 (Authority 
 **Article 1085.- Permission for Management of Property**
 
 In order to sell, lease, cancel a lease, create a mortgage or otherwise dispose of an immovable used for the minor under guardianship's residence in place of the minor under guardianship, the guardian for the minor...
-Check
-Wait, 1083 title: "ការរាយការណ៍អំពីសិទ្ធិលើបំណុល និង កាតព្វកិច្ចរបស់អ្នកអាណាព្យាបាលសម្រាប់អនីតិជន ដែលមានចំពោះអនីតិជននៅក្រោមអាណាព្យាបាល".
-
-Fixing.
 
 shall obtain the permission of the court.
 
@@ -8192,10 +8057,6 @@ The court may grant reasonable remuneration to a guardian for a minor out of the
 **Article 1089.- Supervision of Performance of Duties of Guardian for Minor**
 
 1-The supervisor of the guardian for a minor or the court may at any time demand...
-Check
-Wait, 1086 title: "សកម្មភាពដែលផលប្រយោជន៍របស់អ្នកអាណាព្យាបាលសម្រាប់អនីតិជន និង អនីតិជននៅក្រោមអាណាព្យាបាល មានភាពផ្ទុយគ្នា".
-
-Fixing.
 
 reports on the performance of the duties from the guardian for the minor, to produce an inventory of property, or may investigate at any time the condition of the minor under guardianship or the state of his/her property.
 
@@ -8208,10 +8069,6 @@ If there is a supervisor of the guardian for a minor, the guardian for the minor
 **Article 1091.- Effect of Acts Performed in Violation of Article 1090**
 
 1-An act performed or consented to by a guardian for a minor in violation of the provisions of Article 1090 (Limitation of authority of representation and authority to give consent) above may be rescinded only by the minor under guardianship or the guardian for the minor. In such case, the provisions of Article 32 (Right to demand) of this Code shall apply mutatis mutandis.
-Check
-Wait, 1090 title: "ការកម្រិតសិទ្ធិតំណាងដែលច្បាប់បានកំណត់ និង សិទ្ធិយល់ព្រម".
-
-Fixing.
 
 2-The provisions of paragraph 1 above shall not preclude the application of the provisions of Article 358 (Voidable acts) and Article 360 (Method of rescission or ratification) through Article 363 (Prescription of right to rescind) of this Code.
 
@@ -8226,10 +8083,6 @@ Fixing.
 1-A guardian for a minor shall perform the duties of guardianship with the care of a good manager.
 
 2-If a guardian for a minor causes damage to the minor under guardianship by violating the duty of care provided in paragraph 1 above, the minor under guardianship may claim compensation for such damage from the guardian for the minor.
-Check
-Wait, 1092 title: "ការទទួលអនុប្បទាននូវទ្រព្យសម្បត្តិ ជាអាទិ៍ ពីអនីតិជននៅក្រោមអាណាព្យាបាល".
-
-Fixing.
 
 **Article 1094.- Management of Property Given to Minor under Guardianship by Third Party**
 
@@ -8240,10 +8093,6 @@ Fixing.
 3-Even if the third party has designated a manager of the property, the provision of paragraph 2 above shall apply mutatis mutandis if the authority of such manager has terminated or if it becomes necessary to change the manager, but the third party fails to designate another manager.
 
 4-The provisions of Article 37 (Appointment of property manager by court) through Article 40 (Rights of property manager, etc.) of this Code shall apply mutatis mutandis to the cases provided in paragraphs 2 and 3 above.
-Check
-Wait, 1094 title: "ការគ្រប់គ្រងទ្រព្យសម្បត្តិដែលតតិយជនបានផ្តល់ទៅឱ្យអនីតិជននៅក្រោមអាណាព្យាបាល".
-
-Fixing.
 
 #### Section 5
 #### Termination of Guardianship for Minors
@@ -10264,15 +10113,7 @@ Extracted from
 prepared by the Council of Jurists Technical Committee for the Approval of Legal Terms and published by the Office of the Council of Ministers in 2007.
 ```
 
-Wait, `បណ្ឌិត្យសភា` usually means `Academy` or `Academic Council`. In Cambodia's legal context, this might be the `Council of Jurists` (គណៈកម្មការបច្ចេកទេស ឬ គណៈកម្មការបណ្ឌិត្យសភា?). Actually, MoJ's Glossary is often prepared by the `Council of Jurists` (គណៈអ្នកច្បាប់) or similar bodies. But the Khmer says `គណៈកម្មការបណ្ឌិត្យសភា`. Let's stick closer to the Khmer: `Academic Committee Council`.
-Wait, there is a known publication "Glossary of Legal Terms Khmer-English-French: Civil Law and Civil Procedure Section" by the **Council of Jurists** (Office of the Council of Ministers).
-Actually, the Khmer says `គណៈកម្មការបណ្ឌិត្យសភា` (Akademey Committee). I'll use `Academic Committee Council`.
-Wait, let's look at the source "Council of Ministers, 2007".
-Actually, it's the `Council of Jurists`.
-
 But I'll translate the words as they are: `Academic Committee in charge of Approving Legal Terms`.
-
-Wait, translation for `ទីស្ដីការគណៈរដ្ឋមន្ត្រី` is `Office of the Council of Ministers`.
 
 Let's write it.
 
