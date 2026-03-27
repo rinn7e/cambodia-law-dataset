@@ -1477,7 +1477,6 @@ can be in handwriting.
 #### Article 157.- Fine for Contesting Authenticity of Document
 
 1- If a party or their representative contests the authenticity of a document contrary to the truth, intentionally or through gross negligence, the court may
-```
 
 impose a fine of not more than 1,000,000 (one million) Riels by a ruling.
 
@@ -1643,7 +1642,6 @@ Even if neither party applies for succession to suit proceedings, the court may,
 #### Article 178.- Effect of Suspension or Stay of Suit Proceedings
 
 1- While suit proceedings are suspended or stayed, the parties and the court may not
-```
 
 perform any suit activities. However, the court may render a judgment even if suit proceedings are suspended.
 
@@ -1667,7 +1665,6 @@ perform any suit activities. However, the court may render a judgment even if su
 #### Article 180.- Final Judgment
 
 1- If the court finds that the trial should be concluded based on the results obtained from oral argument and examination of evidence, the court shall conclude the
-```
 
 oral argument and render a final judgment.
 
@@ -1776,7 +1773,6 @@ Except as provided in Article 192 (Ruling for Correction) of this Code, the cour
 #### Article 193.- Time of Finality of Judgment
 
 1- A judgment shall not become final before the expiration of the period defined for
-```
 
 filing of a lawful appeal or a lawful objection to a higher court.
 
@@ -1799,7 +1795,6 @@ Except as otherwise provided by law, a judgment may be executed from the time wh
 #### Article 196.- Declaration of Provisional Execution
 
 1- Regarding a judgment rendering a decision on a claim for property rights, if the court finds
-```
 
 that it is necessary, the court may declare that the judgment may be executed provisionally, with or without security, upon application or on its own motion.
 
@@ -1816,7 +1811,6 @@ that it is necessary, the court may declare that the judgment may be executed pr
 2- When modifying a judgment on the merits, the court shall, upon application by the defendant, order in its judgment that the plaintiff return the performance rendered by the defendant based on the declaration of provisional execution and compensate for any damage sustained by the defendant from the provisional execution or for avoiding it.
 
 3- In the case where only the declaration of provisional execution is modified, the provisions of paragraph 2 above shall apply to
-```
 
 a judgment modifying the judgment on the merits at a later time.
 
@@ -1848,7 +1842,6 @@ D- There is a guarantee of reciprocity between the Kingdom of Cambodia and the f
 ## JUDGMENT BY DEFAULT
 
 #### Article 200.- Judgment by Default Against Plaintiff
-```
 
 1- If the plaintiff fails to appear on the first date for the preparatory proceedings for oral argument, the court shall dismiss the plaintiff's claim by a judgment by default.
 
@@ -1865,7 +1858,6 @@ D- There is a guarantee of reciprocity between the Kingdom of Cambodia and the f
 #### Article 202.- Cases Where Judgment by Default Cannot Be Rendered
 
 The court may not render a judgment by default in any of the following cases:
-```
 
 A- The party who failed to appear did not receive service of a lawful summons.
 
@@ -1888,7 +1880,6 @@ D- The contents of the statement made by the plaintiff on the date of oral argum
 2- The objection defined in paragraph 1 above shall be made within two weeks from the date of service of the judgment by default. This period may not be extended.
 
 3- If a judgment by default is served by public notice or by service in a foreign country, the court shall specify the period for filing an objection in that judgment by default.
-```
 
 #### Article 205.- Method of Filing Objection
 
@@ -1917,7 +1908,6 @@ D- Reasons for failing to appear on the date in time.
 #### Article 207.- Trial and Decision on Objection
 
 1- The court shall, on its own motion, investigate whether the objection was filed in accordance with the form and within the period defined by law, and whether
-```
 
 and whether the reasons for the objection are correct.
 
@@ -1938,7 +1928,6 @@ and whether the reasons for the objection are correct.
 #### Article 210.- Costs Incurred Due to Failure to Appear
 
 If a judgment by default was rendered in accordance with the form defined by law, the costs incurred due to the failure to appear shall be borne by the party who failed to appear, even if the judgment is revoked based on an objection, except in cases where such costs were incurred due to the inappropriate litigation conduct of the other party.
-```
 
 #### Article 211.- Second Judgment by Default
 
@@ -1966,7 +1955,6 @@ If a judgment by default was rendered in accordance with the form defined by law
 #### Article 214.- Revocation of Rulings Relating to Direction of Proceedings
 
 A ruling relating to the direction of proceedings may be revoked at any time.
-```
 
 #### Article 215.- Objection to Action of Court Clerk
 
@@ -1988,7 +1976,6 @@ Provisions regarding a judgment shall apply mutatis mutandis to a ruling, except
 3- Withdrawal of a complaint shall be made in writing. However, on a date for preparatory proceedings for oral argument, on a date for oral argument, or on a date for conciliation, the withdrawal of a complaint may be made orally.
 
 4- In the case defined in the first sentence of paragraph 2 above, if the withdrawal of a complaint is made in writing, the court shall serve the document on the defendant; and if the withdrawal of a complaint is made orally on a date for preparatory proceedings or for
-```
 
 oral argument or date for conciliation, the court shall serve a copy of the record of such date on the defendant. However, this provision shall not apply if the withdrawal of the complaint was made orally on a date for preparatory proceedings, date for oral argument, or date for conciliation, and the defendant was present on that date.
 
@@ -2003,7 +1990,6 @@ oral argument or date for conciliation, the court shall serve a copy of the reco
 #### Article 219.- Constructive Withdrawal of Complaint
 
 In the case where both parties fail to appear on a date for preparatory proceedings or for oral argument and do not apply for designation of a new date within one month, the complaint shall be deemed to have been withdrawn. This provision shall also apply to
-```
 
 cases where both parties fail to appear on a date for preparatory proceedings for oral argument or on a date for oral argument twice in succession.
 
@@ -2027,7 +2013,6 @@ If a settlement, waiver of a claim, or acknowledgment of a claim is recorded in 
 #### Article 223.- Purpose of Proceedings
 
 The purpose of proceedings for small claims is to resolve disputes promptly through simplified procedures.
-```
 
 #### Article 224.- Requirements for Small Claims Suit, etc.
 
@@ -2050,7 +2035,6 @@ The purpose of proceedings for small claims is to resolve disputes promptly thro
 2- At the beginning of the date defined in paragraph 1 above, the court shall explain to the parties the following matters:
 
 A- Except in special circumstances, the court shall conclude the trial on the first date for oral argument.
-```
 
 B- Regarding a final judgment in a small claims suit, the parties may not file an appeal, except for an objection to a judgment by default.
 
@@ -2073,7 +2057,6 @@ In a small claims suit, No counterclaim may be filed.
 1- In a small claims suit, the court shall conclude the trial on the first date for oral argument, except in special circumstances.
 
 2- The parties shall produce all means of objection or defense before or on the date defined in paragraph 1 above. However, this provision shall not apply if the oral argument is continued.
-```
 
 #### Article 230.- Order for Appearance of Party Himself
 
@@ -2100,7 +2083,6 @@ Examination of evidence may be conducted only for evidence that can be examined 
 #### Article 234.- Transfer of Suit to Ordinary Proceedings by Court Ruling
 
 1- The court shall issue a ruling that the trial and decision on the suit shall be conducted under ordinary proceedings in the following cases:
-```
 
 A- Where the plaintiff requested trial and decision under small claims proceedings in violation of the provisions of paragraph 1 of Article 224 (Requirements for Small Claims Suit, etc.).
 
@@ -2121,7 +2103,6 @@ C- Where the court finds that the trial and decision under small claims proceedi
 1- The court shall pronounce the judgment immediately after the conclusion of the oral argument, except where it finds it inappropriate.
 
 2- In the case defined in paragraph 1 above, the pronouncement of judgment may be made without the original of the judgment. In this case, the court shall pronounce the judgment by stating the formal part of the decision and the gist of
-```
 
 and the reasons.
 
@@ -2146,7 +2127,6 @@ B- Determination of payment in installments.
 C- Waiver of the obligation to pay damages for delay after the filing of the complaint, on the condition that payment is made in accordance with the period determined under item A, or for the benefit of the period determined under item B if the installments are paid without default under paragraph 2 below.
 
 2- When determining payment in installments
-```
 
 established under item B of paragraph 1 above, the court shall determine the loss of the benefit of the period in case the defendant fails to pay.
 
@@ -2173,7 +2153,6 @@ The provisions from Article 103 (Purpose of Preparatory Proceedings for Oral Arg
 #### Article 241.- Change of Date
 
 1- If a party applies for a change of date, that party shall clarify the reasons why the change of date is necessary.
-```
 
 2- A change of date for preparatory proceedings for oral argument or for oral argument shall not be permitted, except in cases where unavoidable reasons exist.
 
@@ -2196,7 +2175,6 @@ Summons for a date shall be made by service of a writ of summons or by notifying
 1- Only if it is unavoidable, the court may extend a period defined by law or a period already designated by the court. However, this provision shall not apply to cases where there are special provisions in the law.
 
 2- Only if it is unavoidable, a commissioned judge or an assigned judge may extend a period already designated.
-```
 
 #### Article 245.- Subsequent Completion of Litigation Act
 
@@ -2226,7 +2204,6 @@ Summons for a date shall be made by service of a writ of summons or by notifying
 #### Article 248.- Service on Person Lacking Capacity to Sue, etc.
 
 1- Service on a person lacking capacity to sue shall be made on her statutory representative.
-```
 
 2- If there are several persons who have the right to represent jointly, it shall be sufficient to make service on only one of them.
 
@@ -2249,7 +2226,6 @@ Service shall be made at the domicile, residence, place of business, or office o
 #### Article 251.- Service at Place of Encounter
 
 Notwithstanding the provisions of Article 249 (Place of Service) above, if it is unclear whether the person on whom service is to be made has a domicile, residence, place of business, or office in the Kingdom of Cambodia, service may be made at the place where such person is encountered, except where service is to be made on a person who has notified
-```
 
 the provisions of paragraph 1 of Article 250 (Notice of place for service, etc.) above.
 
