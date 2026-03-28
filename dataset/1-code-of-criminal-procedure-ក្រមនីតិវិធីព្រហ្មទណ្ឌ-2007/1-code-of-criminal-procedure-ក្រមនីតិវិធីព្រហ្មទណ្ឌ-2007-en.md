@@ -78,13 +78,13 @@ The Code of Criminal Procedure, which was adopted by the National Assembly on Ju
 
 #### GENERAL PRINCIPLES
 
-Article 1.- Purpose of the Code of Criminal Procedure
+#### Article 1.- Purpose of the Code of Criminal Procedure
 
 The Code of Criminal Procedure aims to define all rules that must be strictly respected and followed in order to clearly determine the existence of any criminal offense.
 
 The provisions of this Code shall apply to criminal cases when there are no separate rules specified by a specific special law.
 
-Article 2.- Criminal Action and Civil Action
+#### Article 2.- Criminal Action and Civil Action
 
 A criminal action and a civil action are two different actions.
 
@@ -100,31 +100,31 @@ A civil action aims to provide compensation for damages caused by the offense to
 
 #### CRIMINAL ACTION
 
-Article 3.- Subject of Criminal Action
+#### Article 3.- Subject of Criminal Action
 
 A criminal action shall be applied to every person, both natural persons and legal entities, regardless of race, color, sex, language, belief, religion, political tendency, national origin
 
 social status, resources, or any other situation.
 
-Article 4.- Commencement of Criminal Action by the Prosecutor
+#### Article 4.- Commencement of Criminal Action by the Prosecutor
 
 A criminal action shall be exercised in the name of the general interest by the prosecutor.
 
 The prosecutor shall conduct criminal charges and request the application of the law before the investigating jurisdiction and the trial jurisdiction.
 
-Article 5.- Initiation of Criminal Action by the Victim
+#### Article 5.- Initiation of Criminal Action by the Victim
 
 Victims of a felony or misdemeanor may file a complaint by establishing themselves as a civil party before the investigating judge. A complaint with the establishment as a civil party has the effect of referring the criminal action to the investigating judge under the conditions stipulated in Article 139 (Transfer of complaint to the Royal Prosecutor) and Article 140 (Payment of security deposit) of this Code.
 
 The criminal jurisdiction may also receive complaints from civil servants or other public agents who have been granted such power by separate laws.
 
-Article 6.- Filing of Simple Complaint by the Victim
+#### Article 6.- Filing of Simple Complaint by the Victim
 
 Every person who declares themselves a victim of an offense may file a complaint. A simple complaint does not have the effect of initiating criminal charges.
 
 In the event that the complaint remains unanswered or is filed without action by the Royal Prosecutor, the victim may appeal to the Prosecutor General attached to the Court of Appeal, in accordance with the procedure provided for in Article 41 (Filing of a case without action) of this Code.
 
-Article 7.- Extinguishment of Criminal Action
+#### Article 7.- Extinguishment of Criminal Action
 
 The causes for the extinguishment of a criminal action are as follows:
 
@@ -140,7 +140,7 @@ The causes for the extinguishment of a criminal action are as follows:
 
 When a criminal action has been extinguished, criminal charges can no longer be initiated or must be terminated.
 
-Article 8.- Other Causes of Extinguishment of Criminal Action
+#### Article 8.- Other Causes of Extinguishment of Criminal Action
 
 When a separate law specifically provides for it, a criminal action may also be extinguished by:
 
@@ -150,11 +150,11 @@ When a separate law specifically provides for it, a criminal action may also be 
 
 3- Payment of a lump sum fine or a settlement fine.
 
-Article 9.- Offenses without Statutory Limitation
+#### Article 9.- Offenses without Statutory Limitation
 
 Genocide, crimes against humanity, and war crimes are not subject to any statute of limitations.
 
-Article 10.- Statutory Limitation periods for Offenses
+#### Article 10.- Statutory Limitation periods for Offenses
 
 Except for the provisions of Article 9 (Offenses without statutory limitation) of this Code, the limitation periods for criminal action are as follows:
 
@@ -164,11 +164,11 @@ Except for the provisions of Article 9 (Offenses without statutory limitation) o
 
 - 1 (one) year for petty offenses.
 
-Article 11.- Interruption of Commencement of Limitation Period
+#### Article 11.- Interruption of Commencement of Limitation Period
 
 The limitation period shall begin from the date the offense was committed. The limitation period shall be interrupted by any act of prosecution or investigation. Each act of prosecution or investigation shall cause a new limitation period to begin, according to the categories in Article 10 (Statutory limitation periods for offenses) of this Code. The new period can be invoked against any person involved in the case.
 
-Article 12.- Res Judicata
+#### Article 12.- Res Judicata
 
 In application of the principle of res judicata, any person who has been definitively acquitted by a court may not be prosecuted again for the same act, even under a different legal characterization.
 
@@ -180,7 +180,7 @@ In application of the principle of res judicata, any person who has been definit
 
 #### CIVIL ACTION
 
-Article 13.- Civil Action and Damage
+#### Article 13.- Civil Action and Damage
 
 A civil action shall be exercised by the victim of an offense.
 
@@ -194,21 +194,21 @@ To be compensable, the damage must:
 
 Damage may be material, physical, or mental.
 
-Article 14.- Reparation of Damage
+#### Article 14.- Reparation of Damage
 
 Damage may be repaired by the payment of compensation, by the restitution to the victim of lost property, or by the restoration to its original state of property that has been destroyed or damaged.
 
 The compensation must be commensurate with the damage suffered.
 
-Article 15.- Civil Party
+#### Article 15.- Civil Party
 
 A civil action may be brought on behalf of the victim by their legal representative when the victim is a minor or an incapacitated person under a legal protection regime.
 
-Article 16.- Civil Action of Succesors of the Victim
+#### Article 16.- Civil Action of Succesors of the Victim
 
 In the event of the death of the victim, a civil action may be brought or continued by their successors.
 
-Article 17.- Associations Fighting against Sexual Violence, Domestic Violence, or Violence against Children
+#### Article 17.- Associations Fighting against Sexual Violence, Domestic Violence, or Violence against Children
 
 Any properly registered association that has existed for at least 3 (three) years prior to the date of the offense and whose statutory purpose includes fighting against sexual violence, domestic violence, or violence against children, may exercise the rights granted to a civil party for the following types of offenses:
 
@@ -218,11 +218,11 @@ Any properly registered association that has existed for at least 3 (three) year
 
 - Sexual attacks.
 
-Article 18.- Associations Fighting against Kidnapping, Human Trafficking, and Sexual Exploitation
+#### Article 18.- Associations Fighting against Kidnapping, Human Trafficking, and Sexual Exploitation
 
 Any properly registered association that has existed for at least 3 (three) years prior to the date of the offense and whose statutory purpose includes fighting against kidnapping, human trafficking, or sexual exploitation, may exercise the rights granted to a civil party for offenses provided by law relating to the fight against kidnapping, human trafficking, and sexual exploitation.
 
-Article 19.- Associations Fighting against Racism and Discrimination
+#### Article 19.- Associations Fighting against Racism and Discrimination
 
 Any properly registered association that has existed for at least 3 (three) years prior to the date of the offense and whose statutory purpose includes fighting against racism and providing assistance to victims of discrimination based on national origin, ethnicity, race
 
@@ -234,11 +234,11 @@ religion, may exercise the rights granted to a civil party for the following typ
 
 - Destruction and damage.
 
-Article 20.- Admissibility of Complaints from Associations
+#### Article 20.- Admissibility of Complaints from Associations
 
 In the cases provided for in Article 17 (Associations fighting against sexual violence, domestic violence, or violence against children) to Article 19 (Associations fighting against racism and discrimination) of this Code, the complaint of an association is admissible only if there is evidence showing that the consent of the victim or their legal representative has been obtained. In the event of an attack on life, the complaint of an association is admissible only if the association can show evidence that the consent of the victim's successors has been obtained.
 
-Article 21.- Defendants in a Civil Action
+#### Article 21.- Defendants in a Civil Action
 
 A civil action may be brought against all persons who must repair the damage resulting from the offense, including:
 
@@ -248,25 +248,25 @@ A civil action may be brought against all persons who must repair the damage res
 
 - Persons civilly liable.
 
-Article 22.- Relationship between the Jurisdiction of Criminal Courts and Civil Courts
+#### Article 22.- Relationship between the Jurisdiction of Criminal Courts and Civil Courts
 
 A civil action may be brought at the same time as a criminal action before a criminal trial court.
 
 A civil action may also be brought before a civil trial court. In such a case, the civil action shall be stayed as long as no definitive decision has been rendered on the criminal action.
 
-Article 23.- Prior Declaration of Guilt
+#### Article 23.- Prior Declaration of Guilt
 
 The criminal court may rule on the reparation of damage only if it has previously examined the elements of the criminal offense and declared the accused guilty.
 
-Article 24.- Death of the Accused
+#### Article 24.- Death of the Accused
 
 A civil party may request reparation of damage from the successors of the accused if the accused dies during the course of the criminal proceedings. Although the criminal action is extinguished, the criminal court remains competent to rule on the civil action brought against those successors.
 
-Article 25.- Waiver and Withdrawal of Complaint by the Victim
+#### Article 25.- Waiver and Withdrawal of Complaint by the Victim
 
 The victim may waive their right to bring a civil action or withdraw their complaint. The waiver or withdrawal of the complaint by the victim cannot terminate or stay the exercise of the criminal action, except for the provisions in point 2 of Article 8 (Other causes of extinguishment of criminal action) of this Code.
 
-Article 26.- Prescription of Civil Action
+#### Article 26.- Prescription of Civil Action
 
 A civil action shall be subject to the statute of limitations according to the rules of the Civil Code. However, this civil action can no longer be brought before a criminal court after the expiration of the limitation period for the criminal action.
 
@@ -282,7 +282,7 @@ A civil action shall be subject to the statute of limitations according to the r
 
 #### GENERAL PROVISIONS
 
-Article 27.- Role of the Prosecution Service
+#### Article 27.- Role of the Prosecution Service
 
 The Prosecution Service shall conduct criminal charges and request the application of the law by the court. The Prosecution Service shall ensure the enforcement of criminal decisions and shall ensure careful attention to the issuance and circulation of arrest warrants.
 
@@ -290,7 +290,7 @@ In the performance of their duties, prosecutors have the right to directly reque
 
 The prosecutor must be present during criminal hearings.
 
-Article 28.- Prosecutors
+#### Article 28.- Prosecutors
 
 Prosecutors include:
 
@@ -300,7 +300,7 @@ Prosecutors include:
 
 3- The Royal Prosecutor and Deputy Royal Prosecutors attached to the Court of First Instance.
 
-Article 29.- Hierarchy of the Prosecution Service
+#### Article 29.- Hierarchy of the Prosecution Service
 
 The Minister of Justice may report to the Prosecutor General at the Court of Appeal or the Royal Prosecutor at the Court of First Instance any offenses of which he has knowledge. He may issue written instructions, which must be included in the file, directing the Prosecutor General or the Royal Prosecutor to initiate prosecutions or to make such submissions as the Minister deems appropriate.
 
@@ -310,7 +310,7 @@ The Prosecutor General at the Court of Appeal has authority over all prosecutors
 
 The Royal Prosecutor has authority over prosecutors within his territorial jurisdiction. He may issue instructions to prosecutors to prosecute or have prosecutions directed, or to make such submissions as he deems appropriate.
 
-Article 30.- Oral Submissions
+#### Article 30.- Oral Submissions
 
 Every prosecutor must comply with the instructions of his superiors in accordance with the hierarchy.
 
@@ -320,11 +320,11 @@ But at the time of the hearing, the prosecutor shall be free to make such oral o
 
 #### FUNCTIONS OF THE PROSECUTOR GENERAL AT THE SUPREME COURT
 
-Article 31.- Representation of the Prosecution Service at the Supreme Court
+#### Article 31.- Representation of the Prosecution Service at the Supreme Court
 
 The Prosecutor General, Deputy Prosecutors General, and Prosecutors attached to the Supreme Court shall represent the Prosecution Service at that court.
 
-Article 32.- Role of the Prosecutor General at the Supreme Court
+#### Article 32.- Role of the Prosecutor General at the Supreme Court
 
 The Prosecutor General at the Supreme Court shall participate in ensuring respect for the law in cases involving appeals on points of law (cassation), review of cases, or other petitions submitted to the Supreme Court for examination.
 
@@ -332,11 +332,11 @@ The Prosecutor General at the Supreme Court shall participate in ensuring respec
 
 #### FUNCTIONS OF THE PROSECUTOR GENERAL AT THE COURT OF APPEAL
 
-Article 33.- Representation of the Prosecution Service at the Court of Appeal
+#### Article 33.- Representation of the Prosecution Service at the Court of Appeal
 
 The Prosecutor General, Deputy Prosecutors General, and Prosecutors attached to the Court of Appeal shall represent the Prosecution Service at that court.
 
-Article 34.- Role of the Prosecutor General at the Court of Appeal
+#### Article 34.- Role of the Prosecutor General at the Court of Appeal
 
 The Prosecutor General at the Court of Appeal shall monitor the application of the law within the territorial jurisdiction of the Court of Appeal.
 
@@ -344,7 +344,7 @@ The Prosecutor General at the Court of Appeal may conduct inspections of all pro
 
 In the event of a serious offense, the Prosecutor General at the Court of Appeal must report to the Minister of Justice.
 
-Article 35.- Power of the Prosecutor General at the Court of Appeal
+#### Article 35.- Power of the Prosecutor General at the Court of Appeal
 
 The Prosecutor General at the Court of Appeal shall monitor and supervise the judicial police.
 
@@ -364,11 +364,11 @@ All heads of judicial police units, judicial police officers, and judicial polic
 
 ##### PROSECUTION SERVICE AT THE COURT OF FIRST INSTANCE
 
-Article 36.- Representation of the Prosecution Service at the Court of First Instance
+#### Article 36.- Representation of the Prosecution Service at the Court of First Instance
 
 The Royal Prosecutor and Deputy Royal Prosecutors attached to the Court of First Instance shall represent the Prosecution Service at that court.
 
-Article 37.- Power of the Royal Prosecutor
+#### Article 37.- Power of the Royal Prosecutor
 
 The Royal Prosecutor shall lead and coordinate the activities of all judicial police officers and agents within his territorial jurisdiction. However, when executing a rogatory commission, judicial police officers shall be under the authority of the investigating judge.
 
@@ -378,11 +378,11 @@ The Royal Prosecutor may go to the scene of an investigation and give all useful
 
 The Royal Prosecutor may conduct inspections of judicial police units at any time. The Royal Prosecutor may participate in interrogations and may supervise the implementation of detention measures, specifically respect for legal forms and the management of detention facilities.
 
-Article 38.- Power of Deputy Royal Prosecutors
+#### Article 38.- Power of Deputy Royal Prosecutors
 
 Deputy Royal Prosecutors, who are under the authority of the Royal Prosecutor, shall exercise all powers held by the Royal Prosecutor in the investigation and prosecution of offenses.
 
-Article 39.- Territorial Jurisdiction of the Royal Prosecutor
+#### Article 39.- Territorial Jurisdiction of the Royal Prosecutor
 
 The competent Royal Prosecutor is:
 
@@ -396,7 +396,7 @@ The competent Royal Prosecutor is:
 
 ##### EXERCISE OF THE CRIMINAL ACTION
 
-Article 40.- Prosecutorial Discretion
+#### Article 40.- Prosecutorial Discretion
 
 The Royal Prosecutor shall decide on the action to be taken on complaints and reports that he receives directly or that are transmitted to him by judicial police officers.
 
@@ -404,7 +404,7 @@ The Royal Prosecutor may decide to file the case without action or to initiate c
 
 In the event of a serious offense, the Royal Prosecutor shall report to the Prosecutor General at the Court of Appeal, who shall in turn report to the Minister of Justice.
 
-Article 41.- Filing of the Case Without Action
+#### Article 41.- Filing of the Case Without Action
 
 When a case is filed without action, the Royal Prosecutor must notify the complainant of his decision as soon as possible, and at the latest within 2 (two) months from the date the complaint was recorded in the register provided for in Article 50 (Complaints Register) of this Code.
 
@@ -418,13 +418,13 @@ The appeal must be made within 2 (two) months from the date of notification of t
 
 If the appeal is found to be well-founded, the Prosecutor General at the Court of Appeal shall issue instructions to the Royal Prosecutor at the Court of First Instance to initiate prosecution. The Prosecutor General shall issue instructions by written guidance. Otherwise, the Prosecutor General at the Court of Appeal shall confirm the decision of the Royal Prosecutor. The Prosecutor General at the Court of Appeal must notify the appellant of this decision.
 
-Article 42.- Obligation to Report Felonies or Misdemeanors
+#### Article 42.- Obligation to Report Felonies or Misdemeanors
 
 Every public authority or official who, in the performance of their duties, acquires knowledge of a felony or misdemeanor, must immediately inform the Royal Prosecutor or a judicial police officer, and must transmit all information, reports, documents, and evidence relating to the offense.
 
 No exception may be made except for professional secrecy in cases where the law specifically provides for it.
 
-Article 43.- Initiation of Prosecution
+#### Article 43.- Initiation of Prosecution
 
 Criminal prosecution may be initiated by:
 
@@ -434,7 +434,7 @@ Criminal prosecution may be initiated by:
 
 - Procedures for immediate appearance.
 
-Article 44.- Opening an Investigation
+#### Article 44.- Opening an Investigation
 
 In felony cases, the Royal Prosecutor must open an investigation.
 
@@ -454,7 +454,7 @@ The introductory submission must be dated and signed.
 
 These formal requirements are mandatory; otherwise, the introductory submission shall be null and void.
 
-Article 45.- Initiation of Prosecution in Misdemeanor Cases
+#### Article 45.- Initiation of Prosecution in Misdemeanor Cases
 
 In misdemeanor cases, the Royal Prosecutor may:
 
@@ -464,7 +464,7 @@ In misdemeanor cases, the Royal Prosecutor may:
 
 - Order the immediate appearance of the accused before the Court of First Instance by following the provisions of Article 47 (Immediate appearance) and Article 48 (Procedure for immediate appearance) of this Code.
 
-Article 46.- Direct Referral for Trial
+#### Article 46.- Direct Referral for Trial
 
 A direct referral for trial is an order to the accused to appear before the Court of First Instance. The direct referral order shall contain:
 
@@ -478,7 +478,7 @@ A direct referral for trial is an order to the accused to appear before the Cour
 
 The direct referral order shall specify the court, the place, the date, and the time of the hearing. The order must state that the accused may be assisted by a lawyer.
 
-Article 47.- Immediate Appearance
+#### Article 47.- Immediate Appearance
 
 The Royal Prosecutor may order the immediate appearance of the accused before the Court of First Instance if all the following conditions are met:
 
@@ -490,7 +490,7 @@ The Royal Prosecutor may order the immediate appearance of the accused before th
 
 - The case is ready for trial.
 
-Article 48.- Procedure for Immediate Appearance
+#### Article 48.- Procedure for Immediate Appearance
 
 When deciding to use the procedure for immediate appearance, the Royal Prosecutor shall:
 
@@ -522,11 +522,11 @@ The judgment on the merits must be rendered within a period not exceeding 2 (two
 
 If the court seized by the procedure for immediate appearance finds that the conditions of Article 47 (Immediate appearance) of this Code are not met, or that the complexity of the case requires further investigation, the court shall return the file to the Royal Prosecutor for the opening of an investigation. The accused must be brought before an investigating judge on the same day; otherwise, the accused must be released.
 
-Article 49.- Direct Referral for Trial in Petty Offense Cases
+#### Article 49.- Direct Referral for Trial in Petty Offense Cases
 
 In petty offense cases, the Royal Prosecutor shall summon the accused to appear directly before the trial court, in accordance with the provisions of Article 46 (Direct referral for trial) of this Code.
 
-Article 50.- Complaint Register
+#### Article 50.- Complaint Register
 
 At each Court of First Instance, a prosecution register shall be established for recording complaints made directly to the Royal Prosecutor or transmitted by judicial police officers.
 
@@ -552,7 +552,7 @@ The complaint register shall be maintained by the prosecution clerk under the su
 
 #### INVESTIGATING JUDGE
 
-Article 51.- Appointment by the President of the Court
+#### Article 51.- Appointment by the President of the Court
 
 When an investigating judge is unable to perform his duties due to leave, illness, or any other reason, another investigating judge of the same court shall be temporarily appointed by the President of the Court to perform the investigative functions.
 
@@ -562,17 +562,17 @@ The President of the Court shall issue an appointment order which is not subject
 
 Furthermore, the provisions of Article 26 (Distribution of Cases) of the Code of Civil Procedure must be respected.
 
-Article 52.- Distribution of Cases by the President of the Court
+#### Article 52.- Distribution of Cases by the President of the Court
 
 When there are several investigating judges in a court, cases shall be distributed among them by the President of the Court.
 
-Article 53.- Withdrawal of a Case from an Investigating Judge
+#### Article 53.- Withdrawal of a Case from an Investigating Judge
 
 The withdrawal of a case from one investigating judge to be assigned to another investigating judge may be requested from the President of the Court in the interest of the proper administration of justice. This request may be made by a reasoned application from the Royal Prosecutor, acting on his own initiative or at the request of a party.
 
 The grounds for withdrawing a case from an investigating judge must follow the provisions of Article 556 (Grounds for Challenge of Judges) of this Code.
 
-Article 54.- Incompatibility Resulting in Nullity
+#### Article 54.- Incompatibility Resulting in Nullity
 
 An investigating judge may not participate in the trial of a criminal case in which he has acted as the investigating judge; otherwise, the trial shall be null and void.
 
@@ -586,7 +586,7 @@ The investigating judge shall exercise the powers provided for in this Code.
 
 #### INVESTIGATING CHAMBER
 
-Article 55.- Special Chamber of the Court of Appeal
+#### Article 55.- Special Chamber of the Court of Appeal
 
 In the Court of Appeal, there shall be a chamber known as the Investigating Chamber. The Investigating Chamber has the jurisdiction to rule on appeals brought against decisions of the investigating judge.
 
@@ -600,13 +600,13 @@ Members of the Investigating Chamber may not participate in the trial of a crimi
 
 #### GENERAL PROVISIONS
 
-Article 56.- Mission of the Judicial Police
+#### Article 56.- Mission of the Judicial Police
 
 The judicial police are assistants to the judicial power.
 
 The judicial police have the duty to investigate felonies, misdemeanors, and petty offenses, to identify and arrest offenders, and to collect evidence.
 
-Article 57.- Composition of the Judicial Police
+#### Article 57.- Composition of the Judicial Police
 
 The judicial police include:
 
@@ -616,7 +616,7 @@ The judicial police include:
 
 3- Other officials and public agents who are specifically empowered by law to investigate certain offenses within their jurisdiction.
 
-Article 58.- Coordination of the Activities of the Judicial Police
+#### Article 58.- Coordination of the Activities of the Judicial Police
 
 The Royal Prosecutor shall lead and coordinate the activities of all judicial police officers and agents within his territorial jurisdiction.
 
@@ -624,7 +624,7 @@ The Royal Prosecutor has authority over other officials and public agents mentio
 
 When executing a rogatory commission, judicial police officers shall be under the authority of the investigating judge.
 
-Article 59.- Supervision of the Judicial Police
+#### Article 59.- Supervision of the Judicial Police
 
 The judicial police shall be under the monitoring and supervision of the Prosecutor General at the Court of Appeal.
 
@@ -638,7 +638,7 @@ The Prosecutor General at the Court of Appeal shall exercise disciplinary power 
 
 ##### QUALIFICATIONS AS JUDICIAL POLICE OFFICER
 
-Article 60.- Judicial Police Officers
+#### Article 60.- Judicial Police Officers
 
 The following persons have the status of judicial police officer:
 
@@ -704,7 +704,7 @@ n- Directors and Deputy Directors of other units in charge of criminal investiga
 
 The Minister who is the supervisory authority of police officers or officers of the Royal Gendarmerie mentioned in items 1, 2, and 3 of this Article shall appoint the police officers or Royal Gendarmerie officers who are to perform the duties of judicial police officer by a joint proclamation (Prakas) with the Minister of Justice.
 
-Article 61.- Higher Diploma in Judicial Police
+#### Article 61.- Higher Diploma in Judicial Police
 
 The Higher Diploma in Judicial Police shall be awarded after passing a professional examination consisting of the following basic subjects:
 
@@ -716,7 +716,7 @@ The Higher Diploma in Judicial Police shall be awarded after passing a professio
 
 The diploma must be jointly signed and sealed by the Minister of Justice and the relevant Minister.
 
-Article 62.- Board of Examiners
+#### Article 62.- Board of Examiners
 
 The Board of Examiners for the examination shall be presided over by the Prosecutor General at the Supreme Court or a prosecutor at the Supreme Court designated for this purpose.
 
@@ -738,7 +738,7 @@ The Board of Examiners for the examination shall be presided over by the Prosecu
 
 The procedures for issuing the diploma shall be determined by a joint proclamation (Prakas) of the relevant Ministers.
 
-Article 63.- Oath of Judicial Police Officers
+#### Article 63.- Oath of Judicial Police Officers
 
 Every judicial police officer must take an oath to perform their duties faithfully. The oath shall be taken before the Court of Appeal. The oath does not need to be retaken when subsequent qualifications as a judicial police officer are obtained. The formula of the oath shall be determined by a proclamation (Prakas) of the Minister of Justice.
 
@@ -746,13 +746,13 @@ Every judicial police officer must take an oath to perform their duties faithful
 
 ##### MISCONDUCT IN THE PERFORMANCE OF DUTIES
 
-Article 64.- Disciplinary Procedure
+#### Article 64.- Disciplinary Procedure
 
 All misconduct committed by a judicial police officer in the performance of their duties must be reported by the Royal Prosecutor or the investigating judge to the Prosecutor General at the Court of Appeal. Depending on the case, the Prosecutor General at the Court of Appeal shall declare...
 
 and notify the Minister of Interior or the Minister of National Defense to initiate disciplinary proceedings. The Prosecutor General at the Court of Appeal shall be informed of the subsequent steps of the disciplinary procedure.
 
-Article 65.- Disciplinary Sanctions
+#### Article 65.- Disciplinary Sanctions
 
 Disciplinary sanctions imposed by the Minister of Interior or the Minister of National Defense do not preclude criminal prosecution if an offense has been committed.
 
@@ -760,7 +760,7 @@ When a judicial police officer commits an offense in the performance of their du
 
 Such a request for withdrawal of jurisdiction shall be made by the Royal Prosecutor.
 
-Article 66.- Prohibition from Performing the Duties of Judicial Police Officer
+#### Article 66.- Prohibition from Performing the Duties of Judicial Police Officer
 
 When the Prosecutor General at the Court of Appeal considers that the seriousness of the misconduct committed by a judicial police officer is incompatible with the performance of their duties, the Prosecutor General at the Court of Appeal has the power to:
 
@@ -788,7 +788,7 @@ All acts performed by a judicial police officer in violation of the prohibition 
 
 ##### TERRITORIAL JURISDICTION OF JUDICIAL POLICE OFFICERS
 
-Article 67.- Adminstrative District of Assignment
+#### Article 67.- Adminstrative District of Assignment
 
 Each judicial police officer has jurisdiction within the territorial boundaries of the unit to which they are assigned.
 
@@ -796,7 +796,7 @@ In Phnom Penh, judicial police officers have jurisdiction over the entire city, 
 
 The decision to appoint a judicial police officer must specify the administrative district where the officer is assigned. This decision must be notified to the Prosecutor General at the Court of Appeal.
 
-Article 68.- Extension of Territorial Jurisdiction
+#### Article 68.- Extension of Territorial Jurisdiction
 
 In cases of flagrant felony or misdemeanor as defined in Article 86 (Definition of Flagrant Felony or Misdemeanor) and Article 87 (Arrest in case of Flagrant Felony or Misdemeanor) of this Code, and if there is urgency, the Royal Prosecutor may authorize judicial police officers to operate throughout the national territory. Permission may be given orally, but such permission must be noted in the investigation report.
 
@@ -806,11 +806,11 @@ When operating outside their assigned district, judicial police officers must re
 
 The judge who authorized the extension of jurisdiction must inform the Royal Prosecutor with territorial jurisdiction by any means.
 
-Article 69.- Consequences of Non-Compliance with Jurisdictional Rules
+#### Article 69.- Consequences of Non-Compliance with Jurisdictional Rules
 
 The rules of territorial jurisdiction provided for in the preceding articles are mandatory. Failure to comply with them shall result in the nullity of the acts performed by the judicial police officer.
 
-Article 70.- Orders of the Judicial Authority
+#### Article 70.- Orders of the Judicial Authority
 
 In the performance of their mission, judicial police officers shall receive or request orders only from the judicial authority.
 
@@ -818,7 +818,7 @@ In the performance of their mission, judicial police officers shall receive or r
 
 ##### MISSION OF JUDICIAL POLICE OFFICERS
 
-Article 71.- Reporting of Offenses
+#### Article 71.- Reporting of Offenses
 
 Judicial police officers shall receive complaints and reports. They shall investigate offenses.
 
@@ -826,7 +826,7 @@ Judicial police officers conduct investigations into flagrant offenses and preli
 
 When an investigation has been opened, judicial police officers execute rogatory commissions from the investigating judge under the conditions set forth in Article 173 (Definition of rogatory commission) and Article 184 (Reports prepared by judicial police officers) of this Code.
 
-Article 72.- Reports
+#### Article 72.- Reports
 
 Every complaint received by a judicial police officer must be recorded in a report.
 
@@ -846,7 +846,7 @@ Any crossings-out, additions, or references must be validated by the signatures 
 
 Before signing or affixing their thumbprint, the complainant must reread the report. If necessary, the judicial police officer shall read the contents of the report aloud.
 
-Article 73.- Complaint Register
+#### Article 73.- Complaint Register
 
 At each judicial police unit, a complaint register must be established. Whenever a complaint is filed, the judicial police officer must record in the register:
 
@@ -862,7 +862,7 @@ At each judicial police unit, a complaint register must be established. Whenever
 
 The complaint register must be permanently maintained and available to judicial authorities upon request.
 
-Article 74.- Action Following a Complaint
+#### Article 74.- Action Following a Complaint
 
 The judicial police officer who receives a complaint must immediately either open an investigation or transmit the complaint report to the Royal Prosecutor for action.
 
@@ -870,7 +870,7 @@ Before opening an investigation, the judicial police officer may request instruc
 
 When receiving a report that provides clear and reasonable grounds for suspicion, the judicial police officer must inform the Royal Prosecutor and request instructions.
 
-Article 75.- Interference with Judicial Action
+#### Article 75.- Interference with Judicial Action
 
 In no case may a judicial police officer file a criminal case without action, even if a settlement has been reached between the offender and the victim or if the complaint has been withdrawn.
 
@@ -880,7 +880,7 @@ A judicial police officer who intentionally withholds a report or evidence, or c
 
 #### JUDICIAL POLICE AGENTS
 
-Article 76.- Qualifications as Judicial Police Agent
+#### Article 76.- Qualifications as Judicial Police Agent
 
 The following persons have the status of judicial police agent:
 
@@ -892,11 +892,11 @@ The following persons have the status of judicial police agent:
 
 4- Other personnel of the Royal Gendarmerie.
 
-Article 77.- Oath of Judicial Police Agents
+#### Article 77.- Oath of Judicial Police Agents
 
 Judicial police agents must take an oath to perform their duties honestly. The oath shall be taken before the Court of First Instance. The oath does not need to be retaken when subsequent qualifications as a judicial police agent are obtained. The formula of the oath shall be determined by a proclamation (Prakas) of the Minister of Justice.
 
-Article 78.- Mission of Judicial Police Agents
+#### Article 78.- Mission of Judicial Police Agents
 
 Judicial police agents have the mission to:
 
@@ -908,11 +908,11 @@ For investigations, judicial police agents prepare reports. These reports have t
 
 In no case may judicial police agents perform acts that are reserved exclusively for judicial police officers. Any acts performed in violation of this prohibition shall be null and void.
 
-Article 79.- Misconduct in the Performance of Duties
+#### Article 79.- Misconduct in the Performance of Duties
 
 All misconduct committed by a judicial police agent in the performance of their duties must be reported by the Royal Prosecutor or the investigating judge to the Prosecutor General at the Court of Appeal. Depending on the case, the Prosecutor General shall notify the Minister of Interior or the Minister of National Defense to initiate disciplinary proceedings. The Prosecutor General shall be informed of the subsequent steps of the disciplinary procedure.
 
-Article 80.- Disciplinary Sanctions
+#### Article 80.- Disciplinary Sanctions
 
 Disciplinary sanctions imposed by the Minister of Interior or the Minister of National Defense do not preclude criminal prosecution if an offense has been committed.
 
@@ -924,7 +924,7 @@ Such a request for withdrawal of jurisdiction shall be made by the Royal Prosecu
 
 #### JURISDICTION OF THE NATIONAL POLICE AND THE ROYAL GENDARMERIE
 
-Article 81.- Determination of Jurisdiction
+#### Article 81.- Determination of Jurisdiction
 
 In the field of judicial police, the National Police and the Royal Gendarmerie have the jurisdiction set forth in Article 56 (Mission of the Judicial Police) of this Code.
 
@@ -938,7 +938,7 @@ Judicial police units with national jurisdiction may be created by a royal decre
 
 #### OTHER OFFICIALS AND PUBLIC AGENTS WITH SPECIAL POWER TO INVESTIGATE CERTAIN OFFENSES
 
-Article 82.- Empowerment of Other Officials and Public Agents
+#### Article 82.- Empowerment of Other Officials and Public Agents
 
 Other officials and public agents who are specifically empowered by law to investigate offenses shall be under the authority of the Royal Prosecutor when performing those duties.
 
@@ -962,7 +962,7 @@ All misconduct committed by other officials or public agents in the performance 
 
 #### GENERAL PROVISIONS
 
-Article 83.- Secrecy of the Investigation
+#### Article 83.- Secrecy of the Investigation
 
 The investigation must be secret. All persons participating in the investigation, particularly prosecutors, lawyers, clerks, police, Royal Gendarmerie, officials, experts, interpreters, doctors, and persons with the jurisdiction mentioned in Article 99 (Technical or Scientific Examination) of this Code, are bound by professional secrecy.
 
@@ -972,7 +972,7 @@ Furthermore, the Royal Prosecutor is authorized to make public statements when h
 
 The violation of the secrecy of the investigation is an offense punishable under the criminal law in force.
 
-Article 84.- Distinction of Powers of Judicial Police Officers according to Investigation
+#### Article 84.- Distinction of Powers of Judicial Police Officers according to Investigation
 
 The powers granted to judicial police officers vary depending on whether the officer is acting in the context of a flagrant investigation or a preliminary investigation.
 
@@ -984,11 +984,11 @@ The powers granted to judicial police officers vary depending on whether the off
 
 #### FLAGRANT FELONIES OR MISDEMEANORS
 
-Article 85.- Powers of Judicial Police Officers in Flagrant Investigation
+#### Article 85.- Powers of Judicial Police Officers in Flagrant Investigation
 
 In cases of flagrant felonies or misdemeanors, judicial police officers must comply with the provisions of this Title.
 
-Article 86.- Definition of Flagrant Felonies or Misdemeanors
+#### Article 86.- Definition of Flagrant Felonies or Misdemeanors
 
 A flagrant felony or misdemeanor is:
 
@@ -1004,11 +1004,11 @@ An offense is also deemed to be a flagrant felony or misdemeanor when, shortly a
 
 that lead to the conclusion that the person committed or participated in the commission of the offense.
 
-Article 87.- Arrest in case of Flagrant Felony or Misdemeanor
+#### Article 87.- Arrest in case of Flagrant Felony or Misdemeanor
 
 In case of a flagrant felony or misdemeanor, any person may arrest the offender and bring them before the nearest judicial police officer.
 
-Article 88.- Cases Deemed Flagrant Felonies or Misdemeanors
+#### Article 88.- Cases Deemed Flagrant Felonies or Misdemeanors
 
 An offense is also deemed to be a flagrant felony or misdemeanor, even if it does not fall within the cases mentioned in Article 86 (Definition of Flagrant Felony or Misdemeanor) above, for any felony or misdemeanor committed in a place where the occupant requests the Royal Prosecutor or a judicial police officer to investigate, or a judicial police agent if there is no judicial police officer at that location. In the latter case, the judicial police agent must immediately report to a judicial police officer.
 
@@ -1016,7 +1016,7 @@ An offense is also deemed to be a flagrant felony or misdemeanor, even if it doe
 
 #### INVESTIGATIVE MEASURES
 
-Article 89.- Initial Measures in case of Flagrant Felony or Misdemeanor
+#### Article 89.- Initial Measures in case of Flagrant Felony or Misdemeanor
 
 In case of a flagrant felony or misdemeanor, the judicial police officer must immediately inform the Royal Prosecutor.
 
@@ -1028,11 +1028,11 @@ If he considers it useful, the Royal Prosecutor shall proceed to the scene and d
 
 In case of urgency, the Royal Prosecutor may authorize any judicial police officer to operate throughout the national territory, in compliance with the conditions set forth in Article 68 (Extension of Territorial Jurisdiction) of this Code.
 
-Article 90.- Report on Search and Examination
+#### Article 90.- Report on Search and Examination
 
 The judicial police officer shall prepare a report on their searches and examinations.
 
-Article 91.- Searches
+#### Article 91.- Searches
 
 Judicial police officers may conduct searches. In this case, the judicial police officer must first obtain authorization from the Royal Prosecutor, even if given orally.
 
@@ -1060,13 +1060,13 @@ Judicial police officers may not conduct searches in a lawyer's office. Only the
 
 Judicial police officers may conduct searches in a press building, a print media enterprise, or an audiovisual media enterprise only in the presence of the Royal Prosecutor or an investigating judge who shall ensure that the search does not affect the free exercise of the profession of journalist and does not lead to an improper delay in the dissemination of information.
 
-Article 92.- Sealing of Evidence
+#### Article 92.- Sealing of Evidence
 
 Judicial police officers may seize objects as evidence. The judicial police officer must place seals on the seized objects.
 
 After showing the seized items to the occupant of the premises or to the 2 (two) witnesses, the judicial police officer shall prepare a seizure report including an inventory of the seized items. The seizure report must be signed or thumbprinted by the occupant of the premises or by the two witnesses.
 
-Article 93.- Report on Interrogation
+#### Article 93.- Report on Interrogation
 
 Judicial police officers may summon and bring to their unit any person suspected of having participated in the offense. The judicial police officer shall interrogate such persons.
 
@@ -1080,13 +1080,13 @@ Before signing or thumbprinting, the person must reread the report. If necessary
 
 police officer may call upon an interpreter. If the person refuses to sign or thumbprint the report, the judicial police officer shall note this in the report.
 
-Article 94.- Summons to Appear in Flagrant Investigation
+#### Article 94.- Summons to Appear in Flagrant Investigation
 
 Judicial police officers may summon and interrogate any person capable of providing information about the facts.
 
 The summoned person is required to appear. In case of refusal, the judicial police officer shall inform the Royal Prosecutor, who may issue a summons to appear. This summons must identify the person concerned, be dated, and be signed and sealed by the Royal Prosecutor. The summons to appear authorizes the judicial police officer to use public force to compel the person to appear. Paragraphs 2 to 5 of Article 93 (Report on Interrogation) of this Code shall apply.
 
-Article 95.- Technical or Scientific Examination
+#### Article 95.- Technical or Scientific Examination
 
 If technical or scientific examinations that cannot be delayed are required, the judicial police officer may call upon any person with the requisite skills. If the person is not listed on the national list of experts mentioned in Article 163 (National List of Experts) of this Code, they must take an oath, according to their religion or belief, to assist the court faithfully.
 
@@ -1094,7 +1094,7 @@ If technical or scientific examinations that cannot be delayed are required, the
 
 #### POLICE CUSTODY (GARDE À VUE)
 
-Article 96.- Police Custody
+#### Article 96.- Police Custody
 
 To meet the needs of the investigation, the judicial police officer may place in custody any person suspected of having participated in the offense. The judicial police officer may also place in custody any person capable of providing information about the facts if the following condition is met:
 
@@ -1118,7 +1118,7 @@ For misdemeanors, a minor between 16 and under 18 years of age may not be held i
 
 Minors under 14 years of age may not be placed in police custody.
 
-Article 97.- Report on Police Custody
+#### Article 97.- Report on Police Custody
 
 When a person is placed in custody, the judicial police officer must immediately notify the person of the decision and the reasons for it. The judicial police officer shall also inform the person of the rights set forth in Article 98 (Assistance of a Lawyer during Police Custody) of this Code.
 
@@ -1138,11 +1138,11 @@ the judicial police officer may call upon an interpreter. The judicial police of
 
 The report must be signed or thumbprinted by the person in custody after being read, or if the person is illiterate, after the judicial police officer has read the report aloud. If the person refuses to sign or thumbprint, the judicial police officer shall note this. The report shall be attached to the case file.
 
-Article 98.- Assistance of a Lawyer during Police Custody
+#### Article 98.- Assistance of a Lawyer during Police Custody
 
 After 24 (twenty-four) hours from the start of the custody, the person in custody may request to speak with a lawyer or any person of their choice, provided that person is not involved in the same case. That person shall be informed of the request by any means and without delay. That person may go to the place of custody and communicate with the person in custody for 30 (thirty) minutes under conditions that ensure the confidentiality of the conversation. After the conversation, the person may make written observations that shall be attached to the case file.
 
-Article 99.- Assistance of a Doctor during Police Custody
+#### Article 99.- Assistance of a Doctor during Police Custody
 
 The Royal Prosecutor or the judicial police officer may request a doctor to examine the person in custody at any time. The doctor shall verify whether the health of the person in custody is compatible with the custody.
 
@@ -1150,11 +1150,11 @@ If the doctor considers that the health status of the person is incompatible wit
 
 The Royal Prosecutor may proceed directly to the scene to verify the conditions of the custody.
 
-Article 100.- Minors in Police Custody
+#### Article 100.- Minors in Police Custody
 
 When a minor is placed in custody, the judicial police officer must inform the father, mother, legal representative, or person in charge of the minor by any means.
 
-Article 101.- Custody Register
+#### Article 101.- Custody Register
 
 In each National Police or Royal Gendarmerie unit that holds persons in custody, a custody register must be established.
 
@@ -1174,7 +1174,7 @@ Every placement in custody must be recorded in the register with the following i
 
 The register must be permanently maintained and available to judicial authorities upon request.
 
-Article 102.- Summary Report on Police Custody
+#### Article 102.- Summary Report on Police Custody
 
 Every placement in custody must be recorded in a summary report.
 
@@ -1212,7 +1212,7 @@ The summary report on police custody shall be attached to the case file.
 
 #### PRESENTATION OF THE PERSON
 
-Article 103.- Presentation of the Person in Custody
+#### Article 103.- Presentation of the Person in Custody
 
 At the end of the period of police custody, the person in custody must be:
 
@@ -1222,7 +1222,7 @@ At the end of the period of police custody, the person in custody must be:
 
 This decision shall be made by the Royal Prosecutor.
 
-Article 104.- Time for Presentation
+#### Article 104.- Time for Presentation
 
 When a person in custody must be presented to the Royal Prosecutor, they must be brought before the Royal Prosecutor immediately.
 
@@ -1236,21 +1236,21 @@ The reasons for the delay must be recorded in the report submitted to the Royal 
 
 #### VARIOUS PROVISIONS RELATING TO FLAGRANT INVESTIGATION
 
-Article 105.- Prohibition of Unauthorized Eavesdropping
+#### Article 105.- Prohibition of Unauthorized Eavesdropping
 
 Judicial police officers have no power to order the listening to or recording of telephone conversations. Judicial police officers have no power to order the interception and recording of transmissions by any means of telecommunication, such as faxes or emails.
 
-Article 106.- Duration of Flagrant Investigation
+#### Article 106.- Duration of Flagrant Investigation
 
 The duration of a flagrant investigation may not exceed 7 (seven) days from the commission of the offense. Investigative acts must be performed continuously during this period. If the investigation is not completed within 7 (seven) days, the judicial police officer must seek instructions from the Royal Prosecutor.
 
-Article 107.- Transmission of Reports to the Royal Prosecutor
+#### Article 107.- Transmission of Reports to the Royal Prosecutor
 
 Upon completion of the investigation, the judicial police officer must transmit all reports and evidence to the Royal Prosecutor.
 
 When a person is presented to the Royal Prosecutor, the transmission of reports and evidence must take place at the same time as the presentation of the person.
 
-Article 108.- Information to be Included in Reports
+#### Article 108.- Information to be Included in Reports
 
 Reports prepared by judicial police officers must state:
 
@@ -1266,7 +1266,7 @@ Any deletions or references must be validated by the signature of the judicial p
 
 Interrogation reports or custody reports must include the identity of the person concerned.
 
-Article 109.- Nullity for Non-Compliance with Provisions
+#### Article 109.- Nullity for Non-Compliance with Provisions
 
 The rules and forms prescribed in:
 
@@ -1300,7 +1300,7 @@ The rules and forms prescribed in:
 
 of this Code are mandatory. Failure to comply with these rules shall result in the nullity of the proceedings.
 
-Article 110.- Power of Reasoning of the Judge
+#### Article 110.- Power of Reasoning of the Judge
 
 In principle, reports have the value of simple information only. However, reports from judicial police officers are considered "prima facie evidence," meaning they are presumed to be true until proven otherwise. Contrary evidence may be presented to the judge by any legal means.
 
@@ -1314,11 +1314,11 @@ The judge freely assesses the value of reports prepared by judicial police offic
 
 #### PRELIMINARY INVESTIGATION
 
-Article 111.- Opening of Preliminary Investigation
+#### Article 111.- Opening of Preliminary Investigation
 
 When aware of acts that may constitute a felony, misdemeanor, or petty offense, judicial police officers may conduct a preliminary investigation either on their own initiative or at the request of the Royal Prosecutor.
 
-Article 112.- Rules Applicable to Preliminary Investigation
+#### Article 112.- Rules Applicable to Preliminary Investigation
 
 The provisions of:
 
@@ -1334,7 +1334,7 @@ The provisions of:
 
 of this Code shall apply to preliminary investigations.
 
-Article 113.- Searches
+#### Article 113.- Searches
 
 When a preliminary investigation concerns a felony or misdemeanor, judicial police officers may conduct searches and seizures of evidence.
 
@@ -1346,7 +1346,7 @@ If the occupant is absent or refuses the search, the President of the competent 
 
 The provisions of Article 92 (Sealing of Evidence) of this Code shall apply to seizures.
 
-Article 114.- Summons to Appear in Preliminary Investigation
+#### Article 114.- Summons to Appear in Preliminary Investigation
 
 Judicial police officers may summon and interrogate any person suspected of having participated in the offense or capable of providing information about the facts.
 
@@ -1354,17 +1354,17 @@ The summoned person is required to appear. In case of refusal, the judicial poli
 
 The summons to appear authorizes the judicial police officer to use public force to compel the person to appear.
 
-Article 115.- Report on Interrogation in Preliminary Investigation
+#### Article 115.- Report on Interrogation in Preliminary Investigation
 
 Every interrogation must be recorded in a report.
 
 The report must accurately record the statements of the person concerned. If necessary, the judicial police officer may call upon an interpreter who has taken an oath according to their religion or belief to translate faithfully. The interpreter may not be chosen from among the police, Royal Gendarmerie personnel, or persons involved in the same case.
 
-Article 116.- Police Custody of Suspects
+#### Article 116.- Police Custody of Suspects
 
 When a preliminary investigation concerns a felony or misdemeanor, the provisions of Chapter 3 (Police Custody) and Chapter 4 (Presentation of the Person) of Title 2 (Flagrant Investigation) of this Code shall apply.
 
-Article 117.- Nullity for Non-Compliance with Provisions
+#### Article 117.- Nullity for Non-Compliance with Provisions
 
 In the context of a preliminary investigation, the rules and forms prescribed in:
 
@@ -1384,7 +1384,7 @@ In the context of a preliminary investigation, the rules and forms prescribed in
 
 of this Code are mandatory. Failure to comply with these rules shall result in the nullity of the proceedings.
 
-Article 118.- Power of Reasoning of the Judge
+#### Article 118.- Power of Reasoning of the Judge
 
 In principle, reports have the value of simple information only. However, reports from judicial police officers are considered "prima facie evidence," meaning they are presumed to be true until proven otherwise. Contrary evidence may be presented to the judge by any legal means.
 
@@ -1398,7 +1398,7 @@ The judge freely assesses the value of reports prepared by judicial police offic
 
 #### RESTITUTION OF SEIZED ITEMS DURING INVESTIGATION
 
-Article 119.- Competent Authority to Order Restitution
+#### Article 119.- Competent Authority to Order Restitution
 
 The Royal Prosecutor is competent to order the restitution of objects seized during the investigation to their owner, provided that these objects are not necessary for the manifestation of the truth and if the ownership of the objects is not seriously contested.
 
@@ -1408,7 +1408,7 @@ In case of refusal of restitution, the applicant may appeal to the Prosecutor Ge
 
 The Royal Prosecutor and the Prosecutor General are no longer competent to order restitution when a prosecution has been initiated before an investigating or trial jurisdiction. The Royal Prosecutor and the Prosecutor General regain their competence when the judicial investigation has ended with a final order of non-suit.
 
-Article 120.- Restitution of Confiscated Items to the Owner
+#### Article 120.- Restitution of Confiscated Items to the Owner
 
 When the court that received the case has issued a final decision and has not ruled on the restitution of the objects to the owner, the Royal Prosecutor or the Prosecutor General, depending on the case, is competent to decide on the application for restitution on their own initiative, provided that the ownership of the objects is not seriously contested.
 
@@ -1424,7 +1424,7 @@ When the court that received the case has issued a final decision and has not ru
 
 #### GENERAL PROVISIONS
 
-Article 121.- Secrecy of Judicial Investigation
+#### Article 121.- Secrecy of Judicial Investigation
 
 Judicial investigations must be secret.
 
@@ -1436,11 +1436,11 @@ Furthermore, the Royal Prosecutor may make public statements when they consider 
 
 Violation of the secrecy of the investigation is an offense punishable under the Penal Code in force.
 
-Article 122.- Opening of Judicial Investigation
+#### Article 122.- Opening of Judicial Investigation
 
 A judicial investigation is mandatory for felonies. For misdemeanors, a judicial investigation is optional.
 
-Article 123.- Territorial Jurisdiction
+#### Article 123.- Territorial Jurisdiction
 
 The competent investigating judges are:
 
@@ -1458,7 +1458,7 @@ Jurisdiction disputes between several Investigation Chambers shall be resolved b
 
 These decisions are not subject to appeal.
 
-Article 124.- Introductory Submission
+#### Article 124.- Introductory Submission
 
 A judicial investigation is opened by an introductory submission from the Royal Prosecutor in accordance with Article 44 (Opening of Judicial Investigation) of this Code.
 
@@ -1470,7 +1470,7 @@ When an investigating judge receives a complaint with a civil party application,
 
 When the investigating judge receives a simple complaint, they shall transmit it to the Royal Prosecutor.
 
-Article 125.- Scope of the Case
+#### Article 125.- Scope of the Case
 
 The investigating judge is seized of the facts mentioned in the Royal Prosecutor's introductory submission. The investigating judge shall investigate only those facts.
 
@@ -1480,7 +1480,7 @@ without a supplementary submission from the Royal Prosecutor, the investigating 
 
 However, the investigating judge does not need a supplementary submission if the new facts constitute an aggravating circumstance of the facts mentioned in the initial introductory submission.
 
-Article 126.- Placing Under Examination
+#### Article 126.- Placing Under Examination
 
 The investigating judge must place under examination any person named in the introductory submission.
 
@@ -1488,17 +1488,17 @@ The investigating judge has the power to place under examination any person agai
 
 The investigating judge may place the person under examination as a perpetrator, an instigator, or an accomplice.
 
-Article 127.- Investigation for Charge and for Discharge
+#### Article 127.- Investigation for Charge and for Discharge
 
 The investigating judge shall perform all investigative acts that they consider useful for the manifestation of the truth in accordance with the law.
 
 The investigating judge has the duty to investigate for both charge and discharge.
 
-Article 128.- Assistance of the Clerk
+#### Article 128.- Assistance of the Clerk
 
 The investigating judge must always be assisted by a clerk. In no case may the clerk perform acts that fall within the competence of the investigating judge.
 
-Article 129.- Functions of the Clerk
+#### Article 129.- Functions of the Clerk
 
 The case file shall be kept by the clerk. The clerk shall duplicate each document of the case file to the extent possible. These copies must be certified as true copies of the original by the clerk. The copies shall be kept in a duplicate case file.
 
@@ -1508,7 +1508,7 @@ The case file and the duplicate case file shall be deposited in the office of th
 
 The lawyer or their secretary is authorized by the investigating judge to make copies at their own expense and under the supervision of the clerk.
 
-Article 130.- Proceeding to the Scene by the Investigating Judge and Clerk
+#### Article 130.- Proceeding to the Scene by the Investigating Judge and Clerk
 
 The investigating judge may proceed to the scene with the clerk within the territorial jurisdiction of the Court of First Instance to perform any investigative act they consider useful, especially material examinations, searches, and seizures.
 
@@ -1518,11 +1518,11 @@ If the needs of the investigation require it, the investigating judge may procee
 
 The investigating judge shall prepare a report on these operations.
 
-Article 131.- Letters Rogatory
+#### Article 131.- Letters Rogatory
 
 The investigating judge may request another judge or a judicial police officer or a judicial police unit to perform certain acts by means of letters rogatory, under the conditions set forth in Article 173 (Letters Rogatory) to Article 184 (Report Prepared by Judicial Police Officer) of this Code.
 
-Article 132.- Request for Acts by the Royal Prosecutor
+#### Article 132.- Request for Acts by the Royal Prosecutor
 
 At any time during the investigation, the Royal Prosecutor may request the investigating judge to perform any investigative act they consider useful.
 
@@ -1530,7 +1530,7 @@ If the investigating judge refuses to comply with the Royal Prosecutor's request
 
 If the investigating judge has not ruled within 15 (fifteen) days, the Royal Prosecutor may appeal directly by means of an application to the Investigation Chamber, which shall rule in place of the investigating judge.
 
-Article 133.- Request for Acts by the Charged Person
+#### Article 133.- Request for Acts by the Charged Person
 
 At any time during the investigation, the charged person may request the investigating judge to interrogate them, to hear a civil party or a witness, to conduct a confrontation, or to proceed to the scene. The request must be in writing and reasoned.
 
@@ -1538,7 +1538,7 @@ If the investigating judge refuses to comply with the request, the judge must is
 
 If the investigating judge has not ruled within the period of 1 (one) month, the charged person may appeal directly by means of an application to the Investigation Chamber, which shall rule in place of the investigating judge.
 
-Article 134.- Request for Acts by the Civil Party
+#### Article 134.- Request for Acts by the Civil Party
 
 At any time during the investigation, the civil party may request the investigating judge to hear them, to hear a witness, to interrogate the charged person, to conduct a confrontation, or to proceed to the scene. The request must be in writing and reasoned.
 
@@ -1546,15 +1546,15 @@ If the investigating judge refuses to comply with the request, the judge must is
 
 If the investigating judge has not ruled within the period of 1 (one) month, the civil party may appeal directly by means of an application to the Investigation Chamber, which shall rule in place of the investigating judge.
 
-Article 135.- Transmission of the Case File to the Royal Prosecutor
+#### Article 135.- Transmission of the Case File to the Royal Prosecutor
 
 At any time, the Royal Prosecutor may examine the case file or request its transmission for examination, provided that the file is returned within 24 (twenty-four) hours.
 
-Article 136.- Presence of the Royal Prosecutor during Investigative Acts
+#### Article 136.- Presence of the Royal Prosecutor during Investigative Acts
 
 The Royal Prosecutor may be present at all investigative acts, especially during the interrogation of charged persons, confrontations, and the hearing of parties.
 
-Article 137.- Civil Party Application by way of Intervention
+#### Article 137.- Civil Party Application by way of Intervention
 
 Once a judicial investigation has been opened, any person who claims to have suffered injury may apply to be a civil party before the investigating judge at any time.
 
@@ -1564,11 +1564,11 @@ When the civil party application is made in writing, the document shall be inclu
 
 The investigating judge shall notify the Royal Prosecutor and the charged person of the civil party application.
 
-Article 138.- Complaint with Civil Party Application
+#### Article 138.- Complaint with Civil Party Application
 
 Any person who claims to have been injured by a felony or misdemeanor may file a complaint with a civil party application before the competent investigating judge. The complaint may be filed by a lawyer on behalf of the victim.
 
-Article 139.- Transmission of the Complaint to the Royal Prosecutor
+#### Article 139.- Transmission of the Complaint to the Royal Prosecutor
 
 The investigating judge shall issue an order recording the filing of the complaint with the civil party application. The investigating judge shall transmit this complaint to the Royal Prosecutor.
 
@@ -1580,7 +1580,7 @@ If the investigating judge decides not to investigate, they shall issue a reason
 
 If the investigating judge decides to investigate despite the Royal Prosecutor's request, they shall issue a reasoned order, which must be immediately notified to the Royal Prosecutor.
 
-Article 140.- Deposit of Security
+#### Article 140.- Deposit of Security
 
 Based on the resources of the civil party and the foreseeable difficulties of the case, the investigating judge shall issue an order determining the amount of security to be deposited by the civil party and the time limit for this deposit.
 
@@ -1594,13 +1594,13 @@ The security shall be returned to the party concerned at the end of the proceedi
 
 The security shall be deposited in a special bank account or kept in a place that provides solid security. This place shall be chosen by agreement between the President of the Court and the Royal Prosecutor.
 
-Article 141.- Abusive or Dilatory Complaint
+#### Article 141.- Abusive or Dilatory Complaint
 
 If the judicial investigation opened following a complaint with a civil party application is closed by an order of non-suit, and if the investigating judge considers that the proceedings were abusive or dilatory, the judge...
 
 may decide by an order to sentence the civil party to a civil fine. The amount of the fine may not exceed the amount of the security. The order to pay the fine shall be immediately notified to the person concerned.
 
-Article 142.- Action for Damages
+#### Article 142.- Action for Damages
 
 When a judicial investigation opened following a complaint with a civil party application is closed by a final order of non-suit, the person named in the complaint may sue for damages against the complainant if the proceedings were abusive or dilatory.
 
@@ -1614,7 +1614,7 @@ The claim for damages shall be filed before the Court of First Instance where th
 
 #### NOTIFICATION OF PLACING UNDER EXAMINATION
 
-Article 143.- Notification of Placing Under Examination
+#### Article 143.- Notification of Placing Under Examination
 
 At the first appearance, the investigating judge shall verify the identity of the charged person, inform them of the facts alleged against them and the legal qualification of the offense. The investigating judge shall inform the charged person of their right to make statements or to remain silent. Mention of this notification shall be included in the report of the first appearance.
 
@@ -1632,7 +1632,7 @@ After the first appearance, the charged person who remains at liberty must decla
 
 The notification and the declaration regarding the change of address shall be recorded in the report of the first appearance.
 
-Article 144.- Assistance of an Interpreter
+#### Article 144.- Assistance of an Interpreter
 
 If necessary, the investigating judge shall call upon an interpreter. The interpreter shall take an oath according to their religion or belief to assist the court and to translate accurately all statements. In no case may the interpreter be chosen from among judges, clerks, police, Royal Gendarmerie personnel, parties, or witnesses.
 
@@ -1640,7 +1640,7 @@ If necessary, the investigating judge shall call upon an interpreter. The interp
 
 #### INTERROGATION OF THE CHARGED PERSON
 
-Article 145.- Presence of the Lawyer during Interrogation
+#### Article 145.- Presence of the Lawyer during Interrogation
 
 When the charged person is assisted by a lawyer, the investigating judge must summon the lawyer at least 5 (five) days before the interrogation. During this period, the lawyer may examine the case file.
 
@@ -1654,21 +1654,21 @@ In case of urgency, the investigating judge may also interrogate the charged per
 
 The investigating judge may call upon an interpreter as set forth in Article 144 (Assistance of an Interpreter) of this Code.
 
-Article 146.- Questions with the Permission of the Investigating Judge
+#### Article 146.- Questions with the Permission of the Investigating Judge
 
 During the interrogation of the charged person, the Royal Prosecutor and the lawyer may also ask questions with the permission of the investigating judge.
 
 In case of refusal, the refusal shall be mentioned in the report.
 
-Article 147.- Confrontations
+#### Article 147.- Confrontations
 
 The provisions of Article 145 (Presence of the Lawyer during Interrogation) and Article 146 (Questions with the Permission of the Investigating Judge) of this Code shall apply to confrontations between charged persons.
 
-Article 148.- Minimum Period for Interrogation
+#### Article 148.- Minimum Period for Interrogation
 
 When a period of 4 (four) months has elapsed since the interrogation at the first appearance and the charged person has not been interrogated or confronted, the investigating judge must receive their statements if the charged person so requests. If the investigating judge does not summon the charged person within 1 (one) month of the request, the charged person may appeal directly to the Investigation Chamber, which shall hear the person. A report shall then be transmitted to the investigating judge.
 
-Article 149.- Rights of the Defense of the Charged Person
+#### Article 149.- Rights of the Defense of the Charged Person
 
 The lawyer of a detained charged person may communicate freely with their client in prison or in the detention center. Conversations between the lawyer and the charged person may not be overhead or recorded. The lawyer may read the documents of the case file to their client. Conversely, the lawyer may not provide photocopies of documents from the case file to their client.
 
@@ -1676,7 +1676,7 @@ The lawyer of a detained charged person may communicate freely with their client
 
 #### HEARING THE CIVIL PARTY
 
-Article 150.- Hearing the Civil Party
+#### Article 150.- Hearing the Civil Party
 
 The civil party may be assisted by a lawyer.
 
@@ -1690,11 +1690,11 @@ In case of urgency, the investigating judge may also hear the civil party withou
 
 The investigating judge may call upon an interpreter as set forth in Article 144 (Assistance of an Interpreter) of this Code.
 
-Article 151.- Questions with the Permission of the Investigating Judge
+#### Article 151.- Questions with the Permission of the Investigating Judge
 
 During the hearing, the Royal Prosecutor and the lawyer may also ask questions with the permission of the investigating judge. In case of refusal, the refusal shall be mentioned in the report.
 
-Article 152.- Confrontations
+#### Article 152.- Confrontations
 
 The provisions of Article 150 (Hearing the Civil Party) and Article 151 (Questions with the Permission of the Investigating Judge) of this Code shall apply to confrontations involving the civil party.
 
@@ -1702,7 +1702,7 @@ The provisions of Article 150 (Hearing the Civil Party) and Article 151 (Questio
 
 #### HEARING WITNESSES
 
-Article 153.- Hearing Witnesses
+#### Article 153.- Hearing Witnesses
 
 The investigating judge may hear any person whose statements may be useful for the manifestation of the truth.
 
@@ -1712,15 +1712,15 @@ Any person summoned by the investigating judge to appear as a witness must appea
 
 In case of refusal, the investigating judge may request public force to compel the witness to appear. The investigating judge shall issue a summons to appear. This summons must identify the witness, be dated, signed and sealed by the investigating judge.
 
-Article 154.- Oath of Witnesses
+#### Article 154.- Oath of Witnesses
 
 Before answering questions, each witness shall take an oath according to their religion or belief to tell the truth. The form of the oath shall be as set forth in the Annex to this Code.
 
-Article 155.- Assistance of an Interpreter
+#### Article 155.- Assistance of an Interpreter
 
 The investigating judge may call upon an interpreter for hearing witnesses as set forth in Article 144 (Assistance of an Interpreter) of this Code.
 
-Article 156.- Witnesses Exempted from the Oath
+#### Article 156.- Witnesses Exempted from the Oath
 
 The following witnesses shall be heard without taking an oath:
 
@@ -1736,11 +1736,11 @@ The following witnesses shall be heard without taking an oath:
 
 6- Children under the age of 14.
 
-Article 157.- Inadmissibility of Certain Persons as Witnesses
+#### Article 157.- Inadmissibility of Certain Persons as Witnesses
 
 To respect the rights of the defense, the investigating judge may not hear as a witness any person against whom there exists evidence making it likely that they participated in the commission of the offense. In this case, the judge shall apply the procedure of Article 143 (Notification of Placing Under Examination) of this Code.
 
-Article 158.- Proceeding to the Residence of a Witness
+#### Article 158.- Proceeding to the Residence of a Witness
 
 If a witness is ill or unable to travel, the investigating judge and the clerk may proceed to the residence or place where the witness is located to receive their statements.
 
@@ -1748,7 +1748,7 @@ If a witness is ill or unable to travel, the investigating judge and the clerk m
 
 #### SEARCHES AND SEIZURES
 
-Article 159.- Rules Applicable to Searches
+#### Article 159.- Rules Applicable to Searches
 
 The investigating judge may conduct searches.
 
@@ -1766,13 +1766,13 @@ The investigating judge shall prepare a search report signed by themselves, the 
 
 The report must mention the identity of the occupant or each witness. When the search is conducted in a lawyer's office, the report must mention the presence of the Bâtonnier or their delegate.
 
-Article 160.- Sealing of Evidence
+#### Article 160.- Sealing of Evidence
 
 The investigating judge may seize evidence. The investigating judge must seal the seized items.
 
 After exhibiting the seized items to the occupant or the 2 (two) witnesses, the investigating judge shall prepare a seizure report including an inventory of the seized items. The seizure report must be signed by the investigating judge, the clerk, and the occupant or the 2 (two) witnesses. The report must mention the identity of the occupant or each witness.
 
-Article 161.- Restitution of Seized Items by the Investigating Judge
+#### Article 161.- Restitution of Seized Items by the Investigating Judge
 
 As long as the closing order has not been issued, the investigating judge is competent to order the restitution of seized objects to their owner, provided that ownership is not seriously contested. The investigating judge shall decide by a reasoned order, after obtaining the opinion of the Royal Prosecutor. The order shall be immediately notified to the applicant and their lawyer, if any.
 
@@ -1784,25 +1784,25 @@ Objects dangerous to persons or property, such as weapons or explosives, and obj
 
 #### EXPERTISE
 
-Article 162.- Necessity of Expertise
+#### Article 162.- Necessity of Expertise
 
 When a technical issue arises, the investigating judge may order an expertise on their own motion or at the request of the Royal Prosecutor, the charged person, or the civil party.
 
 If the investigating judge refuses to comply with a request for expertise, they must issue a reasoned order. The order must be issued within 5 (five) days if the request is made by the Royal Prosecutor, and within 1 (one) month if the request is made by the charged person or the civil party. This order shall be immediately notified to the applicant.
 
-Article 163.- National List of Experts
+#### Article 163.- National List of Experts
 
 A national list of experts is established. This list shall be prepared by the Minister of Justice. The procedures for inclusion in or removal from the list shall be determined by a Prakas.
 
 Experts included in the national list shall take an oath before the Court of Appeal of Phnom Penh, according to their religion or belief, to assist the court honestly in the search for justice. Experts included in the list are not required to take a new oath each time they are appointed to perform an expertise.
 
-Article 164.- Appointment of Experts not included in the National List
+#### Article 164.- Appointment of Experts not included in the National List
 
 The investigating judge shall normally choose an expert included in the national list of experts.
 
 However, the investigating judge may, by a specially reasoned order, appoint an expert who is not included in the national list. In this case, the expert shall take an oath, according to their religion or belief, to assist the court honestly in the search for justice.
 
-Article 165.- Order of Appointment of Experts
+#### Article 165.- Order of Appointment of Experts
 
 Experts are appointed by an order of the investigating judge. The order shall specify the mission of the expert and the time limit for its completion.
 
@@ -1810,13 +1810,13 @@ The mission may only concern technical issues.
 
 If appropriate, the investigating judge shall hand over some or all of the seized items to the expert. The investigating judge shall prepare a report on the delivery of the seized items. The expert may break the seals to conduct the expertise. If the expertise is likely to damage or destroy the seized items, the expert must inform the investigating judge and obtain their permission before proceeding.
 
-Article 166.- Oversight of the Expert's Mission by the Investigating Judge
+#### Article 166.- Oversight of the Expert's Mission by the Investigating Judge
 
 The expert shall perform their mission under the oversight of the investigating judge. The expert must inform the investigating judge of the progress of their mission and especially of any difficulties they may encounter.
 
 If the expert does not respect the time limit set by the investigating judge, the judge may appoint another expert in their place. However, if circumstances so require, the investigating judge may grant an extension by means of an order.
 
-Article 167.- Acts Necessary for the Performance of the Expert's Mission
+#### Article 167.- Acts Necessary for the Performance of the Expert's Mission
 
 To perform their mission, the expert may hear any person other than the charged person. Statements received by the expert have the value of simple information. Persons heard by the expert are not required to take an oath.
 
@@ -1824,7 +1824,7 @@ If the expert considers it necessary to hear the charged person, they must obtai
 
 However, when the investigating judge appoints a doctor or a psychologist to examine the charged person, the medical or psychological examination shall be conducted without the presence of the lawyer.
 
-Article 168.- Expert Report
+#### Article 168.- Expert Report
 
 When the expertise operations are completed, the expert shall prepare a report in which they clearly describe their operations and make conclusions. The expert must certify that they personally performed the operations described in the report. The report must be dated and signed.
 
@@ -1836,13 +1836,13 @@ If the expertise has caused damage or destruction to the seized items, the exper
 
 Whenever possible, the expert shall provide copies of the report to the investigating judge.
 
-Article 169.- Appointment of Multiple Experts
+#### Article 169.- Appointment of Multiple Experts
 
 If circumstances so require, the investigating judge may appoint several experts.
 
 In this case, if the experts have different opinions, each must write down their own opinion or their disagreement.
 
-Article 170.- Notification of the Conclusions of the Expertise
+#### Article 170.- Notification of the Conclusions of the Expertise
 
 When the expert report is completed, the investigating judge shall inform the Royal Prosecutor.
 
@@ -1862,7 +1862,7 @@ Any request for supplementary expertise or counter-expertise made after the time
 
 If the investigating judge has not ruled on a request for expertise, supplementary expertise, or counter-expertise within the time limits set forth in the 2nd paragraph of Article 162 (Necessity of Expertise) of this Code or in this Article, the applicant may appeal directly by means of an application to the Investigation Chamber, which shall rule in place of the investigating judge.
 
-Article 171.- Costs of Expertise
+#### Article 171.- Costs of Expertise
 
 The costs of the expertise shall be borne by the applicant.
 
@@ -1872,7 +1872,7 @@ When the expertise, supplementary expertise, or counter-expertise is requested b
 
 #### INTERCEPTION OF TELECOMMUNICATIONS
 
-Article 172.- Interception of Telecommunications Ordered by the Investigating Judge
+#### Article 172.- Interception of Telecommunications Ordered by the Investigating Judge
 
 If strictly necessary for the manifestation of the truth, the investigating judge may order the interception and recording of telephone conversations. The investigating judge may also order the interception and recording of any correspondence by telecommunication means, such as faxes or emails.
 
@@ -1888,11 +1888,11 @@ The investigating judge may also perform these acts by means of a letter rogator
 
 #### LETTERS ROGATORY
 
-Article 173.- Letters Rogatory
+#### Article 173.- Letters Rogatory
 
 By means of a letter rogatory, the investigating judge may delegate to a judge of their court or of another court, or to a judicial police officer or a judicial police unit, the task of performing investigative acts.
 
-Article 174.- Content of Letters Rogatory
+#### Article 174.- Content of Letters Rogatory
 
 Letters rogatory shall specify the nature of the acts to be performed. These acts must be directly related to the alleged offense. Letters rogatory may not be general; they must be clearly directed.
 
@@ -1902,25 +1902,25 @@ Letters rogatory must be dated, signed and sealed by the investigating judge.
 
 The investigating judge may withdraw the letter rogatory at any time.
 
-Article 175.- Letters Rogatory Issued to Another Judge
+#### Article 175.- Letters Rogatory Issued to Another Judge
 
 When letters rogatory are issued to a judge, that judge shall exercise all the powers of the investigating judge.
 
-Article 176.- Letters Rogatory Issued to Judicial Police Officers
+#### Article 176.- Letters Rogatory Issued to Judicial Police Officers
 
 When letters rogatory are assigned to a judicial police officer, that officer shall exercise the powers set forth in Articles 178 (Report of Searches and Examinations) to 184 (Report Prepared by Judicial Police Officers) of this Code.
 
 For the execution of the letter rogatory, the judicial police officer is under the authority of the investigating judge and shall report only to that judge.
 
-Article 177.- Execution of Letters Rogatory by Judicial Police Officers
+#### Article 177.- Execution of Letters Rogatory by Judicial Police Officers
 
 A judicial police officer shall perform the acts specified in the letter rogatory within their territorial jurisdiction, subject to the provisions of the 2nd and 3rd paragraphs of Article 68 (Extension of Territorial Jurisdiction) of this Code.
 
-Article 178.- Report of Searches and Examinations
+#### Article 178.- Report of Searches and Examinations
 
 The judicial police officer shall prepare a report on their searches and examinations.
 
-Article 179.- Rules Governing the Hearing of Witnesses by Judicial Police Officers
+#### Article 179.- Rules Governing the Hearing of Witnesses by Judicial Police Officers
 
 Judicial police officers may summon and hear witnesses.
 
@@ -1934,23 +1934,23 @@ Any person summoned as a witness must appear. In case of refusal, the judicial p
 
 The 2nd to 5th paragraphs of Article 93 (Report on Hearings) of this Code shall apply to the report on the hearing of a witness.
 
-Article 180.- Acts Prohibited to Judicial Police Officers
+#### Article 180.- Acts Prohibited to Judicial Police Officers
 
 Judicial police officers may not interrogate the charged person or hear the civil party.
 
-Article 181.- Searches and Seizures by Judicial Police Officers
+#### Article 181.- Searches and Seizures by Judicial Police Officers
 
 Judicial police officers may conduct searches and seizures under the conditions set forth in Article 91 (Searches) and Article 92 (Sealing of Evidence) of this Code. However, the permission required by the 2nd paragraph of the 1st section of Article 91 (Searches) of this Code must be granted by the investigating judge.
 
-Article 182.- Police Custody within the Framework of Letters Rogatory
+#### Article 182.- Police Custody within the Framework of Letters Rogatory
 
 The provisions of Articles 96 (Police Custody) to 102 (Final Report on Police Custody) regarding police custody shall apply within the framework of the execution of letters rogatory. However, the powers granted by these articles to the Royal Prosecutor shall be exercised by the investigating judge. For the application of Article 103 (Presentation of the Held Person) and Article 104 (Time Limit for Presentation) of this Code, at the end of the police custody, the held person must be presented before the investigating judge.
 
-Article 183.- Interception of Telecommunications within the Framework of Letters Rogatory
+#### Article 183.- Interception of Telecommunications within the Framework of Letters Rogatory
 
 When letters rogatory provide for the interception and recording of telephone conversations or the interception and recording of any correspondence by telecommunication means, such as faxes or emails, the judicial police officer shall exercise the powers granted to the investigating judge by the 2nd paragraph of the 1st section and the 2nd section of Article 172 (Interception of Telecommunications Ordered by the Investigating Judge) of this Code.
 
-Article 184.- Reports Prepared by Judicial Police Officers
+#### Article 184.- Reports Prepared by Judicial Police Officers
 
 Reports prepared by judicial police officers within the framework of the execution of letters rogatory shall be subject to the provisions of Article 108 (Mentions to be Included in the Report) of this Code.
 
@@ -1962,7 +1962,7 @@ Reports prepared by judicial police officers within the framework of the executi
 
 #### ORDERS
 
-Article 185.- Issuance of Orders
+#### Article 185.- Issuance of Orders
 
 The investigating judge may issue summons to appear, orders to bring, arrest warrants, and detention orders.
 
@@ -1970,7 +1970,7 @@ The investigating judge may issue summons to appear, orders to bring, arrest war
 
 #### SUMMONS TO APPEAR
 
-Article 186.- Summons to Appear
+#### Article 186.- Summons to Appear
 
 The investigating judge may issue a summons to appear.
 
@@ -1978,7 +1978,7 @@ A summons to appear is an order to a person to appear before the investigating j
 
 A summons to appear may be issued to the charged person or to any person against whom there exists evidence making it likely that they participated in the commission of an offense.
 
-Article 187.- Mentions to be Included in a Summons to Appear
+#### Article 187.- Mentions to be Included in a Summons to Appear
 
 A summons to appear shall include the following mentions:
 
@@ -1992,7 +1992,7 @@ A summons to appear shall include the following mentions:
 
 The summons to appear must be dated, signed and sealed by the investigating judge.
 
-Article 188.- Notification of a Summons to Appear
+#### Article 188.- Notification of a Summons to Appear
 
 A summons to appear shall be notified to the person concerned by a judicial police officer, a judicial police agent, or a bailiff.
 
@@ -2004,17 +2004,17 @@ The judicial police officer, judicial police agent, or bailiff shall inform the 
 
 #### ORDERS TO BRING
 
-Article 189.- Issuance of an Order to Bring by the Investigating Judge
+#### Article 189.- Issuance of an Order to Bring by the Investigating Judge
 
 The investigating judge may issue an order to bring.
 
-Article 190.- Order to Bring
+#### Article 190.- Order to Bring
 
 An order to bring is an order to the public force to arrest and bring a person before the investigating judge.
 
 An order to bring may be issued against the charged person or any person against whom there exists evidence making it likely that they participated in the commission of an offense.
 
-Article 191.- Mentions to be Included in an Order to Bring
+#### Article 191.- Mentions to be Included in an Order to Bring
 
 An order to bring shall include the following mentions:
 
@@ -2026,17 +2026,17 @@ An order to bring shall include the following mentions:
 
 The order to bring must be dated, signed and sealed by the investigating judge.
 
-Article 192.- Execution of an Order to Bring
+#### Article 192.- Execution of an Order to Bring
 
 The execution of an order to bring shall be assigned to a judicial police officer.
 
 In case of urgency, the order to bring shall be disseminated to police or Royal Gendarmerie units by all means. The original order shall be immediately delivered to the judicial police officer in charge of its execution. The judicial police officer may not enter the residence of the person concerned before 06:00 (six) A.M. or after 18:00 (eighteen) P.M. The judicial police officer shall inform the investigating judge of any difficulties encountered in the performance of their mission.
 
-Article 193.- Presentation after an Order to Bring
+#### Article 193.- Presentation after an Order to Bring
 
 If, due to circumstances, the person concerned cannot be brought immediately before the investigating judge after their arrest, they shall be taken to a police or Royal Gendarmerie unit, a detention center, or a prison. This person must be presented before the investigating judge or their substitute no later than the following day. If the presentation does not take place by the following day, the person concerned shall be released.
 
-Article 194.- Inclusion of Detention Time in Provisional Detention
+#### Article 194.- Inclusion of Detention Time in Provisional Detention
 
 When a person arrested under an order to bring is detained, the duration of this detention shall be included in the duration of provisional detention, if any.
 
@@ -2044,11 +2044,11 @@ When a person arrested under an order to bring is detained, the duration of this
 
 #### ARREST WARRANTS
 
-Article 195.- Issuance of an Arrest Warrant by the Investigating Judge
+#### Article 195.- Issuance of an Arrest Warrant by the Investigating Judge
 
 The investigating judge may issue an arrest warrant.
 
-Article 196.- Arrest Warrant
+#### Article 196.- Arrest Warrant
 
 An arrest warrant may be issued against the charged person or any person against whom there exists evidence making it likely that they participated in the commission of an offense.
 
@@ -2066,13 +2066,13 @@ prison or a detention center;
 
 - To the head of the prison or detention center to receive and detain that person.
 
-Article 197.- Arrest Warrant and Opinion of the Royal Prosecutor
+#### Article 197.- Arrest Warrant and Opinion of the Royal Prosecutor
 
 Before issuing an arrest warrant, the investigating judge must obtain the opinion of the Royal Prosecutor. The investigating judge shall issue a reasoned order after receiving the opinion of the Royal Prosecutor.
 
 The Royal Prosecutor shall ensure the dissemination of the arrest warrant.
 
-Article 198.- Mentions to be Included in an Arrest Warrant
+#### Article 198.- Mentions to be Included in an Arrest Warrant
 
 An arrest warrant shall include the following mentions:
 
@@ -2084,7 +2084,7 @@ An arrest warrant shall include the following mentions:
 
 The arrest warrant must be dated, signed and sealed by the investigating judge.
 
-Article 199.- Execution of an Arrest Warrant
+#### Article 199.- Execution of an Arrest Warrant
 
 The execution of an arrest warrant shall be assigned to a judicial police officer.
 
@@ -2092,11 +2092,11 @@ In case of urgency, the arrest warrant shall be disseminated to police or Royal 
 
 The judicial police officer may not enter the residence of the person concerned before 06:00 (six) A.M. or after 18:00 (eighteen) P.M. The judicial police officer shall inform the investigating judge of any difficulties encountered in the performance of their mission.
 
-Article 200.- International Dissemination of an Arrest Warrant
+#### Article 200.- International Dissemination of an Arrest Warrant
 
 If necessary, an arrest warrant may be disseminated internationally through the Ministry of Justice using any effective means.
 
-Article 201.- Presentation after an Arrest Warrant
+#### Article 201.- Presentation after an Arrest Warrant
 
 The head of the prison or detention center must receive and detain the person who is the subject of an arrest warrant. The head of the prison or detention center shall keep the original or a certified copy of the warrant.
 
@@ -2106,7 +2106,7 @@ If the presentation requires the transfer of the person to another prison or det
 
 If the person concerned is not brought before the investigating judge or their substitute by the day following the arrest, they must be heard by the Royal Prosecutor of the place of detention. The Royal Prosecutor shall prepare a report on the hearing, which shall be sent to the investigating judge.
 
-Article 202.- Inclusion of Detention Time in Provisional Detention
+#### Article 202.- Inclusion of Detention Time in Provisional Detention
 
 When a person arrested under an arrest warrant is detained, the duration of this detention shall be included in the duration of provisional detention, if any.
 
@@ -2114,15 +2114,15 @@ When a person arrested under an arrest warrant is detained, the duration of this
 
 #### PROVISIONAL DETENTION
 
-Article 203.- Principle of Provisional Detention
+#### Article 203.- Principle of Provisional Detention
 
 As a principle, the charged person shall remain free. In exceptional cases, the charged person may be placed in provisional detention under the conditions set forth in this section.
 
-Article 204.- Cases for Provisional Detention
+#### Article 204.- Cases for Provisional Detention
 
 Provisional detention may only be ordered in cases of a felony or a misdemeanor for which the law provides for a term of imprisonment of 1 (one) year or more.
 
-Article 205.- Grounds for Provisional Detention
+#### Article 205.- Grounds for Provisional Detention
 
 Provisional detention may be ordered when it is necessary:
 
@@ -2138,7 +2138,7 @@ Provisional detention may be ordered when it is necessary:
 
 6- To preserve public order from any trouble caused by the offense.
 
-Article 206.- Observations of the Charged Person and Statement of Grounds for the Order
+#### Article 206.- Observations of the Charged Person and Statement of Grounds for the Order
 
 An investigating judge who intends to order provisional detention, either on their own motion or following a final submission by the Royal Prosecutor, shall inform the charged person and receive their observations. If the charged person is assisted by a lawyer, the lawyer shall present the defense's arguments.
 
@@ -2146,7 +2146,7 @@ The investigating judge shall order provisional detention by a reasoned order. I
 
 The investigating judge shall issue a detention order as set forth in Article 220 (Definition of Detention Order), Article 221 (Mentions to be Included in a Detention Order), and Article 222 (Execution of a Detention Order) of this Code.
 
-Article 207.- Order Refusing Provisional Detention
+#### Article 207.- Order Refusing Provisional Detention
 
 When the investigating judge, seized by a final submission from the Royal Prosecutor requesting provisional detention, does not comply with the request, the judge
 
@@ -2154,35 +2154,35 @@ shall issue, within 5 (five) days, an order refusing provisional detention, whic
 
 If the investigating judge has not ruled within 5 (five) days, the Royal Prosecutor may appeal by means of an application to the Investigation Chamber, which shall rule in place of the investigating judge.
 
-Article 208.- Duration of Provisional Detention for Felonies
+#### Article 208.- Duration of Provisional Detention for Felonies
 
 For adults charged with a felony, provisional detention may not exceed 6 (six) months. However, at the expiration of this period, the investigating judge may extend the provisional detention once for a further 6 (six) months by a properly and clearly reasoned order.
 
 The investigating judge may order the extension of provisional detention no more than 2 (two) times.
 
-Article 209.- Duration of Provisional Detention for Misdemeanors
+#### Article 209.- Duration of Provisional Detention for Misdemeanors
 
 For adults charged with a misdemeanor, provisional detention may not exceed 4 (four) months. However, at the expiration of this period, the investigating judge may extend the provisional detention once for no more than 2 (two) months by a properly and clearly reasoned order.
 
 The total duration of provisional detention may not exceed half of the minimum sentence provided by law.
 
-Article 210.- Duration of Provisional Detention for Crimes Against Humanity, etc.
+#### Article 210.- Duration of Provisional Detention for Crimes Against Humanity, etc.
 
 In case of charges for crimes against humanity, genocide, or war crimes, provisional detention may not exceed 1 (one) year for each offense. However, at the expiration of this period, the investigating judge may extend the provisional detention once for 1 (one) year by a properly and clearly reasoned order.
 
 The investigating judge may order the extension of provisional detention no more than 2 (two) times.
 
-Article 211.- Extension of Provisional Detention
+#### Article 211.- Extension of Provisional Detention
 
 When the investigating judge decides to extend provisional detention, they shall inform the charged person and receive their observations. If the charged person is assisted by a lawyer, the lawyer shall present the defense's arguments for their client.
 
 The investigating judge shall extend provisional detention by a reasoned order. In the order, the judge shall refer to the provisions of Article 205 (Grounds for Provisional Detention) of this Code. This order shall be immediately notified to the charged person.
 
-Article 212.- Decision Regarding Minors Under 14 (Fourteen) Years of Age
+#### Article 212.- Decision Regarding Minors Under 14 (Fourteen) Years of Age
 
 A minor under 14 (fourteen) years of age may not be placed in provisional detention. The investigating judge may decide to entrust the minor to their parents, a guardian, or, in the absence of a guardian, to a provisional educational care center pending the court's decision.
 
-Article 213.- Duration of Provisional Detention for Felonies Involving Minors from 14 (Fourteen) to Under 18 (Eighteen) Years of Age
+#### Article 213.- Duration of Provisional Detention for Felonies Involving Minors from 14 (Fourteen) to Under 18 (Eighteen) Years of Age
 
 For minors from 14 (fourteen) to under 18 (eighteen) years of age charged with a felony, the duration of provisional detention is as follows:
 
@@ -2190,7 +2190,7 @@ For minors from 14 (fourteen) to under 18 (eighteen) years of age charged with a
 
 2- Provisional detention may not exceed 6 (six) months when the minor is from 16 (sixteen) to under 18 (eighteen) years of age.
 
-Article 214.- Duration of Provisional Detention for Misdemeanors Involving Minors from 14 (Fourteen) to Under 18 (Eighteen) Years of Age
+#### Article 214.- Duration of Provisional Detention for Misdemeanors Involving Minors from 14 (Fourteen) to Under 18 (Eighteen) Years of Age
 
 For minors from 14 (fourteen) to under 18 (eighteen) years of age charged with a misdemeanor, the duration of provisional detention is as follows:
 
@@ -2200,7 +2200,7 @@ For minors from 14 (fourteen) to under 18 (eighteen) years of age charged with a
 
 The total duration of provisional detention under points 1 and 2 above may not exceed half of the minimum sentence provided by law for such minor.
 
-Article 215.- Release of the Charged Person by the Investigating Judge
+#### Article 215.- Release of the Charged Person by the Investigating Judge
 
 The investigating judge may order the release of the charged person at any time.
 
@@ -2208,7 +2208,7 @@ When the investigating judge intends to release the charged person, they shall i
 
 In case of urgency, the investigating judge may order the immediate release of the charged person without waiting for the Royal Prosecutor's opinion. The investigating judge shall state the reasons for the urgency in their order.
 
-Article 216.- Release at the Request of the Royal Prosecutor
+#### Article 216.- Release at the Request of the Royal Prosecutor
 
 The Royal Prosecutor may request the release of the charged person at any time. The investigating judge shall rule within 5 (five) days.
 
@@ -2216,7 +2216,7 @@ If the investigating judge has not ruled within 5 (five) days, the Royal Prosecu
 
 An order refusing release must be reasoned.
 
-Article 217.- Release at the Request of the Charged Person
+#### Article 217.- Release at the Request of the Charged Person
 
 The charged person may apply for release at any time. The investigating judge shall immediately transmit the application to the Royal Prosecutor for their opinion and transmit the case file for examination. The Royal Prosecutor shall provide their opinion as soon as possible. The investigating judge shall rule within a maximum period of 5 (five) days after transmission of the file to the Royal Prosecutor.
 
@@ -2226,7 +2226,7 @@ An order refusing release must be reasoned.
 
 If the investigating judge has not ruled within 5 (five) days, the charged person may appeal directly to the Investigation Chamber, which shall rule in place of the investigating judge.
 
-Article 218.- Notification of a Release Order
+#### Article 218.- Notification of a Release Order
 
 A release order must be immediately notified to the Royal Prosecutor and to the head of the prison or detention center. The provisions of Article 276 (Release of the Detained Person) of this Code shall apply.
 
@@ -2238,17 +2238,17 @@ When the investigating judge orders the release of the charged person, the judge
 
 #### DETENTION ORDERS
 
-Article 219.- Issuance of a Detention Order by the Investigating Judge
+#### Article 219.- Issuance of a Detention Order by the Investigating Judge
 
 The investigating judge may issue a detention order.
 
-Article 220.- Definition of a Detention Order
+#### Article 220.- Definition of a Detention Order
 
 A detention order is an order to the head of a prison or detention center to receive and detain the charged person.
 
 The investigating judge may only issue a detention order if the charged person is the subject of a provisional detention order.
 
-Article 221.- Mentions to be Included in a Detention Order
+#### Article 221.- Mentions to be Included in a Detention Order
 
 A detention order shall include the following mentions:
 
@@ -2260,7 +2260,7 @@ A detention order shall include the following mentions:
 
 The detention order must be dated, signed and sealed by the investigating judge.
 
-Article 222.- Execution of a Detention Order
+#### Article 222.- Execution of a Detention Order
 
 The head of the prison or detention center must receive and detain the person for whom a detention order is issued until notified of their release. The head of the prison or detention center shall keep the original or a certified copy of the detention order.
 
@@ -2268,7 +2268,7 @@ The head of the prison or detention center must receive and detain the person fo
 
 #### JUDICIAL SUPERVISION
 
-Article 223.- Obligations of Judicial Supervision
+#### Article 223.- Obligations of Judicial Supervision
 
 The investigating judge may place the charged person under judicial supervision at any time, provided the offense alleged is punishable by imprisonment.
 
@@ -2300,11 +2300,11 @@ Judicial supervision consists of an order to the charged person who remains free
 
 For the application of point 12 above, the investigating judge may not prohibit the exercise of an electoral mandate or trade union activities.
 
-Article 224.- Non-application of Judicial Supervision to Minors Under 14 (Fourteen) Years of Age
+#### Article 224.- Non-application of Judicial Supervision to Minors Under 14 (Fourteen) Years of Age
 
 A minor under 14 (fourteen) years of age may not be placed under judicial supervision.
 
-Article 225.- Issuance of Receipts
+#### Article 225.- Issuance of Receipts
 
 In cases provided for in points 6, 9 and 10 of Article 223 (Obligations of Judicial Supervision) above, the charged person shall receive a receipt for the delivery of identity documents, bail, or weapons. The receipt for identity documents must be signed by the clerk.
 
@@ -2314,7 +2314,7 @@ The bail amount shall be deposited in a special account at a bank or kept in a s
 
 Weapons shall be kept in the same secure place as mentioned above.
 
-Article 226.- Order for Judicial Supervision
+#### Article 226.- Order for Judicial Supervision
 
 The investigating judge shall place the charged person under judicial supervision, either on their own motion or upon the final submission of the Royal Prosecutor. The investigating judge shall specify in their order the obligations imposed on the charged person.
 
@@ -2326,7 +2326,7 @@ This order shall be notified as soon as possible to the Royal Prosecutor.
 
 If the investigating judge has not ruled within 5 (five) days, the Royal Prosecutor may appeal by application to the Investigation Chamber, which shall rule in place of the investigating judge.
 
-Article 227.- Modification of Judicial Supervision on the Investigating Judge's Own Motion
+#### Article 227.- Modification of Judicial Supervision on the Investigating Judge's Own Motion
 
 The investigating judge may at any time modify the content of the obligations, cancel them, or add new obligations.
 
@@ -2334,7 +2334,7 @@ The investigating judge may also terminate the judicial supervision.
 
 The investigating judge shall decide by order, which shall be notified as soon as possible to the Royal Prosecutor and to the charged person.
 
-Article 228.- Request for Modification of Judicial Supervision by the Royal Prosecutor
+#### Article 228.- Request for Modification of Judicial Supervision by the Royal Prosecutor
 
 The Royal Prosecutor may request the termination or modification of judicial supervision at any time. The investigating judge shall rule within 5 (five) days. This order shall be notified as soon as possible to the Royal Prosecutor.
 
@@ -2342,7 +2342,7 @@ If the investigating judge has not ruled within this period, the Royal Prosecuto
 
 An order refusing to comply with the request of the Royal Prosecutor must be reasoned.
 
-Article 229.- Request for Modification of Judicial Supervision by the Charged Person
+#### Article 229.- Request for Modification of Judicial Supervision by the Charged Person
 
 The charged person may apply for the termination or modification of judicial supervision at any time. The investigating judge shall immediately transmit the application to the Royal Prosecutor for their opinion and transmit the case file for examination. The investigating judge shall rule within a maximum period of 5 (five) days from the date of transmission of the case file to the Royal Prosecutor. This order shall be notified as soon as possible to the Royal Prosecutor and to the charged person.
 
@@ -2350,7 +2350,7 @@ When a new application for termination or modification of judicial supervision i
 
 If the investigating judge has not ruled within these 5 (five) days, the charged person may appeal directly to the Investigation Chamber, which shall rule in place of the investigating judge.
 
-Article 230.- Release of the Charged Person from Obligations of Judicial Supervision
+#### Article 230.- Release of the Charged Person from Obligations of Judicial Supervision
 
 If the charged person intentionally evades the obligations of judicial supervision, the investigating judge may order their provisional detention, regardless of the duration of the imprisonment sentence incurred, and even if the charged person has already been held in provisional detention for the maximum duration provided by Articles 208 (Duration of Provisional Detention for Felonies) to 210 (Duration of Provisional Detention for Crimes Against Humanity, etc.), and Article 213 (Duration of Provisional Detention for Felonies Involving Minors from 14 (Fourteen) to under 18 (Eighteen) Years of Age).
 
@@ -2370,13 +2370,13 @@ Provisional detention ordered under this article may not exceed 4 (four) months 
 
 #### GENERAL PROVISIONS
 
-Article 231.- Calculation of Time Limits
+#### Article 231.- Calculation of Time Limits
 
 Any time limit provided for in this Title for the performance of an act or formality shall expire on the last day at midnight (24:00). A time limit that would normally expire on a Saturday, Sunday, or public holiday shall be extended until the first working day.
 
 In all cases where the signature of a person is required on any act, the signature may be replaced by a fingerprint if the person is unable to sign.
 
-Article 232.- Methods of Summoning
+#### Article 232.- Methods of Summoning
 
 The charged person who remains free, the civil party, and witnesses shall be summoned by mail, by administrative means, or through a police or Royal Gendarmerie unit.
 
@@ -2384,27 +2384,27 @@ The summons to the charged person shall be sent to the last address declared as 
 
 In case of necessity, the summons may be made by any means.
 
-Article 233.- Summons to the Charged Person Who is Detained
+#### Article 233.- Summons to the Charged Person Who is Detained
 
 The detained charged person shall be summoned through the head of the prison or detention center.
 
-Article 234.- Summons to the Lawyer
+#### Article 234.- Summons to the Lawyer
 
 The lawyer shall be summoned by mail or by administrative means.
 
 In case of necessity, the summons may be made by any means.
 
-Article 235.- Mentions of Summons in the Case File
+#### Article 235.- Mentions of Summons in the Case File
 
 The method and date of the summons shall be recorded in the case file by the clerk.
 
-Article 236.- Notification of Orders to the Lawyer
+#### Article 236.- Notification of Orders to the Lawyer
 
 Whenever an order must be notified to the charged person, the investigating judge shall also notify the lawyer, if the charged person is assisted by one.
 
 Whenever an order must be notified to the civil party, the investigating judge shall also notify the lawyer, if the civil party is assisted by one.
 
-Article 237.- Notification of Orders to the Royal Prosecutor
+#### Article 237.- Notification of Orders to the Royal Prosecutor
 
 Orders of the investigating judge shall be notified orally to the Royal Prosecutor.
 
@@ -2412,7 +2412,7 @@ The clerk shall record the date of the notification on the order. The Royal Pros
 
 The Prosecutor General shall be notified of the investigating judge's orders by the Royal Prosecutor in accordance with the procedures determined by the Prosecutor General.
 
-Article 238.- Notification of Orders to the Charged Person
+#### Article 238.- Notification of Orders to the Charged Person
 
 Orders of the investigating judge shall be notified to the detained charged person as follows:
 
@@ -2432,7 +2432,7 @@ When notification is made orally, the clerk shall record it on the order. The ch
 
 In other cases, notification shall be made by delivery of a copy of the order, with a signed acknowledgment of receipt by the recipient.
 
-Article 239.- Delivery of Summons or Other Orders
+#### Article 239.- Delivery of Summons or Other Orders
 
 Any civil servant, administrative authority, police officer, or Royal Gendarmerie officer requested by the investigating judge to deliver a summons or other order must comply with such request.
 
@@ -2442,7 +2442,7 @@ The person, unit, or authority designated by the investigating judge must delive
 
 #### SPECIAL RULES
 
-Article 240.- Mandatory Mentions in the Investigating Judge's Records
+#### Article 240.- Mandatory Mentions in the Investigating Judge's Records
 
 All records of the investigating judge must include the following:
 
@@ -2462,13 +2462,13 @@ Each page of the record must be signed by the investigating judge and the clerk.
 
 The record shall not contain any blank lines. Erasures or references must be approved by the signatures of the investigating judge and the clerk in the margin.
 
-Article 241.- Signatures on the Record of First Appearance
+#### Article 241.- Signatures on the Record of First Appearance
 
 Each page of the record of the first appearance, as set forth in Article 143 (Notification of Placing under Investigation) of this Code, must be signed in the margin by the investigating judge, the clerk, and the person concerned.
 
 When the charged person gives answers, these answers shall be accurately transcribed into the record.
 
-Article 242.- Rules for Writing Records
+#### Article 242.- Rules for Writing Records
 
 Every interrogation, hearing, or confrontation must be recorded. The record shall accurately reflect the questions and the answers, as well as spontaneous statements.
 
@@ -2482,7 +2482,7 @@ Each page of the record of confrontation must be signed by all persons confronte
 
 Before signing, the charged person, the civil party, or the witness shall read the record. If any person is unable to read, the clerk shall read the record aloud. The interpreter shall translate. If any person refuses to sign, the investigating judge shall record the refusal in the record.
 
-Article 243.- Mandatory Mentions in the Investigating Judge's Orders
+#### Article 243.- Mandatory Mentions in the Investigating Judge's Orders
 
 Every order of the investigating judge must include the following:
 
@@ -2504,7 +2504,7 @@ Each page of the order must be signed by the investigating judge and the clerk.
 
 The order shall not contain any blank lines. Erasures or references must be approved by the signatures of the investigating judge and the clerk in the margin.
 
-Article 244.- Orders of Transmission
+#### Article 244.- Orders of Transmission
 
 When the investigating judge transmits any document of the case file to the Royal Prosecutor for examination, the judge shall issue a transmission order.
 
@@ -2512,7 +2512,7 @@ When the investigating judge transmits the entire case file to the Royal Prosecu
 
 The provisions of Article 243 (Mandatory Mentions in the Investigating Judge's Orders) of this Code shall apply to transmission orders.
 
-Article 245.- Applications Filed by a Lawyer
+#### Article 245.- Applications Filed by a Lawyer
 
 Whenever this Code allows the charged person to file an application with the investigating judge, such application may be filed by the charged person's lawyer.
 
@@ -2524,7 +2524,7 @@ Any application for recovery of seized items by a person who is not a party to t
 
 ## CLOSURE OF THE JUDICIAL INVESTIGATION
 
-Article 246.- Final Submission of the Royal Prosecutor
+#### Article 246.- Final Submission of the Royal Prosecutor
 
 When the investigating judge considers the investigation to be completed, the judge shall inform the Royal Prosecutor, the charged person, the civil party, and the lawyers.
 
@@ -2554,11 +2554,11 @@ If the Royal Prosecutor agrees with the investigating judge that the investigati
 
 ~~The settlement order shall be notified as soon as possible to the Royal Prosecutor, the charged person, and the civil party.~~
 
-Article 248.- Return of Seized Items
+#### Article 248.- Return of Seized Items
 
 In the settlement order, the investigating judge shall rule on the return of seized items to their owners. The provisions of the second paragraph of Article 119 (Authorities Competent to Order the Return of Items to Owners) of this Code shall apply.
 
-Article 249.- Decision on Provisional Detention and Judicial Supervision in a Settlement Order
+#### Article 249.- Decision on Provisional Detention and Judicial Supervision in a Settlement Order
 
 A settlement order terminates provisional detention. In this case, the provisions of Article 276 (Release of the Detained Person) of this Code shall apply.
 
@@ -2572,11 +2572,11 @@ When the investigating judge has required the charged person to deposit bail, to
 
 However, by a separate decision in the settlement order, the investigating judge may keep the charged person under judicial supervision until they appear before the trial court.
 
-Article 250.- Transmission for Trial
+#### Article 250.- Transmission for Trial
 
 If the investigating judge issues an order of transmission for trial, the judge shall immediately transmit the case file to the president of the court to set the date for the trial.
 
-Article 251.- Reopening of Investigation Based on New Charges
+#### Article 251.- Reopening of Investigation Based on New Charges
 
 After a non-suit order of the investigating judge or a non-suit judgment of the Investigation Chamber has become final, if new charges appear, the investigation may be reopened on the application of the Royal Prosecutor.
 
@@ -2584,7 +2584,7 @@ After a non-suit order of the investigating judge or a non-suit judgment of the 
 
 ### NULLITY OF THE INVESTIGATION
 
-Article 252.- Nullity for Non-compliance with Provisions
+#### Article 252.- Nullity for Non-compliance with Provisions
 
 The rules and formalities provided for in the following articles regarding general provisions of the judicial investigation are mandatory and must be complied with, otherwise the proceedings shall be null and void:
 
@@ -2600,7 +2600,7 @@ The rules and formalities provided for in the following articles regarding gener
 
 Nullity shall also be incurred when the violation of a rule or mandatory formality provided for by this Code or by other provisions of criminal procedure harms the interests of the party concerned. Mandatory rules and formalities include those intended to ensure the respect of the rights of the defense.
 
-Article 253.- Appeal to the Investigation Chamber
+#### Article 253.- Appeal to the Investigation Chamber
 
 Only the Investigation Chamber has competence to rule on the nullity of procedural acts.
 
@@ -2614,17 +2614,17 @@ The application provided for in this article shall be recorded at the clerk's of
 
 Orders that may be appealed may not be the subject of a nullity application.
 
-Article 254.- Waiver of the Right to Invoke Nullity
+#### Article 254.- Waiver of the Right to Invoke Nullity
 
 When the violation of a rule or mandatory formality harms the interests of a party, that party may waive the right to invoke the nullity and thereby regularize the procedure. Such waiver must be recorded by the investigating judge. If the party is assisted by a lawyer, the investigating judge shall summon the lawyer.
 
 at least 5 (five) days before the date of recording. During this period, the lawyer may examine the procedural file.
 
-Article 255.- Continuation of Investigation in Case of Nullity Application
+#### Article 255.- Continuation of Investigation in Case of Nullity Application
 
 When the Investigation Chamber is seized of a nullity application, the investigating judge may continue the investigation, unless the president of the Investigation Chamber decides otherwise. This decision is not subject to appeal.
 
-Article 256.- Regularization of Nullity by Settlement Order
+#### Article 256.- Regularization of Nullity by Settlement Order
 
 A final settlement order regularizes any procedural nullities, if any. No nullity of the prior procedure may be raised before the trial court.
 
@@ -2636,13 +2636,13 @@ A final settlement order regularizes any procedural nullities, if any. No nullit
 
 ### GENERAL PROVISIONS
 
-Article 257.- Register of Appeals and Applications
+#### Article 257.- Register of Appeals and Applications
 
 A register of appeals and applications shall be kept at the clerk's office of the Investigation Chamber. Upon receipt of an appeal or application, the clerk of the Investigation Chamber must immediately inform the investigating judge.
 
 When the Investigation Chamber is directly seized by application, the clerk of the Investigation Chamber shall request the clerk of the investigating judge to transmit the procedural file or the duplicate file.
 
-Article 258.- Notification of the Hearing Date
+#### Article 258.- Notification of the Hearing Date
 
 The president of the Investigation Chamber shall examine the file to see if it is in order and then set the date for the hearing. The president of the Investigation Chamber shall orally inform the Prosecutor General of the hearing date.
 
@@ -2666,7 +2666,7 @@ When notification is made orally, the clerk shall record the date of notificatio
 
 In other cases, notification shall be made by delivery of a copy of the order with a signed acknowledgment of receipt.
 
-Article 259.- Consultation of Case File and Submissions
+#### Article 259.- Consultation of Case File and Submissions
 
 The Prosecutor General attached to the Court of Appeal and the lawyers may examine the case file until the hearing begins.
 
@@ -2678,7 +2678,7 @@ Written submissions and arguments shall be initialed by the clerk, dated, and im
 
 The parties and their lawyers are allowed to file arguments until the start of the hearing.
 
-Article 260.- Conduct of the Hearing
+#### Article 260.- Conduct of the Hearing
 
 The hearing shall be held in the deliberation room.
 
@@ -2694,13 +2694,13 @@ The judgment shall be notified orally as soon as possible to the Prosecutor Gene
 
 The judgment shall be notified to the parties and their lawyers as set forth in Article 238 (Notification of Orders to the Charged Person) of this Code.
 
-Article 261.- Review of the Regularity of Proceedings
+#### Article 261.- Review of the Regularity of Proceedings
 
 Whenever it is seized of an appeal, the Investigation Chamber shall review the regularity of the proceedings and their proper conduct.
 
 If the Investigation Chamber finds a cause of nullity, it may on its own motion declare the entire proceeding or any part thereof null and void. The Investigation Chamber shall proceed as set forth in Article 280 (Effects of Nullity) of this Code.
 
-Article 262.- Additional Investigative Acts
+#### Article 262.- Additional Investigative Acts
 
 The Investigation Chamber may order any additional investigative acts that it considers useful.
 
@@ -2755,7 +2755,7 @@ The civil party may appeal against the following orders:
 
 - The order refusing a request to perform an investigating act, as provided for in the second paragraph of
 
-Article 134 (Request to perform a task by the civil party);
+#### Article 134 (Request to perform a task by the civil party);
 
 - The order refusing to investigate as provided for in the fourth paragraph of Article 139 (Forwarding the complaint to the Prosecutor);
 
@@ -5884,7 +5884,7 @@ The Law on the Amendment of Articles 26, 36, 37, and 38 of the Code of Criminal 
 
 #### Article One.-
 
-Article 247 (Closing Order), Article 368 (Time Limit for Opposition), Article 372 (Opposition Filed by a Civil Party or Civil Liable Party), and Article 382 (Time Limit for Appeal by the Convicted Person, Civil Party, and Civil Liable Party) of the Code of Criminal Procedure are amended as follows:
+#### Article 247 (Closing Order), Article 368 (Time Limit for Opposition), Article 372 (Opposition Filed by a Civil Party or Civil Liable Party), and Article 382 (Time Limit for Appeal by the Convicted Person, Civil Party, and Civil Liable Party) of the Code of Criminal Procedure are amended as follows:
 
 **New Article 247.- Closing Order**
 
