@@ -1,6 +1,10 @@
-# Cambodia Law Dataset
+# 🇰🇭 Cambodia Law Dataset
 
-A comprehensive collection of Cambodian laws and legal documents in structured Markdown format. This project aims to make legal information more accessible and machine-readable for researchers, legal professionals, and developers.
+![License](https://img.shields.io/badge/License-GPL%20v2.0-blue.svg)
+![Laws Count](https://img.shields.io/badge/Laws-17-green.svg)
+![Format](https://img.shields.io/badge/Format-Markdown-orange.svg)
+
+A comprehensive, structured collection of Cambodian laws and legal documents. This project transforms official legal texts into machine-readable Markdown, featuring high-quality AI-assisted English translations.
 
 ## Features
 
@@ -23,25 +27,66 @@ dataset/
 
 ## Current Laws
 
-Currently, the following laws are available, categorized by an importance score (0 being the most important, such as the Constitution):
+The dataset is categorized by a priority score (0 being the most critical, such as the Constitution). Click on the links to view the structured Markdown files.
 
-- **[0] The Constitution of the Kingdom of Cambodia (2025) - រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា** - [Khmer](dataset/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025.md) | [English](dataset/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025-en.md)
-- **[1] Civil Code of the Kingdom of Cambodia - ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា** - [Khmer](dataset/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា.md) | [English](dataset/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា-en.md)
-- **[1] Code of Civil Procedure of the Kingdom of Cambodia (2006) - ក្រមនីតិវិធីរដ្ឋប្បវេណី** - [Khmer](dataset/1-code-of-civil-procedure-ក្រមនីតិវិធីរដ្ឋប្បវេណី-2006/1-code-of-civil-procedure-ក្រមនីតិវិធីរដ្ឋប្បវេណី-2006.md) | [English](dataset/1-code-of-civil-procedure-ក្រមនីតិវិធីរដ្ឋប្បវេណី-2006/1-code-of-civil-procedure-ក្រមនីតិវិធីរដ្ឋប្បវេណី-2006-en.md)
-- **[1] Code of Criminal Procedure of the Kingdom of Cambodia (2007) - ក្រមនីតិវិធីព្រហ្មទណ្ឌ** - [Khmer](dataset/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007.md) | [English](dataset/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007-en.md)
-- **[2] Law on the Organization of Courts (2014) - ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ** - [Khmer](dataset/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014.md) | [English](dataset/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014-en.md)
-- **[2] Law on Peaceful Demonstration (2009) - ច្បាប់ស្តីពីការធ្វើបាតុកម្មដោយសន្តិវិធី** - [Khmer](dataset/2-law-on-peaceful-demonstration-ច្បាប់ស្តីពីការធ្វើបាតុកម្មដោយសន្តិវិធី-2009/2-law-on-peaceful-demonstration-ច្បាប់ស្តីពីការធ្វើបាតុកម្មដោយសន្តិវិធី-2009.md) | [English](dataset/2-law-on-peaceful-demonstration-ច្បាប់ស្តីពីការធ្វើបាតុកម្មដោយសន្តិវិធី-2009/2-law-on-peaceful-demonstration-ច្បាប់ស្តីពីការធ្វើបាតុកម្មដោយសន្តិវិធី-2009-en.md)
-- **[2] Law on the Supreme Council of the Magistracy (2014) - ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម** - [Khmer](dataset/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014.md) | [English](dataset/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014-en.md)
-- **[2] Law on the Press Regime (1995) - ច្បាប់ស្តីពីរបបសារព័ត៌មាន** - [Khmer](dataset/2-law-on-press-regime-ច្បាប់_ស្តីពីរបប_សារព័ត៌មាន-1995/2-law-on-press-regime-ច្បាប់_ស្តីពីរបប_សារព័ត៌មាន-1995.md) | [English](dataset/2-law-on-press-regime-ច្បាប់_ស្តីពីរបប_សារព័ត៌មាន-1995/2-law-on-press-regime-ច្បាប់_ស្តីពីរបប_សារព័ត៌មាន-1995-en.md)
-- **[2] Law on the Statute of Judges and Prosecutors (2014) - ច្បាប់ស្តីពីលក្ខន្តិកៈចៅក្រម** - [Khmer](dataset/2-law-on-statute-of-judges-and-prosecutors-ច្បាប់ស្តីពីលក្ខន្តិកៈចៅក្រម-2014/2-law-on-statute-of-judges-and-prosecutors-ច្បាប់ស្តីពីលក្ខន្តិកៈចៅក្រម-2014.md) | [English](dataset/2-law-on-statute-of-judges-and-prosecutors-ច្បាប់ស្តីពីលក្ខន្តិកៈចៅក្រម-2014/2-law-on-statute-of-judges-and-prosecutors-ច្បាប់ស្តីពីលក្ខន្តិកៈចៅក្រម-2014-en.md)
-- **[2] Three Fundamental Laws on Judiciary (2014) - ច្បាប់គោលទាំងបី** - [Khmer](dataset/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី.md) | [English](dataset/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី-en.md)
-- **[3] Law on the Organization and Functioning of the Council of Ministers (2018) - ច្បាប់ស្តីពីការរៀបចំ និងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី** - [Khmer](dataset/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018.md) | [English](dataset/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018-en.md)
-- **[3] Law on Civil Registration, Vital Statistics and Identification (2023) - ច្បាប់ស្តីពីអត្រានុកូលដ្ឋាន ស្ថិតិអត្រានុកូលដ្ឋាន និងអត្តសញ្ញាណកម្ម** - [Khmer](dataset/3-law-on-cvs-id-ច្បាប់ស្តីពីអត្រានុកូលដ្ឋាន-ស្ថិតិអត្រានុកូលដ្ឋាន/3-law-on-cvs-id-ច្បាប់ស្តីពីអត្រានុកូលដ្ឋាន-ស្ថិតិអត្រានុកូលដ្ឋាន.md) | [English](dataset/3-law-on-cvs-id-ច្បាប់ស្តីពីអត្រានុកូលដ្ឋាន-ស្ថិតិអត្រានុកូលដ្ឋាន/3-law-on-cvs-id-ច្បាប់ស្តីពីអត្រានុកូលដ្ឋាន-ស្ថិតិអត្រានុកូលដ្ឋាន-en.md)
-- **[3] Law on Drug Control (2012) - ច្បាប់ស្តីពីការត្រួតពិនិត្យគ្រឿងញៀន** - [Khmer](dataset/3-law-on-drug-control-ច្បាប់ស្តីពីការត្រួតពិនិត្យគ្រឿងញៀន-2012/3-law-on-drug-control-ច្បាប់ស្តីពីការត្រួតពិនិត្យគ្រឿងញៀន-2012.md) | [English](dataset/3-law-on-drug-control-ច្បាប់ស្តីពីការត្រួតពិនិត្យគ្រឿងញៀន-2012/3-law-on-drug-control-ច្បាប់ស្តីពីការត្រួតពិនិត្យគ្រឿងញៀន-2012-en.md)
-- **[3] Law on Investment of the Kingdom of Cambodia (2021) - ច្បាប់ស្តីពីវិនិយោគនៃព្រះរាជាណាចក្រកម្ពុជា** - [Khmer](dataset/3-law-on-investment-ច្បាប់ស្តីពីវិនិយោគនៃព្រះរាជាណាចក្រកម្ពុជា-2021/3-law-on-investment-ច្បាប់ស្តីពីវិនិយោគនៃព្រះរាជាណាចក្រកម្ពុជា-2021.md) | [English](dataset/3-law-on-investment-ច្បាប់ស្តីពីវិនិយោគនៃព្រះរាជាណាចក្រកម្ពុជា-2021/3-law-on-investment-ច្បាប់ស្តីពីវិនិយោគនៃព្រះរាជាណាចក្រកម្ពុជា-2021-en.md)
-- **[3] Law on Nationality (2018) - ច្បាប់ស្តីពីសញ្ជាតិខ្មែរ** - [Khmer](dataset/3-law-on-khmer-nationality-ច្បាប់ស្តីពីសញ្ជាតិខ្មែរ-2018/3-law-on-khmer-nationality-ច្បាប់ស្តីពីសញ្ជាតិខ្មែរ-2018.md) | [English](dataset/3-law-on-khmer-nationality-ច្បាប់ស្តីពីសញ្ជាតិខ្មែរ-2018/3-law-on-khmer-nationality-ច្បាប់ស្តីពីសញ្ជាតិខ្មែរ-2018-en.md)
-- **[3] Law on Nationality and Amendments (2025) - ច្បាប់ស្តីពីសញ្ជាតិ** - [Khmer](dataset/3-law-on-nationality-amendments-ច្បាប់ស្តីពីសញ្ជាតិ-2025/3-law-on-nationality-amendments-ច្បាប់ស្តីពីសញ្ជាតិ-2025.md) | [English](dataset/3-law-on-nationality-amendments-ច្បាប់ស្តីពីសញ្ជាតិ-2025/3-law-on-nationality-amendments-ច្បាប់ស្តីពីសញ្ជាតិ-2025-en.md)
-- **[3] Law on Prisons (2011) - ច្បាប់ស្តីពីពន្ធនាគារ** - [Khmer](dataset/3-law-on-prisons-ច្បាប់ស្តីពន្ធនាគារ-2011/3-law-on-prisons-ច្បាប់ស្តីពន្ធនាគារ-2011.md) | [English](dataset/3-law-on-prisons-ច្បាប់ស្តីពន្ធនាគារ-2011/3-law-on-prisons-ច្បាប់ស្តីពន្ធនាគារ-2011-en.md)
+### 🌟 Priority 0: Constitutional
+- **រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា**  
+  *The Constitution of the Kingdom of Cambodia (2025)*  
+  [Khmer](dataset/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025.md) | [English](dataset/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025-en.md)
+
+### ⚖️ Priority 1: Core Codes
+- **ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា**  
+  *Civil Code of the Kingdom of Cambodia*  
+  [Khmer](dataset/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា.md) | [English](dataset/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា-en.md)
+- **ក្រមនីតិវិធីរដ្ឋប្បវេណី**  
+  *Code of Civil Procedure (2006)*  
+  [Khmer](dataset/1-code-of-civil-procedure-ក្រមនីតិវិធីរដ្ឋប្បវេណី-2006/1-code-of-civil-procedure-ក្រមនីតិវិធីរដ្ឋប្បវេណី-2006.md) | [English](dataset/1-code-of-civil-procedure-ក្រមនីតិវិធីរដ្ឋប្បវេណី-2006/1-code-of-civil-procedure-ក្រមនីតិវិធីរដ្ឋប្បវេណី-2006-en.md)
+- **ក្រមនីតិវិធីព្រហ្មទណ្ឌ**  
+  *Code of Criminal Procedure (2007)*  
+  [Khmer](dataset/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007.md) | [English](dataset/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007-en.md)
+
+### 🏛️ Priority 2: Institutional & Fundamental Laws
+- **ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ**  
+  *Law on the Organization of Courts (2014)*  
+  [Khmer](dataset/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014.md) | [English](dataset/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014-en.md)
+- **ច្បាប់ស្តីពីការធ្វើបាតុកម្មដោយសន្តិវិធី**  
+  *Law on Peaceful Demonstration (2009)*  
+  [Khmer](dataset/2-law-on-peaceful-demonstration-ច្បាប់ស្តីពីការធ្វើបាតុកម្មដោយសន្តិវិធី-2009/2-law-on-peaceful-demonstration-ច្បាប់ស្តីពីការធ្វើបាតុកម្មដោយសន្តិវិធី-2009.md) | [English](dataset/2-law-on-peaceful-demonstration-ច្បាប់ស្តីពីការធ្វើបាតុកម្មដោយសន្តិវិធី-2009/2-law-on-peaceful-demonstration-ច្បាប់ស្តីពីការធ្វើបាតុកម្មដោយសន្តិវិធី-2009-en.md)
+- **ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម**  
+  *Law on the Supreme Council of the Magistracy (2014)*  
+  [Khmer](dataset/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014.md) | [English](dataset/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014/2-law-on-supreme-council-of-magistracy-ច្បាប់ស្តីពីឧត្តមក្រុមប្រឹក្សានៃអង្គចៅក្រម-2014-en.md)
+- **ច្បាប់ស្តីពីរបបសារព័ត៌មាន**  
+  *Law on the Press Regime (1995)*  
+  [Khmer](dataset/2-law-on-press-regime-ច្បាប់_ស្តីពីរបប_សារព័ត៌មាន-1995/2-law-on-press-regime-ច្បាប់_ស្តីពីរបប_សារព័ត៌មាន-1995.md) | [English](dataset/2-law-on-press-regime-ច្បាប់_ស្តីពីរបប_សារព័ត៌មាន-1995/2-law-on-press-regime-ច្បាប់_ស្តីពីរបប_សារព័ត៌មាន-1995-en.md)
+- **ច្បាប់ស្តីពីលក្ខន្តិកៈចៅក្រម និងព្រះរាជអាជ្ញា**  
+  *Law on the Statute of Judges and Prosecutors (2014)*  
+  [Khmer](dataset/2-law-on-statute-of-judges-and-prosecutors-ច្បាប់ស្តីពីលក្ខន្តិកៈចៅក្រម-2014/2-law-on-statute-of-judges-and-prosecutors-ច្បាប់ស្តីពីលក្ខន្តិកៈចៅក្រម-2014.md) | [English](dataset/2-law-on-statute-of-judges-and-prosecutors-ច្បាប់ស្តីពីលក្ខន្តិកៈចៅក្រម-2014/2-law-on-statute-of-judges-and-prosecutors-ច្បាប់ស្តីពីលក្ខន្តិកៈចៅក្រម-2014-en.md)
+- **ច្បាប់គោលទាំងបីពាក់ព័ន្ធនឹងប្រព័ន្ធតុលាការ**  
+  *Three Fundamental Laws on Judiciary (2014)*  
+  [Khmer](dataset/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី.md) | [English](dataset/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី-en.md)
+
+### 📜 Priority 3: Specialized Laws
+- **ច្បាប់ស្តីពីការរៀបចំ និងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី**  
+  *Organization and Functioning of the Council of Ministers (2018)*  
+  [Khmer](dataset/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018.md) | [English](dataset/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018-en.md)
+- **ច្បាប់ស្តីពីអត្រានុកូលដ្ឋាន ស្ថិតិអត្រានុកូលដ្ឋាន និងអត្តសញ្ញាណកម្ម**  
+  *Law on Civil Registration, Vital Statistics and Identification (2023)*  
+  [Khmer](dataset/3-law-on-cvs-id-ច្បាប់ស្តីពីអត្រានុកូលដ្ឋាន-ស្ថិតិអត្រានុកូលដ្ឋាន/3-law-on-cvs-id-ច្បាប់ស្តីពីអត្រានុកូលដ្ឋាន-ស្ថិតិអត្រានុកូលដ្ឋាន.md) | [English](dataset/3-law-on-cvs-id-ច្បាប់ស្តីពីអត្រានុកូលដ្ឋាន-ស្ថិតិអត្រានុកូលដ្ឋាន/3-law-on-cvs-id-ច្បាប់ស្តីពីអត្រានុកូលដ្ឋាន-ស្ថិតិអត្រានុកូលដ្ឋាន-en.md)
+- **ច្បាប់ស្តីពីការត្រួតពិនិត្យគ្រឿងញៀន**  
+  *Law on Drug Control (2012)*  
+  [Khmer](dataset/3-law-on-drug-control-ច្បាប់ស្តីពីការត្រួតពិនិត្យគ្រឿងញៀន-2012/3-law-on-drug-control-ច្បាប់ស្តីពីការត្រួតពិនិត្យគ្រឿងញៀន-2012.md) | [English](dataset/3-law-on-drug-control-ច្បាប់ស្តីពីការត្រួតពិនិត្យគ្រឿងញៀន-2012/3-law-on-drug-control-ច្បាប់ស្តីពីការត្រួតពិនិត្យគ្រឿងញៀន-2012-en.md)
+- **ច្បាប់ស្តីពីវិនិយោគនៃព្រះរាជាណាចក្រកម្ពុជា**  
+  *Law on Investment (2021)*  
+  [Khmer](dataset/3-law-on-investment-ច្បាប់ស្តីពីវិនិយោគនៃព្រះរាជាណាចក្រកម្ពុជា-2021/3-law-on-investment-ច្បាប់ស្តីពីវិនិយោគនៃព្រះរាជាណាចក្រកម្ពុជា-2021.md) | [English](dataset/3-law-on-investment-ច្បាប់ស្តីពីវិនិយោគនៃព្រះរាជាណាចក្រកម្ពុជា-2021/3-law-on-investment-ច្បាប់ស្តីពីវិនិយោគនៃព្រះរាជាណាចក្រកម្ពុជា-2021-en.md)
+- **ច្បាប់ស្តីពីសញ្ជាតិខ្មែរ**  
+  *Law on Nationality (2018)*  
+  [Khmer](dataset/3-law-on-khmer-nationality-ច្បាប់ស្តីពីសញ្ជាតិខ្មែរ-2018/3-law-on-khmer-nationality-ច្បាប់ស្តីពីសញ្ជាតិខ្មែរ-2018.md) | [English](dataset/3-law-on-khmer-nationality-ច្បាប់ស្តីពីសញ្ជាតិខ្មែរ-2018/3-law-on-khmer-nationality-ច្បាប់ស្តីពីសញ្ជាតិខ្មែរ-2018-en.md)
+- **ច្បាប់ស្តីពីសញ្ជាតិ**  
+  *Law on Nationality and Amendments (2025)*  
+  [Khmer](dataset/3-law-on-nationality-amendments-ច្បាប់ស្តីពីសញ្ជាតិ-2025/3-law-on-nationality-amendments-ច្បាប់ស្តីពីសញ្ជាតិ-2025.md) | [English](dataset/3-law-on-nationality-amendments-ច្បាប់ស្តីពីសញ្ជាតិ-2025/3-law-on-nationality-amendments-ច្បាប់ស្តីពីសញ្ជាតិ-2025-en.md)
+- **ច្បាប់ស្តីពីពន្ធនាគារ**  
+  *Law on Prisons (2011)*  
+  [Khmer](dataset/3-law-on-prisons-ច្បាប់ស្តីពន្ធនាគារ-2011/3-law-on-prisons-ច្បាប់ស្តីពន្ធនាគារ-2011.md) | [English](dataset/3-law-on-prisons-ច្បាប់ស្តីពន្ធនាគារ-2011/3-law-on-prisons-ច្បាប់ស្តីពន្ធនាគារ-2011-en.md)
 
 *(Note: File paths may vary slightly based on actual dataset filenames)*
 
