@@ -1,7 +1,7 @@
 # 🇰🇭 Cambodia Law Dataset
 
 ![License](https://img.shields.io/badge/License-GPL%20v2.0-blue.svg)
-![Laws Count](https://img.shields.io/badge/Laws-18-green.svg)
+![Laws Count](https://img.shields.io/badge/Laws-19-green.svg)
 ![Format](https://img.shields.io/badge/Format-Markdown-orange.svg)
 
 A comprehensive, structured collection of Cambodian laws and legal documents. This project transforms official legal texts into machine-readable Markdown, featuring high-quality AI-assisted English translations.
@@ -90,6 +90,9 @@ The dataset is categorized by a priority score (0 being the most critical, such 
 - **ច្បាប់ស្តីពីប្រព័ន្ធហិរញ្ញវត្ថុសាធារណៈ (២០២៣)**  
   *Law on Public Finance System*  
   [Khmer](dataset/3-law-on-public-finance-system-ច្បាប់ស្តីពីប្រព័ន្ធហិរញ្ញវត្ថុសាធារណៈ-2023/3-law-on-public-finance-system-ច្បាប់ស្តីពីប្រព័ន្ធហិរញ្ញវត្ថុសាធារណៈ-2023.md) | [English](dataset/3-law-on-public-finance-system-ច្បាប់ស្តីពីប្រព័ន្ធហិរញ្ញវត្ថុសាធារណៈ-2023/3-law-on-public-finance-system-ច្បាប់ស្តីពីប្រព័ន្ធហិរញ្ញវត្ថុសាធារណៈ-2023-en.md)
+- **ច្បាប់ស្តីពីសារពើពន្ធ (២០២៣)**  
+  *Law on Taxation*  
+  [Khmer](dataset/3-law-on-taxation-ច្បាប់ស្តីពីសារពើពន្ធ-2023/3-law-on-taxation-ច្បាប់ស្តីពីសារពើពន្ធ-2023.md) | [English](dataset/3-law-on-taxation-ច្បាប់ស្តីពីសារពើពន្ធ-2023/3-law-on-taxation-ច្បាប់ស្តីពីសារពើពន្ធ-2023-en.md)
 
 *(Note: File paths may vary slightly based on actual dataset filenames)*
 
