@@ -186,7 +186,11 @@ The key terms used in this Law are defined as follows:
 
 ### Article 4 .-
 
-The Council for the Development of Cambodia, abbreviated as "**CDC**", is established as an executive body that functions as the staff and the "One-Stop Service" of the Royal Government on the mission of leading and managing...
+The Council for the Development of Cambodia (CDC) shall be established
+as an executive body acting as a "Staff Organization" (General Staff)
+and serving as the "One-Stop Service" of the Royal Government for the
+mission of leading and managing development cooperation, private
+investment, and Special Economic Zones.
 
 ### Article 5 .-
 
@@ -445,9 +449,9 @@ In addition to the basic incentives stated in Article 26 of this Law, investment
     c. Construction of accommodation, food courts or reasonably priced canteens, nurseries and other welfare facilities for employees
     d. Modernization of machinery to serve the production line
     e. Provision of welfare promotion for Cambodian employees, such as providing comfortable transportation for employees to travel between their residence and the factory, accommodation, food courts or reasonably priced canteens, nurseries and other welfare facilities.
-    
+
     Wait, the last point "e" is actually "Providing welfare promotion... such as providing comfortable transportation... to travel from residence to factory, accommodation,...". Let's refine.
-    
+
     e. Welfare promotion for Cambodian employees, such as providing comfortable transportation for employees traveling to and from work, accommodation, food courts or reasonably priced canteens, nurseries and other welfare facilities.
 
 3- Income tax exemption for the expansion of a **QIP**, which shall be determined by Sub-Decree.
