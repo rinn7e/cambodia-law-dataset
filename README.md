@@ -1,9 +1,5 @@
 # Cambodia Law Dataset
 
-![License](https://img.shields.io/badge/License-GPL%20v2.0-blue.svg)
-![Laws Count](https://img.shields.io/badge/Laws-20-green.svg)
-![Format](https://img.shields.io/badge/Format-Markdown-orange.svg)
-
 A comprehensive, structured collection of Cambodian laws and legal documents. This project transforms official legal texts into machine-readable Markdown, featuring high-quality AI-assisted English translations.
 
 ## Features
