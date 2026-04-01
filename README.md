@@ -1,7 +1,7 @@
-# 🇰🇭 Cambodia Law Dataset
+# Cambodia Law Dataset
 
 ![License](https://img.shields.io/badge/License-GPL%20v2.0-blue.svg)
-![Laws Count](https://img.shields.io/badge/Laws-19-green.svg)
+![Laws Count](https://img.shields.io/badge/Laws-20-green.svg)
 ![Format](https://img.shields.io/badge/Format-Markdown-orange.svg)
 
 A comprehensive, structured collection of Cambodian laws and legal documents. This project transforms official legal texts into machine-readable Markdown, featuring high-quality AI-assisted English translations.
@@ -29,12 +29,12 @@ dataset/
 
 The dataset is categorized by a priority score (0 being the most critical, such as the Constitution). Click on the links to view the structured Markdown files.
 
-### 🌟 Priority 0: Constitutional
+### Priority 0: Constitutional
 - **រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា (២០២៥)**  
   *The Constitution of the Kingdom of Cambodia*  
   [Khmer](dataset/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025.md) | [English](dataset/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025/0-constitution-of-the-kingdom-of-cambodia-រដ្ឋធម្មនុញ្ញនៃព្រះរាជាណាចក្រកម្ពុជា-2025-en.md)
 
-### ⚖️ Priority 1: Core Codes
+### Priority 1: Core Codes
 - **ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា**  
   *Civil Code of the Kingdom of Cambodia*  
   [Khmer](dataset/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា.md) | [English](dataset/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា/1-civil-code-of-the-kingdom-of-cambodia-ក្រមរដ្ឋប្បវេណីនៃព្រះរាជាណាចក្រកម្ពុជា-en.md)
@@ -45,7 +45,7 @@ The dataset is categorized by a priority score (0 being the most critical, such 
   *Code of Criminal Procedure*  
   [Khmer](dataset/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007.md) | [English](dataset/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007/1-code-of-criminal-procedure-ក្រមនីតិវិធីព្រហ្មទណ្ឌ-2007-en.md)
 
-### 🏛️ Priority 2: Institutional & Fundamental Laws
+### Priority 2: Institutional & Fundamental Laws
 - **ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ (២០១៤)**  
   *Law on the Organization of Courts*  
   [Khmer](dataset/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014.md) | [English](dataset/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014/2-law-on-organization-of-courts-ច្បាប់ស្តីពីការរៀបចំអង្គការតុលាការ-2014-en.md)
@@ -65,7 +65,7 @@ The dataset is categorized by a priority score (0 being the most critical, such 
   *Three Fundamental Laws on Judiciary*  
   [Khmer](dataset/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី.md) | [English](dataset/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី/2-three-fundamental-laws-on-judiciary-ច្បាប់គោលទាំងបី-en.md)
 
-### 📜 Priority 3: Specialized Laws
+### Priority 3: Specialized Laws
 - **ច្បាប់ស្តីពីការរៀបចំ និងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី (២០១៨)**  
   *Organization and Functioning of the Council of Ministers*  
   [Khmer](dataset/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018.md) | [English](dataset/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018/3-law-on-council-of-ministers-ការរៀបចំនិងការប្រព្រឹត្តទៅនៃគណៈរដ្ឋមន្ត្រី-2018-en.md)
@@ -93,6 +93,11 @@ The dataset is categorized by a priority score (0 being the most critical, such 
 - **ច្បាប់ស្តីពីសារពើពន្ធ (២០២៣)**  
   *Law on Taxation*  
   [Khmer](dataset/3-law-on-taxation-ច្បាប់ស្តីពីសារពើពន្ធ-2023/3-law-on-taxation-ច្បាប់ស្តីពីសារពើពន្ធ-2023.md) | [English](dataset/3-law-on-taxation-ច្បាប់ស្តីពីសារពើពន្ធ-2023/3-law-on-taxation-ច្បាប់ស្តីពីសារពើពន្ធ-2023-en.md)
+
+### Priority 4: Environment & Natural Resources
+- **ក្រមបរិស្ថាននិងធនធានធម្មជាតិ (២០២៣)**  
+  *Environment and Natural Resources Code*  
+  [Khmer](dataset/4-environment-and-natural-resources-code-ក្រមបរិស្ថាននិងធនធានធម្មជាតិ-2023/4-environment-and-natural-resources-code-ក្រមបរិស្ថាននិងធនធានធម្មជាតិ-2023.md) | [English](dataset/4-environment-and-natural-resources-code-ក្រមបរិស្ថាននិងធនធានធម្មជាតិ-2023/4-environment-and-natural-resources-code-ក្រមបរិស្ថាននិងធនធានធម្មជាតិ-2023-en.md)
 
 *(Note: File paths may vary slightly based on actual dataset filenames)*
 
