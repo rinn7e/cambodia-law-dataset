@@ -97,6 +97,10 @@ The dataset is categorized by a priority score (0 being the most critical, such 
 - **ក្រមបរិស្ថាននិងធនធានធម្មជាតិ (២០២៣)**
   *Environment and Natural Resources Code*
   [Khmer](dataset/4-environment-and-natural-resources-code-ក្រមបរិស្ថាននិងធនធានធម្មជាតិ-2023/4-environment-and-natural-resources-code-ក្រមបរិស្ថាននិងធនធានធម្មជាតិ-2023.md) | [English](dataset/4-environment-and-natural-resources-code-ក្រមបរិស្ថាននិងធនធានធម្មជាតិ-2023/4-environment-and-natural-resources-code-ក្រមបរិស្ថាននិងធនធានធម្មជាតិ-2023-en.md)
+- **ច្បាប់ស្តីពីការប្រឆាំងហិរញ្ញប្បទានដល់ការរីកសាយភាយអាវុធមហាប្រល័យ (២០២០)**
+  *Law on Combating the Financing of Proliferation of Weapons of Mass Destruction*
+  [Khmer](dataset/4-law-on-anti-proliferation-wmd-financing-ច្បាប់ស្តីពីការប្រឆាំងហិរញ្ញប្បទាន-2020/4-law-on-anti-proliferation-wmd-financing-ច្បាប់ស្តីពីការប្រឆាំងហិរញ្ញប្បទាន-2020.md) | [English](dataset/4-law-on-anti-proliferation-wmd-financing-ច្បាប់ស្តីពីការប្រឆាំងហិរញ្ញប្បទាន-2020/4-law-on-anti-proliferation-wmd-financing-ច្បាប់ស្តីពីការប្រឆាំងហិរញ្ញប្បទាន-2020-en.md)
+
 
 *(Note: File paths may vary slightly based on actual dataset filenames)*
 
