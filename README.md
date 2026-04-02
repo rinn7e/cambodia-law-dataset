@@ -109,6 +109,15 @@ The dataset is categorized by a priority score (0 being the most critical, such 
 - **ច្បាប់ស្តីពីគយ (២០០៧)**
   *Law on Customs*
   [Khmer](dataset/4-law-on-customs-ច្បាប់ស្តីពីគយ-2007/4-law-on-customs-ច្បាប់ស្តីពីគយ-2007.md) | [English](dataset/4-law-on-customs-ច្បាប់ស្តីពីគយ-2007/4-law-on-customs-ច្បាប់ស្តីពីគយ-2007-en.md)
+- **ច្បាប់ស្តីពីពាណិជ្ជកម្មតាមប្រព័ន្ធអេឡិចត្រូនិក (២០១៩)**
+  *Law on E-Commerce*
+  [Khmer](dataset/4-law-on-e-commerce-ច្បាប់ស្តីពីពាណិជ្ជកម្មតាមប្រព័ន្ធអេឡិចត្រូនិក-2019/4-law-on-e-commerce-ច្បាប់ស្តីពីពាណិជ្ជកម្មតាមប្រព័ន្ធអេឡិចត្រូនិក-2019.md) | [English](dataset/4-law-on-e-commerce-ច្បាប់ស្តីពីពាណិជ្ជកម្មតាមប្រព័ន្ធអេឡិចត្រូនិក-2019/4-law-on-e-commerce-ច្បាប់ស្តីពីពាណិជ្ជកម្មតាមប្រព័ន្ធអេឡិចត្រូនិក-2019-en.md)
+- **ច្បាប់ស្តីពីយុត្តិធម៌អនីតិជន (២០១៦)**
+  *Law on Juvenile Justice*
+  [Khmer](dataset/4-law-on-juvenile-justice-ច្បាប់ស្តីពីយុត្តិធម៌អនីតិជន-2016/4-law-on-juvenile-justice-ច្បាប់ស្តីពីយុត្តិធម៌អនីតិជន-2016.md) | [English](dataset/4-law-on-juvenile-justice-ច្បាប់ស្តីពីយុត្តិធម៌អនីតិជន-2016/4-law-on-juvenile-justice-ច្បាប់ស្តីពីយុត្តិធម៌អនីតិជន-2016-en.md)
+- **ច្បាប់ស្តីពីការរៀបចំទឹកដី នគរូបនីយកម្ម និងសំណង់ (១៩៩៤)**
+  *Law on Land Management, Urban Planning and Construction*
+  [Khmer](dataset/4-law-on-land-and-construction-ច្បាប់ស្តីពីការរៀបចំទឹកដី-1994/4-law-on-land-and-construction-ច្បាប់ស្តីពីការរៀបចំទឹកដី-1994.md) | [English](dataset/4-law-on-land-and-construction-ច្បាប់ស្តីពីការរៀបចំទឹកដី-1994/4-law-on-land-and-construction-ច្បាប់ស្តីពីការរៀបចំទឹកដី-1994-en.md)
 
 
 
