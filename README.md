@@ -103,6 +103,13 @@ The dataset is categorized by a priority score (0 being the most critical, such 
 - **ច្បាប់ស្តីពីការប្រកួតប្រជែង (២០២១)**
   *Law on Competition*
   [Khmer](dataset/4-law-on-competition-ច្បាប់ស្តីពីការប្រកួតប្រជែង-2021/4-law-on-competition-ច្បាប់ស្តីពីការប្រកួតប្រជែង-2021.md) | [English](dataset/4-law-on-competition-ច្បាប់ស្តីពីការប្រកួតប្រជែង-2021/4-law-on-competition-ច្បាប់ស្តីពីការប្រកួតប្រជែង-2021-en.md)
+- **ច្បាប់ស្តីពីកិច្ចការពារអ្នកប្រើប្រាស់ (២០១៩)**
+  *Law on Consumer Protection*
+  [Khmer](dataset/4-law-on-consumer-protection-ច្បាប់ស្តីពីកិច្ចការពារអ្នកប្រើប្រាស់-2019/4-law-on-consumer-protection-ច្បាប់ស្តីពីកិច្ចការពារអ្នកប្រើប្រាស់-2019.md) | [English](dataset/4-law-on-consumer-protection-ច្បាប់ស្តីពីកិច្ចការពារអ្នកប្រើប្រាស់-2019/4-law-on-consumer-protection-ច្បាប់ស្តីពីកិច្ចការពារអ្នកប្រើប្រាស់-2019-en.md)
+- **ច្បាប់ស្តីពីគយ (២០០៧)**
+  *Law on Customs*
+  [Khmer](dataset/4-law-on-customs-ច្បាប់ស្តីពីគយ-2007/4-law-on-customs-ច្បាប់ស្តីពីគយ-2007.md) | [English](dataset/4-law-on-customs-ច្បាប់ស្តីពីគយ-2007/4-law-on-customs-ច្បាប់ស្តីពីគយ-2007-en.md)
+
 
 
 *(Note: File paths may vary slightly based on actual dataset filenames)*
