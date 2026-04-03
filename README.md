@@ -118,8 +118,17 @@ The dataset is categorized by a priority score (0 being the most critical, such 
 - **ច្បាប់ស្តីពីការរៀបចំទឹកដី នគរូបនីយកម្ម និងសំណង់ (១៩៩៤)**
   *Law on Land Management, Urban Planning and Construction*
   [Khmer](dataset/4-law-on-land-and-construction-ច្បាប់ស្តីពីការរៀបចំទឹកដី-1994/4-law-on-land-and-construction-ច្បាប់ស្តីពីការរៀបចំទឹកដី-1994.md) | [English](dataset/4-law-on-land-and-construction-ច្បាប់ស្តីពីការរៀបចំទឹកដី-1994/4-law-on-land-and-construction-ច្បាប់ស្តីពីការរៀបចំទឹកដី-1994-en.md)
+- **ច្បាប់ស្តីពីការជួយគ្នាទៅវិញទៅមកផ្នែកច្បាប់ក្នុងវិស័យព្រហ្មទណ្ឌ (២០២០)**
+  *Law on Mutual Legal Assistance in Criminal Matters*
+  [Khmer](dataset/4-law-on-mutual-legal-assistance-ច្បាប់ស្តីពីការជួយគ្នាទៅវិញទៅមក/4-law-on-mutual-legal-assistance-ច្បាប់ស្តីពីការជួយគ្នាទៅវិញទៅមក.md) | [English](dataset/4-law-on-mutual-legal-assistance-ច្បាប់ស្តីពីការជួយគ្នាទៅវិញទៅមក/4-law-on-mutual-legal-assistance-ច្បាប់ស្តីពីការជួយគ្នាទៅវិញទៅមក-en.md)
+- **ច្បាប់ស្តីពីលក្ខន្តិកៈមេធាវី (១៩៩៥)**
+  *Law on the Statute of Lawyers*
+  [Khmer](dataset/4-law-on-statute-of-lawyers-ច្បាប់ស្តីពីលក្ខន្តិកៈមេធាវី-1995/4-law-on-statute-of-lawyers-ច្បាប់ស្តីពីលក្ខន្តិកៈមេធាវី-1995.md) | [English](dataset/4-law-on-statute-of-lawyers-ច្បាប់ស្តីពីលក្ខន្តិកៈមេធាវី-1995/4-law-on-statute-of-lawyers-ច្បាប់ស្តីពីលក្ខន្តិកៈមេធាវី-1995-en.md)
 
-
+### Priority 5: Procedural Laws & Others
+- **ច្បាប់ស្តីពីនីតិវិធីនៃការពិន័យស៊ីវិល (២០០៨)**
+  *Law on Civil Fine Procedure*
+  [Khmer](dataset/5-law-on-civil-fine-procedure-ច្បាប់ស្តីពីនីតិវិធីនៃការពិន័យស៊ីវិល-2008/5-law-on-civil-fine-procedure-ច្បាប់ស្តីពីនីតិវិធីនៃការពិន័យស៊ីវិល-2008.md) | [English](dataset/5-law-on-civil-fine-procedure-ច្បាប់ស្តីពីនីតិវិធីនៃការពិន័យស៊ីវិល-2008/5-law-on-civil-fine-procedure-ច្បាប់ស្តីពីនីតិវិធីនៃការពិន័យស៊ីវិល-2008-en.md)
 
 *(Note: File paths may vary slightly based on actual dataset filenames)*
 
