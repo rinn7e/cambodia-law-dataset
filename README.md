@@ -129,6 +129,22 @@ The dataset is categorized by a priority score (0 being the most critical, such 
 - **ច្បាប់ស្តីពីនីតិវិធីនៃការពិន័យស៊ីវិល (២០០៨)**
   *Law on Civil Fine Procedure*
   [Khmer](dataset/5-law-on-civil-fine-procedure-ច្បាប់ស្តីពីនីតិវិធីនៃការពិន័យស៊ីវិល-2008/5-law-on-civil-fine-procedure-ច្បាប់ស្តីពីនីតិវិធីនៃការពិន័យស៊ីវិល-2008.md) | [English](dataset/5-law-on-civil-fine-procedure-ច្បាប់ស្តីពីនីតិវិធីនៃការពិន័យស៊ីវិល-2008/5-law-on-civil-fine-procedure-ច្បាប់ស្តីពីនីតិវិធីនៃការពិន័យស៊ីវិល-2008-en.md)
+- **ច្បាប់ស្តីពីមជ្ឈត្តការផ្នែកពាណិជ្ជកម្ម (២០០៦)**
+  *Law on Commercial Arbitration*
+  [Khmer](dataset/5-law-on-commercial-arbitration-ច្បាប់ស្តីពីមជ្ឈត្តការផ្នែកពាណិជ្ជកម្ម-2006/5-law-on-commercial-arbitration-ច្បាប់ស្តីពីមជ្ឈត្តការផ្នែកពាណិជ្ជកម្ម-2006.md) | [English](dataset/5-law-on-commercial-arbitration-ច្បាប់ស្តីពីមជ្ឈត្តការផ្នែកពាណិជ្ជកម្ម-2006/5-law-on-commercial-arbitration-ច្បាប់ស្តីពីមជ្ឈត្តការផ្នែកពាណិជ្ជកម្ម-2006-en.md)
+- **ច្បាប់ស្តីពីសំណង់ (២០១៩)**
+  *Law on Construction*
+  [Khmer](dataset/5-law-on-construction-ច្បាប់ស្តីពីសំណង់-2019/5-law-on-construction-ច្បាប់ស្តីពីសំណង់-2019.md) | [English](dataset/5-law-on-construction-ច្បាប់ស្តីពីសំណង់-2019/5-law-on-construction-ច្បាប់ស្តីពីសំណង់-2019-en.md)
+- **ច្បាប់ស្តីពីសិទ្ធិអ្នកនិពន្ធ និងសិទ្ធិប្រហាក់ប្រហែល (២០០៣)**
+  *Law on Copyright and Related Rights*
+  [Khmer](dataset/5-law-on-copyrights-ច្បាប់ស្តីពីសិទ្ធិអ្នកនិពន្ធ-2003/5-law-on-copyrights-ច្បាប់ស្តីពីសិទ្ធិអ្នកនិពន្ធ-2003.md) | [English](dataset/5-law-on-copyrights-ច្បាប់ស្តីពីសិទ្ធិអ្នកនិពន្ធ-2003/5-law-on-copyrights-ច្បាប់ស្តីពីសិទ្ធិអ្នកនិពន្ធ-2003-en.md)
+- **ច្បាប់ស្តីពីការបង្កើតក្រសួងយុត្តិធម៌ (១៩៩៦)**
+  *Law on the Establishment of the Ministry of Justice*
+  [Khmer](dataset/5-law-on-establishment-of-moj-ច្បាប់ស្តីពីការបង្កើតក្រសួងយុត្តិធម៌-1996/5-law-on-establishment-of-moj-ច្បាប់ស្តីពីការបង្កើតក្រសួងយុត្តិធម៌-1996.md) | [English](dataset/5-law-on-establishment-of-moj-ច្បាប់ស្តីពីការបង្កើតក្រសួងយុត្តិធម៌-1996/5-law-on-establishment-of-moj-ច្បាប់ស្តីពីការបង្កើតក្រសួងយុត្តិធម៌-1996-en.md)
+- **ច្បាប់ស្តីពីអស្សាមិករណ៍ (២០១០)**
+  *Law on Expropriation*
+  [Khmer](dataset/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010.md) | [English](dataset/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010-en.md)
+
 
 *(Note: File paths may vary slightly based on actual dataset filenames)*
 
