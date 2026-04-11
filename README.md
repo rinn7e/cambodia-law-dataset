@@ -145,6 +145,10 @@ The dataset is categorized by a priority score (0 being the most critical, such 
   *Law on Expropriation*
   [Khmer](dataset/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010.md) | [English](dataset/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010-en.md)
 
+### Priority 6: Sub-decrees & Regulations
+- **អនុក្រឹត្យលេខ ៤៨ ស្តីពី កម្រិតប្រាក់បៀវត្សជាប់ពន្ធប្រចាំខែ និងកម្រិតប្រាក់ចំណូលជាប់ពន្ធប្រចាំឆ្នាំ (២០២៤)**
+  *Sub-Decree No. 48 on Monthly Salary Tax Thresholds and Annual Income Tax Thresholds*
+  [Khmer](dataset/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤.md) | [English](dataset/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤-en.md)
 
 *(Note: File paths may vary slightly based on actual dataset filenames)*
 
