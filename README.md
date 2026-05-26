@@ -144,6 +144,28 @@ The dataset is categorized by a priority score (0 being the most critical, such 
 - **ច្បាប់ស្តីពីអស្សាមិករណ៍ (២០១០)**
   *Law on Expropriation*
   [Khmer](dataset/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010.md) | [English](dataset/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010/5-law-on-expropriation-ច្បាប់ស្តីពីអស្សាមិករណ៍-2010-en.md)
+- **ច្បាប់ស្តីពីសុវត្ថិភាពម្ហូបអាហារ (២០២២)**
+  *Law on Food Safety*
+  [Khmer](dataset/5-law-on-food-safety-ច្បាប់ស្តីពីសុវត្ថិភាពម្ហូបអាហារ/5-law-on-food-safety-ច្បាប់ស្តីពីសុវត្ថិភាពម្ហូបអាហារ.md) | [English](dataset/5-law-on-food-safety-ច្បាប់ស្តីពីសុវត្ថិភាពម្ហូបអាហារ/5-law-on-food-safety-ច្បាប់ស្តីពីសុវត្ថិភាពម្ហូបអាហារ-en.md)
+- **ច្បាប់ស្តីពីក្ស័យធន (២០០៧)**
+  *Law on Insolvency*
+  [Khmer](dataset/5-law-on-insolvency-ច្បាប់ស្តីពីក្ស័យធន-2007/5-law-on-insolvency-ច្បាប់ស្តីពីក្ស័យធន-2007.md) | [English](dataset/5-law-on-insolvency-ច្បាប់ស្តីពីក្ស័យធន-2007/5-law-on-insolvency-ច្បាប់ស្តីពីក្ស័យធន-2007-en.md)
+- **ច្បាប់ស្តីពីឧបករណ៍អាចជួញដូរបាន និងប្រតិបត្តិការទូទាត់សងប្រាក់ (២០០៥)**
+  *Law on Negotiable Instruments and Payment Transactions*
+  [Khmer](dataset/5-law-on-negotiable-instruments-ច្បាប់ស្តីពីឧបករណ៍់អាចជួញដូរបាន-2005/5-law-on-negotiable-instruments-ច្បាប់ស្តីពីឧបករណ៍់អាចជួញដូរបាន-2005.md) | [English](dataset/5-law-on-negotiable-instruments-ច្បាប់ស្តីពីឧបករណ៍់អាចជួញដូរបាន-2005/5-law-on-negotiable-instruments-ច្បាប់ស្តីពីឧបករណ៍់អាចជួញដូរបាន-2005-en.md)
+- **ច្បាប់ស្តីពីការរៀបចំនិងការប្រព្រឹត្តទៅនៃអាជ្ញាធរសេវាហិរញ្ញវត្ថុមិនមែនធនាគារ (២០២១)**
+  *Law on the Organization and Functioning of the Non-Bank Financial Services Authority*
+  [Khmer](dataset/5-law-on-non-bank-financial-services-ច្បាប់ស្តីពីសេវាហិរញ្ញវត្ថុមិនមែនធនាគារ-2021/5-law-on-non-bank-financial-services-ច្បាប់ស្តីពីសេវាហិរញ្ញវត្ថុមិនមែនធនាគារ-2021.md) | [English](dataset/5-law-on-non-bank-financial-services-ច្បាប់ស្តីពីសេវាហិរញ្ញវត្ថុមិនមែនធនាគារ-2021/5-law-on-non-bank-financial-services-ច្បាប់ស្តីពីសេវាហិរញ្ញវត្ថុមិនមែនធនាគារ-2021-en.md)
+- **ច្បាប់ស្តីពីលទ្ធកម្មសាធារណៈ (២០២៣)**
+  *Law on Public Procurement*
+  [Khmer](dataset/5-law-on-public-procurement-ច្បាប់ស្តីពីលទ្ធកម្មសាធារណៈ-2023/5-law-on-public-procurement-ច្បាប់ស្តីពីលទ្ធកម្មសាធារណៈ-2023.md) | [English](dataset/5-law-on-public-procurement-ច្បាប់ស្តីពីលទ្ធកម្មសាធារណៈ-2023/5-law-on-public-procurement-ច្បាប់ស្តីពីលទ្ធកម្មសាធារណៈ-2023-en.md)
+- **ច្បាប់ស្តីពីចរាចរណ៍ផ្លូវគោក (២០១៧)**
+  *Law on Road Traffic*
+  [Khmer](dataset/5-law-on-road-traffic-ច្បាប់ស្តីពីចរាចរណ៍ផ្លូវគោក-2017/5-law-on-road-traffic-ច្បាប់ស្តីពីចរាចរណ៍ផ្លូវគោក-2017.md) | [English](dataset/5-law-on-road-traffic-ច្បាប់ស្តីពីចរាចរណ៍ផ្លូវគោក-2017/5-law-on-road-traffic-ច្បាប់ស្តីពីចរាចរណ៍ផ្លូវគោក-2017-en.md)
+- **ច្បាប់ស្តីពីផ្លូវថ្នល់ (២០១៤)**
+  *Law on Roads*
+  [Khmer](dataset/5-law-on-roads-ច្បាប់ស្តីពីផ្លូវថ្នល់-2014/5-law-on-roads-ច្បាប់ស្តីពីផ្លូវថ្នល់-2014.md) | [English](dataset/5-law-on-roads-ច្បាប់ស្តីពីផ្លូវថ្នល់-2014/5-law-on-roads-ច្បាប់ស្តីពីផ្លូវថ្នល់-2014-en.md)
+
 
 ### Priority 6: Sub-decrees & Regulations
 - **អនុក្រឹត្យលេខ ៤៨ ស្តីពី កម្រិតប្រាក់បៀវត្សជាប់ពន្ធប្រចាំខែ និងកម្រិតប្រាក់ចំណូលជាប់ពន្ធប្រចាំឆ្នាំ (២០២៤)**
