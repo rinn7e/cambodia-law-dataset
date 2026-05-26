@@ -165,9 +165,39 @@ The dataset is categorized by a priority score (0 being the most critical, such 
 - **ច្បាប់ស្តីពីផ្លូវថ្នល់ (២០១៤)**
   *Law on Roads*
   [Khmer](dataset/5-law-on-roads-ច្បាប់ស្តីពីផ្លូវថ្នល់-2014/5-law-on-roads-ច្បាប់ស្តីពីផ្លូវថ្នល់-2014.md) | [English](dataset/5-law-on-roads-ច្បាប់ស្តីពីផ្លូវថ្នល់-2014/5-law-on-roads-ច្បាប់ស្តីពីផ្លូវថ្នល់-2014-en.md)
+- **ច្បាប់ស្តីពីលក្ខន្តិកៈសមាជិកព្រឹទ្ធសភា (២០០៨)**
+  *Law on Statute of Members of the Senate*
+  [Khmer](dataset/5-law-on-statute-of-senate-ច្បាប់ស្តីពីលក្ខន្តិកៈព្រឹទ្ធសភា-2008/5-law-on-statute-of-senate-ច្បាប់ស្តីពីលក្ខន្តិកៈព្រឹទ្ធសភា-2008.md) | [English](dataset/5-law-on-statute-of-senate-ច្បាប់ស្តីពីលក្ខន្តិកៈព្រឹទ្ធសភា-2008/5-law-on-statute-of-senate-ច្បាប់ស្តីពីលក្ខន្តិកៈព្រឹទ្ធសភា-2008-en.md)
 
 
 ### Priority 6: Sub-decrees & Regulations
+- **ច្បាប់ស្តីពីរបបហិរញ្ញវត្ថុ និងការគ្រប់គ្រងទ្រព្យសម្បត្តិរបស់រដ្ឋបាលថ្នាក់ក្រោមជាតិ (២០១១)**
+  *Law on Financial Regime and Property Management of Sub-National Administrations*
+  [Khmer](dataset/6-financial-regime-sub-national-របបហិរញ្ញវត្ថុ/6-financial-regime-sub-national-របបហិរញ្ញវត្ថុ.md) | [English](dataset/6-financial-regime-sub-national-របបហិរញ្ញវត្ថុ/6-financial-regime-sub-national-របបហិរញ្ញវត្ថុ-en.md)
+- **ច្បាប់ស្តីពីការគ្រប់គ្រងទឹកស្អាត (២០២៣)**
+  *Law on Clean Water Management*
+  [Khmer](dataset/6-law-on-clean-water-management-ច្បាប់ស្តីពីការគ្រប់គ្រងទឹកស្អាត-2023/6-law-on-clean-water-management-ច្បាប់ស្តីពីការគ្រប់គ្រងទឹកស្អាត-2023.md) | [English](dataset/6-law-on-clean-water-management-ច្បាប់ស្តីពីការគ្រប់គ្រងទឹកស្អាត-2023/6-law-on-clean-water-management-ច្បាប់ស្តីពីការគ្រប់គ្រងទឹកស្អាត-2023-en.md)
+- **ច្បាប់ស្តីពីជលផល (២០០៦)**
+  *Law on Fisheries*
+  [Khmer](dataset/6-law-on-fisheries-ច្បាប់ស្តីពីជលផល-2025/6-law-on-fisheries-ច្បាប់ស្តីពីជលផល-2025.md) | [English](dataset/6-law-on-fisheries-ច្បាប់ស្តីពីជលផល-2025/6-law-on-fisheries-ច្បាប់ស្តីពីជលផល-2025-en.md)
+- **ច្បាប់ស្តីពីព្រៃឈើ (២០០២)**
+  *Law on Forestry*
+  [Khmer](dataset/6-law-on-forestry-ច្បាប់ស្តីពីព្រៃឈើ-2002/6-law-on-forestry-ច្បាប់ស្តីពីព្រៃឈើ-2002.md) | [English](dataset/6-law-on-forestry-ច្បាប់ស្តីពីព្រៃឈើ-2002/6-law-on-forestry-ច្បាប់ស្តីពីព្រៃឈើ-2002-en.md)
+- **ច្បាប់ស្តីពីម៉ាកសម្គាល់ភូមិសាស្ត្រទំនិញ (២០១៤)**
+  *Law on Geographical Indications*
+  [Khmer](dataset/6-law-on-geographical-indications-ច្បាប់ស្តីពីម៉ាកសម្គាល់ភូមិសាស្រ្តទំនិញ-2014/6-law-on-geographical-indications-ច្បាប់ស្តីពីម៉ាកសម្គាល់ភូមិសាស្រ្តទំនិញ-2014.md) | [English](dataset/6-law-on-geographical-indications-ច្បាប់ស្តីពីម៉ាកសម្គាល់ភូមិសាស្រ្តទំនិញ-2014/6-law-on-geographical-indications-ច្បាប់ស្តីពីម៉ាកសម្គាល់ភូមិសាស្រ្តទំនិញ-2014-en.md)
+- **ច្បាប់ស្តីពីមូលបត្ររដ្ឋ (២០២០)**
+  *Law on Government Securities*
+  [Khmer](dataset/6-law-on-government-securities-ច្បាប់ស្តីពីមូលបត្ររដ្ឋ-2020/6-law-on-government-securities-ច្បាប់ស្តីពីមូលបត្ររដ្ឋ-2020.md) | [English](dataset/6-law-on-government-securities-ច្បាប់ស្តីពីមូលបត្ររដ្ឋ-2020/6-law-on-government-securities-ច្បាប់ស្តីពីមូលបត្ររដ្ឋ-2020-en.md)
+- **ច្បាប់ស្តីពីការគ្រប់គ្រងប្រេងកាត និងផលិតផលប្រេងកាត (២០១៩)**
+  *Law on Management of Petroleum and Petroleum Products*
+  [Khmer](dataset/6-law-on-petroleum-mgmt-ច្បាប់ស្តីពីការគ្រប់គ្រងប្រេងកាត-2019/6-law-on-petroleum-mgmt-ច្បាប់ស្តីពីការគ្រប់គ្រងប្រេងកាត-2019.md) | [English](dataset/6-law-on-petroleum-mgmt-ច្បាប់ស្តីពីការគ្រប់គ្រងប្រេងកាត-2019/6-law-on-petroleum-mgmt-ច្បាប់ស្តីពីការគ្រប់គ្រងប្រេងកាត-2019-en.md)
+- **ច្បាប់ស្តីពីវិធានដើមកំណើតទំនិញ (២០២៣)**
+  *Law on Rules of Origin*
+  [Khmer](dataset/6-law-on-rules-of-origin-ច្បាប់ស្តីពីវិធានដើមកំណើតទំនិញ-2023/6-law-on-rules-of-origin-ច្បាប់ស្តីពីវិធានដើមកំណើតទំនិញ-2023.md) | [English](dataset/6-law-on-rules-of-origin-ច្បាប់ស្តីពីវិធានដើមកំណើតទំនិញ-2023/6-law-on-rules-of-origin-ច្បាប់ស្តីពីវិធានដើមកំណើតទំនិញ-2023-en.md)
+- **ច្បាប់ស្តីពីទេសចរណ៍ (២០០៩)**
+  *Law on Tourism*
+  [Khmer](dataset/6-law-on-tourism-ច្បាប់ស្តីពីទេសចរណ៍-2009/6-law-on-tourism-ច្បាប់ស្តីពីទេសចរណ៍-2009.md) | [English](dataset/6-law-on-tourism-ច្បាប់ស្តីពីទេសចរណ៍-2009/6-law-on-tourism-ច្បាប់ស្តីពីទេសចរណ៍-2009-en.md)
 - **អនុក្រឹត្យលេខ ៤៨ ស្តីពី កម្រិតប្រាក់បៀវត្សជាប់ពន្ធប្រចាំខែ និងកម្រិតប្រាក់ចំណូលជាប់ពន្ធប្រចាំឆ្នាំ (២០២៤)**
   *Sub-Decree No. 48 on Monthly Salary Tax Thresholds and Annual Income Tax Thresholds*
   [Khmer](dataset/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤.md) | [English](dataset/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤-en.md)
