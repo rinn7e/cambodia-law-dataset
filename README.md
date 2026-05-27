@@ -198,9 +198,38 @@ The dataset is categorized by a priority score (0 being the most critical, such 
 - **ច្បាប់ស្តីពីទេសចរណ៍ (២០០៩)**
   *Law on Tourism*
   [Khmer](dataset/6-law-on-tourism-ច្បាប់ស្តីពីទេសចរណ៍-2009/6-law-on-tourism-ច្បាប់ស្តីពីទេសចរណ៍-2009.md) | [English](dataset/6-law-on-tourism-ច្បាប់ស្តីពីទេសចរណ៍-2009/6-law-on-tourism-ច្បាប់ស្តីពីទេសចរណ៍-2009-en.md)
+- **ច្បាប់ស្តីពីឧបាស្រ័យពាណិជ្ជកម្ម (២០១៧)**
+  *Law on Trade Remedies*
+  [Khmer](dataset/6-law-on-trade-remedies-ច្បាប់ស្តីពីឧបាស្រ័យពាណិជ្ជកម្ម-2017/6-law-on-trade-remedies-ច្បាប់ស្តីពីឧបាស្រ័យពាណិជ្ជកម្ម-2017.md) | [English](dataset/6-law-on-trade-remedies-ច្បាប់ស្តីពីឧបាស្រ័យពាណិជ្ជកម្ម-2017/6-law-on-trade-remedies-ច្បាប់ស្តីពីឧបាស្រ័យពាណិជ្ជកម្ម-2017-en.md)
+- **ច្បាប់ស្តីពីបរធនបាលកិច្ច (២០១៩)**
+  *Law on Trusts*
+  [Khmer](dataset/6-law-on-trusts-ច្បាប់ស្តីពីបរធនបាលកិច្ច-2019/6-law-on-trusts-ច្បាប់ស្តីពីបរធនបាលកិច្ច-2019.md) | [English](dataset/6-law-on-trusts-ច្បាប់ស្តីពីបរធនបាលកិច្ច-2019/6-law-on-trusts-ច្បាប់ស្តីពីបរធនបាលកិច្ច-2019-en.md)
+- **អនុក្រឹត្យ លេខ ១៣០ ស្តីពីការរៀបចំ និងការប្រព្រឹត្តទៅនៃក្រសួងយុត្តិធម៌**
+  *Sub-Decree No. 130 on the Organization and Functioning of the Ministry of Justice*
+  [Khmer](dataset/6-sub-decree-130-moj-អនុក្រឹត្យលេខ១៣០-ក្រសួងយុត្តិធម៌/6-sub-decree-130-moj-អនុក្រឹត្យលេខ១៣០-ក្រសួងយុត្តិធម៌.md) | [English](dataset/6-sub-decree-130-moj-អនុក្រឹត្យលេខ១៣០-ក្រសួងយុត្តិធម៌/6-sub-decree-130-moj-អនុក្រឹត្យលេខ១៣០-ក្រសួងយុត្តិធម៌-en.md)
 - **អនុក្រឹត្យលេខ ៤៨ ស្តីពី កម្រិតប្រាក់បៀវត្សជាប់ពន្ធប្រចាំខែ និងកម្រិតប្រាក់ចំណូលជាប់ពន្ធប្រចាំឆ្នាំ (២០២៤)**
   *Sub-Decree No. 48 on Monthly Salary Tax Thresholds and Annual Income Tax Thresholds*
   [Khmer](dataset/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤.md) | [English](dataset/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤-en.md)
+
+### Priority 7: Sectoral & Specialized Regulations
+- **ច្បាប់ស្តីពីការដឹកជញ្ជូនតាមផ្លូវទឹក (២០២៤)**
+  *Law on Waterway Transport*
+  [Khmer](dataset/7-law-on-inland-waterway-ច្បាប់ស្តីពីការដឹកជញ្ជូនតាមផ្លូវទឹក-2024/7-law-on-inland-waterway-ច្បាប់ស្តីពីការដឹកជញ្ជូនតាមផ្លូវទឹក-2024.md) | [English](dataset/7-law-on-inland-waterway-ច្បាប់ស្តីពីការដឹកជញ្ជូនតាមផ្លូវទឹក-2024/7-law-on-inland-waterway-ច្បាប់ស្តីពីការដឹកជញ្ជូនតាមផ្លូវទឹក-2024-en.md)
+- **ច្បាប់ស្តីពីការគ្រប់គ្រងល្បែងពាណិជ្ជកម្ម (២០២០)**
+  *Law on the Management of Commercial Gambling*
+  [Khmer](dataset/7-law-on-mgmt-commercial-gambling-ច្បាបស្តីពីការគ្រប់គ្រងល្បែងពាណិជ្ជកម្ម-2020/7-law-on-mgmt-commercial-gambling-ច្បាបស្តីពីការគ្រប់គ្រងល្បែងពាណិជ្ជកម្ម-2020.md) | [English](dataset/7-law-on-mgmt-commercial-gambling-ច្បាបស្តីពីការគ្រប់គ្រងល្បែងពាណិជ្ជកម្ម-2020/7-law-on-mgmt-commercial-gambling-ច្បាបស្តីពីការគ្រប់គ្រងល្បែងពាណិជ្ជកម្ម-2020-en.md)
+- **ច្បាប់ស្តីពីការការពាររុក្ខជាតិ និងភូតគាមអនាម័យ (២០២២)**
+  *Law on Plant Protection and Phytosanitary*
+  [Khmer](dataset/7-law-on-plant-protection-ច្បាប់ស្តីពីការការពាររុក្ខជាតិ-2022/7-law-on-plant-protection-ច្បាប់ស្តីពីការការពាររុក្ខជាតិ-2022.md) | [English](dataset/7-law-on-plant-protection-ច្បាប់ស្តីពីការការពាររុក្ខជាតិ-2022/7-law-on-plant-protection-ច្បាប់ស្តីពីការការពាររុក្ខជាតិ-2022-en.md)
+- **ច្បាប់ស្តីពីប្រព័ន្ធទឹកកខ្វក់ (២០២៤)**
+  *Law on Sewage System*
+  [Khmer](dataset/7-law-on-sewage-system-ច្បាប់ស្តីពីប្រព័ន្ធទឹកកខ្វក់-2024/7-law-on-sewage-system-ច្បាប់ស្តីពីប្រព័ន្ធទឹកកខ្វក់-2024.md) | [English](dataset/7-law-on-sewage-system-ច្បាប់ស្តីពីប្រព័ន្ធទឹកកខ្វក់-2024/7-law-on-sewage-system-ច្បាប់ស្តីពីប្រព័ន្ធទឹកកខ្វក់-2024-en.md)
+- **ច្បាប់ស្តីពីការគ្រប់គ្រងអាស៊ីដខ្លាំង (២០១១)**
+  *Law on the Management of Strong Acid*
+  [Khmer](dataset/7-law-on-strong-acid-ច្បាប់ស្តីពីការគ្រប់គ្រងអាស៊ីដខ្លាំង/7-law-on-strong-acid-ច្បាប់ស្តីពីការគ្រប់គ្រងអាស៊ីដខ្លាំង.md) | [English](dataset/7-law-on-strong-acid-ច្បាប់ស្តីពីការគ្រប់គ្រងអាស៊ីដខ្លាំង/7-law-on-strong-acid-ច្បាប់ស្តីពីការគ្រប់គ្រងអាស៊ីដខ្លាំង-en.md)
+- **ច្បាប់ស្តីពីការបង្ក្រាបល្បែងស៊ីសង (១៩៩៦)**
+  *Law on Suppression of Gambling*
+  [Khmer](dataset/7-law-on-suppression-of-gambling-ច្បាប់ស្តីពីការបង្រ្កាបល្បែងស៊ីសង-1996/7-law-on-suppression-of-gambling-ច្បាប់ស្តីពីការបង្រ្កាបល្បែងស៊ីសង-1996.md) | [English](dataset/7-law-on-suppression-of-gambling-ច្បាប់ស្តីពីការបង្រ្កាបល្បែងស៊ីសង-1996/7-law-on-suppression-of-gambling-ច្បាប់ស្តីពីការបង្រ្កាបល្បែងស៊ីសង-1996-en.md)
 
 *(Note: File paths may vary slightly based on actual dataset filenames)*
 
@@ -220,9 +249,92 @@ The primary source for the laws in this dataset is the [Ministry of Justice (MoJ
 
 The content provided in this dataset is for **educational and research purposes only**. It does not constitute legal advice. While every effort has been made to ensure the accuracy of the conversions and translations, you should always consult official government sources and qualified legal professionals for official legal matters.
 
-## Contribution
+## Future Roadmap (Vision)
 
-Contributions are welcome! If you find any errors in existing documents or have laws you'd like to add in Markdown format, please feel free to submit a pull request.
+The long-term goal of this project is to become a **complete, exhaustive, and searchable legal archive** for the Kingdom of Cambodia.
+
+### Target Coverage (Estimates)
+To achieve true searchability, the archive plans to capture the full scale of Cambodia's modern legal framework:
+- **Laws & Codes (Chbab - ច្បាប់)**: ~350 - 500 documents (encompassing all primary legislation since 1993).
+- **Sub-Decrees (Anukret - អនុក្រឹត្យ)**: ~2,000 - 4,000+ documents (addressing operational regulations and governmental structure).
+- **Ministerial Regulations (Prakas - ប្រកាស)**: ~10,000 - 20,000+ documents (covering ministerial instructions, guidelines, and specific sectoral directives).
+
+### Zero-Loss Searchability
+- Developing a fast, local indexing system so researchers and lawyers can search across all Khmer and English translated texts.
+- Creating term glossaries to link Khmer legal jargon directly to their standardized English equivalents.
+
+### Project Completion Timelines (Estimates)
+Depending on the processing pace (OCR conversion, MD formatting, and translation verification), here is how long compiling the archive will take:
+
+| Milestone / Dataset Scope | Total Docs | At 10 docs/day | At 100 docs/day |
+|---|---|---|---|
+| **Practical "Big Picture"** (Core Codes & Laws) | ~100 | ~10 days (0.03 years) | ~1 day |
+| **Comprehensive Core** (Primary Laws & Main Sub-decrees) | ~1,000 | ~100 days (0.27 years) | ~10 days |
+| **Full Legislative + Sub-Decree Archive** (All Laws + Sub-decrees) | ~4,500 | ~450 days (1.23 years) | ~45 days (0.12 years) |
+| **The Ultimate Exhaustive Archive** (All Laws, Sub-decrees & Prakas) | ~25,000 | ~2,500 days (6.85 years) | ~250 days (0.68 years) |
+
+
+### Sourcing Original Documents (Tips & Tricks)
+
+When searching for original Khmer PDF versions of laws, sub-decrees, or Prakas to expand the archive, the following methods are recommended:
+
+1. **The Royal Gazette (Raza Kret - រាជកិច្ច)**
+   - The absolute source of truth. Every law, decree, and sub-decree must be published here to become legally active. 
+   - Search the digital archives of the **Council of Ministers (Sodi)** or official Gazette libraries.
+
+2. **Official Ministry Portals & Decentralization**
+   - **Ministry of Justice (MoJ)**: Best for core codes and judicial organization laws.
+   - **Ministry of Economy and Finance (MEF)**: Excellent for taxation laws, Prakas on financial thresholds, and public procurement.
+   - **Council for the Development of Cambodia (CDC)**: Great for investment laws and related sub-decrees.
+   - **Ministry-Specific Sourcing**: Many regulatory documents (especially *Prakas*, circulars, and guidelines) are **decentralized** and published *only* on the website of the specific issuing ministry.
+   - **Social Media & Telegram**: Official ministry Facebook pages and Telegram channels are active sources where scanned PDFs of new Prakas are first released.
+   
+### Key Ministries to Monitor (28 Ministries)
+To locate sector-specific regulations (especially Prakas), you must search the portals of the corresponding ministries:
+1. **Office of the Council of Ministers (OCM - ទីស្តីការគណៈរដ្ឋមន្ត្រី)**: The central cabinet body, responsible for overall coordination and housing the main database of laws and sub-decrees.
+2. **Ministry of Interior (MoI - ក្រសួងមហាផ្ទៃ)**: Oversees national security, police, administration, civil registry, and sub-national governance.
+3. **Ministry of National Defense (MoND - ក្រសួងការពារជាតិ)**: Manages military regulations, national security directives, and defense sector administrative rules.
+4. **Ministry of Foreign Affairs and International Cooperation (MFAIC - ក្រសួងការបរទេសនិងសហប្រតិបត្តិការអន្តរជាតិ)**: Deals with treaties, international agreements, diplomatic protocols, and visa regulations.
+5. **Ministry of Economy and Finance (MEF - ក្រសួងសេដ្ឋកិច្ចនិងហិរញ្ញវត្ថុ)**: Issues all rules on taxation, custom duties, state property, and budget management.
+6. **Ministry of Information (MoInfo - ក្រសួងព័ត៌មាន)**: Regulates media licensing, TV/radio broadcasting guidelines, and publication standards.
+7. **Ministry of Health (MoH - ក្រសួងសុខាភិបាល)**: Handles pharmacy licensing, food safety regulations, and public health directives.
+8. **Ministry of Industry, Science, Technology and Innovation (MISTI - ក្រសួងឧស្សាហកម្ម វិទ្យាសាស្ត្រ បច្ចេកវិទ្យា និងនវានុវត្តន៍)**: Oversees factory licensing, national product standards (ISC), patents, utility models, and clean water utilities.
+9. **Ministry of Mines and Energy (MME - ក្រសួងរ៉ែនិងថាមពល)**: Regulates mining licenses, oil and gas, electricity rules, and utility licensing.
+10. **Ministry of Planning (MoP - ក្រសួងផែនការ)**: Governs national census data, economic surveys, and national strategic planning.
+11. **Ministry of Commerce (MoC - ក្រសួងពាណិជ្ជកម្ម)**: Deals with business registration, trade rules, e-commerce, and intellectual property.
+12. **Ministry of Education, Youth and Sport (MoEYS - ក្រសួងអប់រំ យុវជន និងកីឡា)**: Establishes school standards, university licensing, and educational curriculum guidelines.
+13. **Ministry of Agriculture, Forestry and Fisheries (MAFF - ក្រសួងកសិកម្ម)**: Regulates forestry protection, fishing rights, and agriculture.
+14. **Ministry of Culture and Fine Arts (MCFA - ក្រសួងវប្បធម៌និងវិចិត្រសិល្បៈ)**: Regulates heritage sites, cultural property, archaeological management, and filming permissions.
+15. **Ministry of Environment (MoE - ក្រសួងបរិស្ថាន)**: Manages natural resources, protected areas, and environmental impact assessments (EIA).
+16. **Ministry of Rural Development (MRD - ក្រសួងអភិវឌ្ឍន៍ជនបទ)**: Directs clean water supply in rural zones, rural road infrastructure, and ethnic minority guidelines.
+17. **Ministry of Social Affairs, Veterans and Youth Rehabilitation (MoSVY - ក្រសួងសង្គមកិច្ច អតីតយុទ្ធជន និងយុវនីតិសម្បទា)**: Governs social security benefits, state pensions, disability rights, and orphanage standards.
+18. **Ministry of Land Management, Urban Planning and Construction (MLMUPC - ក្រសួងរៀបចំដែនដី)**: Handles land titles, zoning laws, building permits, and construction standards.
+19. **Ministry of Water Resources and Meteorology (MOWRAM - ក្រសួងធនធានទឹកនិងឧតុនិយម)**: Manages water resources, irrigation infrastructure, and weather/meteorological reporting.
+20. **Ministry of Religions and Cults (MRC - ក្រសួងធម្មការនិងសាសនា)**: Oversees Buddhist monk organization, religious structures, and directives for non-Buddhist religious groups.
+21. **Ministry of Women's Affairs (MoWA - ក្រសួងកិច្ចការនារី)**: Coordinates gender equality policies and social programs supporting women.
+22. **Ministry of Civil Service (MCS - ក្រសួងមុខងារសាធារណៈ)**: Sets administrative policies for civil servants and manages public administration reforms.
+23. **Ministry of Public Works and Transport (MPWT - ក្រសួងសាធារណការ)**: Handles road traffic laws, transport licenses, and infrastructure rules.
+24. **Ministry of Justice (MoJ - ក្រសួងយុត្តិធម៌)**: The primary judicial executive body, dealing with laws, court administration, prosecutors, and official legal forms.
+25. **Ministry of Labor and Vocational Training (MoLVT - ក្រសួងការងារ)**: Regulates employment, unions, labor disputes, and foreign work permits.
+26. **Ministry of Tourism (MoT - ក្រសួងទេសចរណ៍)**: Governs tourism licenses, hotels, tour guide certifications, and casino zone rules.
+27. **Ministry of Posts and Telecommunications (MPTC - ក្រសួងប្រៃសណីយ៍)**: Issues rules on telecom, internet service providers (ISPs), and data privacy/technology.
+28. **Ministry of Inspection (MoI - ក្រសួងអធិការកិច្ច)**: (Formerly MONASRI) Coordinates legal relationships and conducts inspections regarding corruption and administrative efficiency.
+
+### Key State Secretariats (Ministerial Level Authority)
+- **State Secretariat of Civil Aviation (SSCA - រដ្ឋលេខាធិការដ្ឋានអាកាសចរស៊ីវិល)**: Handles aviation security, airport operational guidelines, and airline licensing.
+- **State Secretariat of Border Affairs (SSBA - រដ្ឋលេខាធិការដ្ឋានកិច្ចការព្រំដែន)**: Manages national border agreements and mapping directives.
+
+
+
+### Smart Search Queries (Khmer Keywords)
+- When searching via Google, always include specific Khmer prefixes alongside the year or law number to filter out noise:
+  - For Laws: `ច្បាប់ស្តីពី...` (Law on...)
+  - For Sub-decrees: `អនុក្រឹត្យលេខ...` (Sub-decree No...)
+  - For Prakas: `ប្រកាសលេខ...` (Prakas No...)
+  - Combine with `filetype:pdf` for direct document links.
+
+### Legal Portals & Databases
+- Check digital law compilations such as the **Sastra Co.** database, **ODC (Open Development Cambodia)**, or the **Bar Association of Cambodia** for scanned archives.
 
 ## License
 
