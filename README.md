@@ -207,6 +207,9 @@ The dataset is categorized by a priority score (0 being the most critical, such 
 - **អនុក្រឹត្យ លេខ ១៣០ ស្តីពីការរៀបចំ និងការប្រព្រឹត្តទៅនៃក្រសួងយុត្តិធម៌**
   *Sub-Decree No. 130 on the Organization and Functioning of the Ministry of Justice*
   [Khmer](dataset/6-sub-decree-130-moj-អនុក្រឹត្យលេខ១៣០-ក្រសួងយុត្តិធម៌/6-sub-decree-130-moj-អនុក្រឹត្យលេខ១៣០-ក្រសួងយុត្តិធម៌.md) | [English](dataset/6-sub-decree-130-moj-អនុក្រឹត្យលេខ១៣០-ក្រសួងយុត្តិធម៌/6-sub-decree-130-moj-អនុក្រឹត្យលេខ១៣០-ក្រសួងយុត្តិធម៌-en.md)
+- **អនុក្រឹត្យលេខ ១២៦ ស្តីពីការគ្រប់គ្រង និងប្រើប្រាស់អគារសហកម្មសិទ្ធិ (២០០៩)**
+  *Sub-Decree No. 126 on Management and Use of Co-Owned Buildings*
+  [Khmer](dataset/6-sub-decree-126-co-owner-building-management-អនុក្រឹត្យលេខ១២៦-២០០៩/6-sub-decree-126-co-owner-building-management-អនុក្រឹត្យលេខ១២៦-២០០៩.md) | [English](dataset/6-sub-decree-126-co-owner-building-management-អនុក្រឹត្យលេខ១២៦-២០០៩/6-sub-decree-126-co-owner-building-management-អនុក្រឹត្យលេខ១២៦-២០០៩-en.md)
 - **អនុក្រឹត្យលេខ ៤៨ ស្តីពី កម្រិតប្រាក់បៀវត្សជាប់ពន្ធប្រចាំខែ និងកម្រិតប្រាក់ចំណូលជាប់ពន្ធប្រចាំឆ្នាំ (២០២៤)**
   *Sub-Decree No. 48 on Monthly Salary Tax Thresholds and Annual Income Tax Thresholds*
   [Khmer](dataset/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤.md) | [English](dataset/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤/6-sub-decree-48-salary-tax-thresholds-អនុក្រឹត្យលេខ៤៨-២០២៤-en.md)
