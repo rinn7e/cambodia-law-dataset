@@ -1,5 +1,7 @@
 # Cambodia Law Dataset
 
+[![AI-DECLARATION: assist](https://img.shields.io/badge/䷼%20AI--DECLARATION-assist-fef9c3?labelColor=fef9c3)](AI-DECLARATION.md)
+
 A comprehensive, structured collection of Cambodian laws and legal documents. This project transforms official legal texts into machine-readable Markdown, featuring high-quality AI-assisted English translations.
 
 ## Features
@@ -338,6 +340,11 @@ To locate sector-specific regulations (especially Prakas), you must search the p
 
 ### Legal Portals & Databases
 - Check digital law compilations such as the **Sastra Co.** database, **ODC (Open Development Cambodia)**, or the **Bar Association of Cambodia** for scanned archives.
+
+## AI declaration
+
+This project declares its AI usage in [AI-DECLARATION.md](AI-DECLARATION.md), following the
+[AI-DECLARATION.md](https://ai-declaration.md) standard (level: `assist`).
 
 ## License
 
